@@ -1,0 +1,4463 @@
+Year,WHO region,"Countries, territories and areas",Numeric
+2000,Eastern Mediterranean,Afghanistan,4100.0
+2000,Europe,Albania,200.0
+2000,Africa,Algeria,2800.0
+2000,Europe,Andorra,11281.666666666666
+2000,Africa,Angola,120000.0
+2000,Americas,Antigua and Barbuda,41118.51851851852
+2000,Americas,Argentina,41118.51851851852
+2000,Europe,Armenia,200.0
+2000,Western Pacific,Australia,12000.0
+2000,Europe,Austria,11281.666666666666
+2000,Europe,Azerbaijan,2800.0
+2000,Americas,Bahamas,4000.0
+2000,Eastern Mediterranean,Bahrain,3717.777777777778
+2000,South-East Asia,Bangladesh,1200.0
+2000,Americas,Barbados,1600.0
+2000,Europe,Belarus,2100.0
+2000,Europe,Belgium,7200.0
+2000,Americas,Belize,1500.0
+2000,Africa,Benin,63000.0
+2000,South-East Asia,Bhutan,500.0
+2000,Americas,Bolivia (Plurinational State of),13000.0
+2000,Europe,Bosnia and Herzegovina,11281.666666666666
+2000,Africa,Botswana,270000.0
+2000,Americas,Brazil,340000.0
+2000,Western Pacific,Brunei Darussalam,28480.0
+2000,Europe,Bulgaria,1300.0
+2000,Africa,Burkina Faso,140000.0
+2000,Africa,Burundi,130000.0
+2000,Africa,Cabo Verde,1700.0
+2000,Western Pacific,Cambodia,82000.0
+2000,Africa,Cameroon,400000.0
+2000,Americas,Canada,37000.0
+2000,Africa,Central African Republic,160000.0
+2000,Africa,Chad,91000.0
+2000,Americas,Chile,17000.0
+2000,Western Pacific,China,28480.0
+2000,Americas,Colombia,79000.0
+2000,Africa,Comoros,100.0
+2000,Africa,Congo,76000.0
+2000,Western Pacific,Cook Islands,28480.0
+2000,Americas,Costa Rica,3600.0
+2000,Africa,Cote d'Ivoire,740000.0
+2000,Europe,Croatia,540.0
+2000,Americas,Cuba,4300.0
+2000,Europe,Cyprus,500.0
+2000,Europe,Czechia,600.0
+2000,South-East Asia,Democratic People's Republic of Korea,108470.0
+2000,Africa,Democratic Republic of the Congo,610000.0
+2000,Europe,Denmark,4000.0
+2000,Eastern Mediterranean,Djibouti,3717.777777777778
+2000,Americas,Dominica,41118.51851851852
+2000,Americas,Dominican Republic,76000.0
+2000,Americas,Ecuador,20000.0
+2000,Eastern Mediterranean,Egypt,900.0
+2000,Americas,El Salvador,13000.0
+2000,Africa,Equatorial Guinea,15000.0
+2000,Africa,Eritrea,19000.0
+2000,Europe,Estonia,500.0
+2000,Africa,Eswatini,140000.0
+2000,Africa,Ethiopia,850000.0
+2000,Western Pacific,Fiji,200.0
+2000,Europe,Finland,11281.666666666666
+2000,Europe,France,79000.0
+2000,Africa,Gabon,36000.0
+2000,Africa,Gambia,13000.0
+2000,Europe,Georgia,200.0
+2000,Europe,Germany,41000.0
+2000,Africa,Ghana,290000.0
+2000,Europe,Greece,4600.0
+2000,Americas,Grenada,41118.51851851852
+2000,Americas,Guatemala,30000.0
+2000,Africa,Guinea,76000.0
+2000,Africa,Guinea-Bissau,26000.0
+2000,Americas,Guyana,2800.0
+2000,Americas,Haiti,120000.0
+2000,Americas,Honduras,34000.0
+2000,Europe,Hungary,11281.666666666666
+2000,Europe,Iceland,100.0
+2000,South-East Asia,India,0.0
+2000,South-East Asia,Indonesia,60000.0
+2000,Eastern Mediterranean,Iran (Islamic Republic of),15000.0
+2000,Eastern Mediterranean,Iraq,1100.0
+2000,Europe,Ireland,1900.0
+2000,Europe,Israel,11281.666666666666
+2000,Europe,Italy,75000.0
+2000,Americas,Jamaica,25000.0
+2000,Western Pacific,Japan,28480.0
+2000,Eastern Mediterranean,Jordan,200.0
+2000,Europe,Kazakhstan,11281.666666666666
+2000,Africa,Kenya,1500000.0
+2000,Western Pacific,Kiribati,28480.0
+2000,Eastern Mediterranean,Kuwait,200.0
+2000,Europe,Kyrgyzstan,100.0
+2000,Western Pacific,Lao People's Democratic Republic,2300.0
+2000,Europe,Latvia,3300.0
+2000,Eastern Mediterranean,Lebanon,830.0
+2000,Africa,Lesotho,220000.0
+2000,Africa,Liberia,38000.0
+2000,Eastern Mediterranean,Libya,940.0
+2000,Europe,Lithuania,1100.0
+2000,Europe,Luxembourg,500.0
+2000,Africa,Madagascar,2000.0
+2000,Africa,Malawi,930000.0
+2000,Western Pacific,Malaysia,53000.0
+2000,South-East Asia,Maldives,100.0
+2000,Africa,Mali,110000.0
+2000,Europe,Malta,200.0
+2000,Western Pacific,Marshall Islands,28480.0
+2000,Africa,Mauritania,7700.0
+2000,Africa,Mauritius,382659.0909090909
+2000,Americas,Mexico,130000.0
+2000,Western Pacific,Micronesia (Federated States of),28480.0
+2000,Europe,Monaco,11281.666666666666
+2000,Western Pacific,Mongolia,100.0
+2000,Europe,Montenegro,100.0
+2000,Eastern Mediterranean,Morocco,10000.0
+2000,Africa,Mozambique,890000.0
+2000,South-East Asia,Myanmar,160000.0
+2000,Africa,Namibia,150000.0
+2000,Western Pacific,Nauru,28480.0
+2000,South-East Asia,Nepal,20000.0
+2000,Europe,Netherlands (Kingdom of the),11000.0
+2000,Western Pacific,New Zealand,1200.0
+2000,Americas,Nicaragua,4800.0
+2000,Africa,Niger,53000.0
+2000,Africa,Nigeria,382659.0909090909
+2000,Western Pacific,Niue,28480.0
+2000,Europe,North Macedonia,100.0
+2000,Europe,Norway,11281.666666666666
+2000,Eastern Mediterranean,Oman,700.0
+2000,Eastern Mediterranean,Pakistan,550.0
+2000,Western Pacific,Palau,28480.0
+2000,Americas,Panama,11000.0
+2000,Western Pacific,Papua New Guinea,13000.0
+2000,Americas,Paraguay,4300.0
+2000,Americas,Peru,77000.0
+2000,Western Pacific,Philippines,1000.0
+2000,Europe,Poland,6800.0
+2000,Europe,Portugal,31000.0
+2000,Eastern Mediterranean,Qatar,100.0
+2000,Western Pacific,Republic of Korea,28480.0
+2000,Europe,Republic of Moldova,7800.0
+2000,Europe,Romania,9800.0
+2000,Europe,Russian Federation,11281.666666666666
+2000,Africa,Rwanda,220000.0
+2000,Americas,Saint Kitts and Nevis,41118.51851851852
+2000,Americas,Saint Lucia,41118.51851851852
+2000,Americas,Saint Vincent and the Grenadines,41118.51851851852
+2000,Western Pacific,Samoa,28480.0
+2000,Europe,San Marino,11281.666666666666
+2000,Africa,Sao Tome and Principe,2700.0
+2000,Eastern Mediterranean,Saudi Arabia,9100.0
+2000,Africa,Senegal,38000.0
+2000,Europe,Serbia,1000.0
+2000,Africa,Seychelles,382659.0909090909
+2000,Africa,Sierra Leone,46000.0
+2000,Western Pacific,Singapore,28480.0
+2000,Europe,Slovakia,200.0
+2000,Europe,Slovenia,200.0
+2000,Western Pacific,Solomon Islands,28480.0
+2000,Eastern Mediterranean,Somalia,3717.777777777778
+2000,Africa,South Africa,3400000.0
+2000,Africa,South Sudan,110000.0
+2000,Europe,Spain,110000.0
+2000,South-East Asia,Sri Lanka,2400.0
+2000,Eastern Mediterranean,Sudan,19000.0
+2000,Americas,Suriname,3600.0
+2000,Europe,Sweden,11281.666666666666
+2000,Europe,Switzerland,11281.666666666666
+2000,Eastern Mediterranean,Syrian Arab Republic,500.0
+2000,Europe,Tajikistan,100.0
+2000,South-East Asia,Thailand,840000.0
+2000,South-East Asia,Timor-Leste,500.0
+2000,Africa,Togo,110000.0
+2000,Western Pacific,Tonga,28480.0
+2000,Americas,Trinidad and Tobago,10000.0
+2000,Eastern Mediterranean,Tunisia,1300.0
+2000,Europe,Turkiye,11281.666666666666
+2000,Europe,Turkmenistan,11281.666666666666
+2000,Western Pacific,Tuvalu,28480.0
+2000,Africa,Uganda,930000.0
+2000,Europe,Ukraine,11281.666666666666
+2000,Eastern Mediterranean,United Arab Emirates,200.0
+2000,Europe,United Kingdom of Great Britain and Northern Ireland,11281.666666666666
+2000,Africa,United Republic of Tanzania,1400000.0
+2000,Americas,United States of America,41118.51851851852
+2000,Americas,Uruguay,4700.0
+2000,Europe,Uzbekistan,1100.0
+2000,Western Pacific,Vanuatu,28480.0
+2000,Americas,Venezuela (Bolivarian Republic of),43000.0
+2000,Western Pacific,Viet Nam,120000.0
+2000,Eastern Mediterranean,Yemen,2200.0
+2000,Africa,Zambia,810000.0
+2000,Africa,Zimbabwe,1600000.0
+2001,Eastern Mediterranean,Afghanistan,4600.0
+2001,Europe,Albania,200.0
+2001,Africa,Algeria,3200.0
+2001,Europe,Andorra,11841.666666666666
+2001,Africa,Angola,140000.0
+2001,Americas,Antigua and Barbuda,43177.77777777778
+2001,Americas,Argentina,43177.77777777778
+2001,Europe,Armenia,200.0
+2001,Western Pacific,Australia,13000.0
+2001,Europe,Austria,11841.666666666666
+2001,Europe,Azerbaijan,3500.0
+2001,Americas,Bahamas,4000.0
+2001,Eastern Mediterranean,Bahrain,4237.777777777777
+2001,South-East Asia,Bangladesh,1600.0
+2001,Americas,Barbados,1600.0
+2001,Europe,Belarus,2700.0
+2001,Europe,Belgium,7700.0
+2001,Americas,Belize,1600.0
+2001,Africa,Benin,65000.0
+2001,South-East Asia,Bhutan,500.0
+2001,Americas,Bolivia (Plurinational State of),14000.0
+2001,Europe,Bosnia and Herzegovina,11841.666666666666
+2001,Africa,Botswana,270000.0
+2001,Americas,Brazil,370000.0
+2001,Western Pacific,Brunei Darussalam,31390.0
+2001,Europe,Bulgaria,1400.0
+2001,Africa,Burkina Faso,140000.0
+2001,Africa,Burundi,120000.0
+2001,Africa,Cabo Verde,1800.0
+2001,Western Pacific,Cambodia,84000.0
+2001,Africa,Cameroon,430000.0
+2001,Americas,Canada,38000.0
+2001,Africa,Central African Republic,160000.0
+2001,Africa,Chad,93000.0
+2001,Americas,Chile,19000.0
+2001,Western Pacific,China,31390.0
+2001,Americas,Colombia,84000.0
+2001,Africa,Comoros,100.0
+2001,Africa,Congo,76000.0
+2001,Western Pacific,Cook Islands,31390.0
+2001,Americas,Costa Rica,4000.0
+2001,Africa,Cote d'Ivoire,720000.0
+2001,Europe,Croatia,590.0
+2001,Americas,Cuba,5600.0
+2001,Europe,Cyprus,500.0
+2001,Europe,Czechia,710.0
+2001,South-East Asia,Democratic People's Republic of Korea,112840.0
+2001,Africa,Democratic Republic of the Congo,610000.0
+2001,Europe,Denmark,4200.0
+2001,Eastern Mediterranean,Djibouti,4237.777777777777
+2001,Americas,Dominica,43177.77777777778
+2001,Americas,Dominican Republic,78000.0
+2001,Americas,Ecuador,22000.0
+2001,Eastern Mediterranean,Egypt,1100.0
+2001,Americas,El Salvador,13000.0
+2001,Africa,Equatorial Guinea,17000.0
+2001,Africa,Eritrea,19000.0
+2001,Europe,Estonia,1300.0
+2001,Africa,Eswatini,150000.0
+2001,Africa,Ethiopia,830000.0
+2001,Western Pacific,Fiji,200.0
+2001,Europe,Finland,11841.666666666666
+2001,Europe,France,85000.0
+2001,Africa,Gabon,38000.0
+2001,Africa,Gambia,14000.0
+2001,Europe,Georgia,500.0
+2001,Europe,Germany,43000.0
+2001,Africa,Ghana,300000.0
+2001,Europe,Greece,4900.0
+2001,Americas,Grenada,43177.77777777778
+2001,Americas,Guatemala,30000.0
+2001,Africa,Guinea,78000.0
+2001,Africa,Guinea-Bissau,29000.0
+2001,Americas,Guyana,3200.0
+2001,Americas,Haiti,120000.0
+2001,Americas,Honduras,34000.0
+2001,Europe,Hungary,11841.666666666666
+2001,Europe,Iceland,200.0
+2001,South-East Asia,India,0.0
+2001,South-East Asia,Indonesia,90000.0
+2001,Eastern Mediterranean,Iran (Islamic Republic of),20000.0
+2001,Eastern Mediterranean,Iraq,1200.0
+2001,Europe,Ireland,2100.0
+2001,Europe,Israel,11841.666666666666
+2001,Europe,Italy,78000.0
+2001,Americas,Jamaica,25000.0
+2001,Western Pacific,Japan,31390.0
+2001,Eastern Mediterranean,Jordan,200.0
+2001,Europe,Kazakhstan,11841.666666666666
+2001,Africa,Kenya,1500000.0
+2001,Western Pacific,Kiribati,31390.0
+2001,Eastern Mediterranean,Kuwait,200.0
+2001,Europe,Kyrgyzstan,500.0
+2001,Western Pacific,Lao People's Democratic Republic,3000.0
+2001,Europe,Latvia,3600.0
+2001,Eastern Mediterranean,Lebanon,900.0
+2001,Africa,Lesotho,230000.0
+2001,Africa,Liberia,39000.0
+2001,Eastern Mediterranean,Libya,1200.0
+2001,Europe,Lithuania,1400.0
+2001,Europe,Luxembourg,500.0
+2001,Africa,Madagascar,2600.0
+2001,Africa,Malawi,940000.0
+2001,Western Pacific,Malaysia,55000.0
+2001,South-East Asia,Maldives,100.0
+2001,Africa,Mali,110000.0
+2001,Europe,Malta,200.0
+2001,Western Pacific,Marshall Islands,31390.0
+2001,Africa,Mauritania,8200.0
+2001,Africa,Mauritius,391875.0
+2001,Americas,Mexico,130000.0
+2001,Western Pacific,Micronesia (Federated States of),31390.0
+2001,Europe,Monaco,11841.666666666666
+2001,Western Pacific,Mongolia,100.0
+2001,Europe,Montenegro,100.0
+2001,Eastern Mediterranean,Morocco,11000.0
+2001,Africa,Mozambique,990000.0
+2001,South-East Asia,Myanmar,180000.0
+2001,Africa,Namibia,160000.0
+2001,Western Pacific,Nauru,31390.0
+2001,South-East Asia,Nepal,23000.0
+2001,Europe,Netherlands (Kingdom of the),12000.0
+2001,Western Pacific,New Zealand,1300.0
+2001,Americas,Nicaragua,5300.0
+2001,Africa,Niger,54000.0
+2001,Africa,Nigeria,391875.0
+2001,Western Pacific,Niue,31390.0
+2001,Europe,North Macedonia,100.0
+2001,Europe,Norway,11841.666666666666
+2001,Eastern Mediterranean,Oman,740.0
+2001,Eastern Mediterranean,Pakistan,740.0
+2001,Western Pacific,Palau,31390.0
+2001,Americas,Panama,12000.0
+2001,Western Pacific,Papua New Guinea,16000.0
+2001,Americas,Paraguay,4800.0
+2001,Americas,Peru,76000.0
+2001,Western Pacific,Philippines,1300.0
+2001,Europe,Poland,7400.0
+2001,Europe,Portugal,32000.0
+2001,Eastern Mediterranean,Qatar,100.0
+2001,Western Pacific,Republic of Korea,31390.0
+2001,Europe,Republic of Moldova,8300.0
+2001,Europe,Romania,10000.0
+2001,Europe,Russian Federation,11841.666666666666
+2001,Africa,Rwanda,220000.0
+2001,Americas,Saint Kitts and Nevis,43177.77777777778
+2001,Americas,Saint Lucia,43177.77777777778
+2001,Americas,Saint Vincent and the Grenadines,43177.77777777778
+2001,Western Pacific,Samoa,31390.0
+2001,Europe,San Marino,11841.666666666666
+2001,Africa,Sao Tome and Principe,2600.0
+2001,Eastern Mediterranean,Saudi Arabia,9400.0
+2001,Africa,Senegal,41000.0
+2001,Europe,Serbia,1000.0
+2001,Africa,Seychelles,391875.0
+2001,Africa,Sierra Leone,51000.0
+2001,Western Pacific,Singapore,31390.0
+2001,Europe,Slovakia,200.0
+2001,Europe,Slovenia,500.0
+2001,Western Pacific,Solomon Islands,31390.0
+2001,Eastern Mediterranean,Somalia,4237.777777777777
+2001,Africa,South Africa,3700000.0
+2001,Africa,South Sudan,110000.0
+2001,Europe,Spain,110000.0
+2001,South-East Asia,Sri Lanka,2700.0
+2001,Eastern Mediterranean,Sudan,20000.0
+2001,Americas,Suriname,3700.0
+2001,Europe,Sweden,11841.666666666666
+2001,Europe,Switzerland,11841.666666666666
+2001,Eastern Mediterranean,Syrian Arab Republic,500.0
+2001,Europe,Tajikistan,100.0
+2001,South-East Asia,Thailand,830000.0
+2001,South-East Asia,Timor-Leste,500.0
+2001,Africa,Togo,120000.0
+2001,Western Pacific,Tonga,31390.0
+2001,Americas,Trinidad and Tobago,11000.0
+2001,Eastern Mediterranean,Tunisia,1500.0
+2001,Europe,Turkiye,11841.666666666666
+2001,Europe,Turkmenistan,11841.666666666666
+2001,Western Pacific,Tuvalu,31390.0
+2001,Africa,Uganda,930000.0
+2001,Europe,Ukraine,11841.666666666666
+2001,Eastern Mediterranean,United Arab Emirates,500.0
+2001,Europe,United Kingdom of Great Britain and Northern Ireland,11841.666666666666
+2001,Africa,United Republic of Tanzania,1400000.0
+2001,Americas,United States of America,43177.77777777778
+2001,Americas,Uruguay,5000.0
+2001,Europe,Uzbekistan,1700.0
+2001,Western Pacific,Vanuatu,31390.0
+2001,Americas,Venezuela (Bolivarian Republic of),51000.0
+2001,Western Pacific,Viet Nam,140000.0
+2001,Eastern Mediterranean,Yemen,2400.0
+2001,Africa,Zambia,830000.0
+2001,Africa,Zimbabwe,1500000.0
+2002,Eastern Mediterranean,Afghanistan,5100.0
+2002,Europe,Albania,200.0
+2002,Africa,Algeria,3600.0
+2002,Europe,Andorra,12399.444444444445
+2002,Africa,Angola,150000.0
+2002,Americas,Antigua and Barbuda,45544.444444444445
+2002,Americas,Argentina,45544.444444444445
+2002,Europe,Armenia,500.0
+2002,Western Pacific,Australia,13000.0
+2002,Europe,Austria,12399.444444444445
+2002,Europe,Azerbaijan,4100.0
+2002,Americas,Bahamas,3900.0
+2002,Eastern Mediterranean,Bahrain,4731.111111111111
+2002,South-East Asia,Bangladesh,2200.0
+2002,Americas,Barbados,1600.0
+2002,Europe,Belarus,3400.0
+2002,Europe,Belgium,8300.0
+2002,Americas,Belize,1800.0
+2002,Africa,Benin,67000.0
+2002,South-East Asia,Bhutan,500.0
+2002,Americas,Bolivia (Plurinational State of),15000.0
+2002,Europe,Bosnia and Herzegovina,12399.444444444445
+2002,Africa,Botswana,280000.0
+2002,Americas,Brazil,400000.0
+2002,Western Pacific,Brunei Darussalam,33020.0
+2002,Europe,Bulgaria,1400.0
+2002,Africa,Burkina Faso,140000.0
+2002,Africa,Burundi,120000.0
+2002,Africa,Cabo Verde,1900.0
+2002,Western Pacific,Cambodia,85000.0
+2002,Africa,Cameroon,450000.0
+2002,Americas,Canada,40000.0
+2002,Africa,Central African Republic,160000.0
+2002,Africa,Chad,94000.0
+2002,Americas,Chile,21000.0
+2002,Western Pacific,China,33020.0
+2002,Americas,Colombia,88000.0
+2002,Africa,Comoros,100.0
+2002,Africa,Congo,75000.0
+2002,Western Pacific,Cook Islands,33020.0
+2002,Americas,Costa Rica,4400.0
+2002,Africa,Cote d'Ivoire,700000.0
+2002,Europe,Croatia,650.0
+2002,Americas,Cuba,7100.0
+2002,Europe,Cyprus,500.0
+2002,Europe,Czechia,830.0
+2002,South-East Asia,Democratic People's Republic of Korea,116230.0
+2002,Africa,Democratic Republic of the Congo,600000.0
+2002,Europe,Denmark,4400.0
+2002,Eastern Mediterranean,Djibouti,4731.111111111111
+2002,Americas,Dominica,45544.444444444445
+2002,Americas,Dominican Republic,78000.0
+2002,Americas,Ecuador,23000.0
+2002,Eastern Mediterranean,Egypt,1300.0
+2002,Americas,El Salvador,14000.0
+2002,Africa,Equatorial Guinea,19000.0
+2002,Africa,Eritrea,19000.0
+2002,Europe,Estonia,2100.0
+2002,Africa,Eswatini,150000.0
+2002,Africa,Ethiopia,810000.0
+2002,Western Pacific,Fiji,200.0
+2002,Europe,Finland,12399.444444444445
+2002,Europe,France,92000.0
+2002,Africa,Gabon,39000.0
+2002,Africa,Gambia,16000.0
+2002,Europe,Georgia,500.0
+2002,Europe,Germany,44000.0
+2002,Africa,Ghana,300000.0
+2002,Europe,Greece,5200.0
+2002,Americas,Grenada,45544.444444444445
+2002,Americas,Guatemala,30000.0
+2002,Africa,Guinea,81000.0
+2002,Africa,Guinea-Bissau,32000.0
+2002,Americas,Guyana,3600.0
+2002,Americas,Haiti,120000.0
+2002,Americas,Honduras,33000.0
+2002,Europe,Hungary,12399.444444444445
+2002,Europe,Iceland,200.0
+2002,South-East Asia,India,0.0
+2002,South-East Asia,Indonesia,130000.0
+2002,Eastern Mediterranean,Iran (Islamic Republic of),25000.0
+2002,Eastern Mediterranean,Iraq,1200.0
+2002,Europe,Ireland,2300.0
+2002,Europe,Israel,12399.444444444445
+2002,Europe,Italy,82000.0
+2002,Americas,Jamaica,25000.0
+2002,Western Pacific,Japan,33020.0
+2002,Eastern Mediterranean,Jordan,200.0
+2002,Europe,Kazakhstan,12399.444444444445
+2002,Africa,Kenya,1500000.0
+2002,Western Pacific,Kiribati,33020.0
+2002,Eastern Mediterranean,Kuwait,200.0
+2002,Europe,Kyrgyzstan,600.0
+2002,Western Pacific,Lao People's Democratic Republic,3700.0
+2002,Europe,Latvia,3800.0
+2002,Eastern Mediterranean,Lebanon,970.0
+2002,Africa,Lesotho,240000.0
+2002,Africa,Liberia,39000.0
+2002,Eastern Mediterranean,Libya,1500.0
+2002,Europe,Lithuania,1500.0
+2002,Europe,Luxembourg,500.0
+2002,Africa,Madagascar,3400.0
+2002,Africa,Malawi,930000.0
+2002,Western Pacific,Malaysia,57000.0
+2002,South-East Asia,Maldives,100.0
+2002,Africa,Mali,110000.0
+2002,Europe,Malta,200.0
+2002,Western Pacific,Marshall Islands,33020.0
+2002,Africa,Mauritania,8600.0
+2002,Africa,Mauritius,402320.45454545453
+2002,Americas,Mexico,140000.0
+2002,Western Pacific,Micronesia (Federated States of),33020.0
+2002,Europe,Monaco,12399.444444444445
+2002,Western Pacific,Mongolia,100.0
+2002,Europe,Montenegro,100.0
+2002,Eastern Mediterranean,Morocco,12000.0
+2002,Africa,Mozambique,1100000.0
+2002,South-East Asia,Myanmar,190000.0
+2002,Africa,Namibia,160000.0
+2002,Western Pacific,Nauru,33020.0
+2002,South-East Asia,Nepal,26000.0
+2002,Europe,Netherlands (Kingdom of the),12000.0
+2002,Western Pacific,New Zealand,1400.0
+2002,Americas,Nicaragua,5700.0
+2002,Africa,Niger,53000.0
+2002,Africa,Nigeria,402320.45454545453
+2002,Western Pacific,Niue,33020.0
+2002,Europe,North Macedonia,100.0
+2002,Europe,Norway,12399.444444444445
+2002,Eastern Mediterranean,Oman,790.0
+2002,Eastern Mediterranean,Pakistan,1000.0
+2002,Western Pacific,Palau,33020.0
+2002,Americas,Panama,13000.0
+2002,Western Pacific,Papua New Guinea,18000.0
+2002,Americas,Paraguay,5300.0
+2002,Americas,Peru,75000.0
+2002,Western Pacific,Philippines,1800.0
+2002,Europe,Poland,7900.0
+2002,Europe,Portugal,33000.0
+2002,Eastern Mediterranean,Qatar,100.0
+2002,Western Pacific,Republic of Korea,33020.0
+2002,Europe,Republic of Moldova,8900.0
+2002,Europe,Romania,11000.0
+2002,Europe,Russian Federation,12399.444444444445
+2002,Africa,Rwanda,230000.0
+2002,Americas,Saint Kitts and Nevis,45544.444444444445
+2002,Americas,Saint Lucia,45544.444444444445
+2002,Americas,Saint Vincent and the Grenadines,45544.444444444445
+2002,Western Pacific,Samoa,33020.0
+2002,Europe,San Marino,12399.444444444445
+2002,Africa,Sao Tome and Principe,2500.0
+2002,Eastern Mediterranean,Saudi Arabia,9500.0
+2002,Africa,Senegal,44000.0
+2002,Europe,Serbia,1000.0
+2002,Africa,Seychelles,402320.45454545453
+2002,Africa,Sierra Leone,54000.0
+2002,Western Pacific,Singapore,33020.0
+2002,Europe,Slovakia,200.0
+2002,Europe,Slovenia,500.0
+2002,Western Pacific,Solomon Islands,33020.0
+2002,Eastern Mediterranean,Somalia,4731.111111111111
+2002,Africa,South Africa,4000000.0
+2002,Africa,South Sudan,120000.0
+2002,Europe,Spain,110000.0
+2002,South-East Asia,Sri Lanka,3000.0
+2002,Eastern Mediterranean,Sudan,21000.0
+2002,Americas,Suriname,3900.0
+2002,Europe,Sweden,12399.444444444445
+2002,Europe,Switzerland,12399.444444444445
+2002,Eastern Mediterranean,Syrian Arab Republic,500.0
+2002,Europe,Tajikistan,100.0
+2002,South-East Asia,Thailand,810000.0
+2002,South-East Asia,Timor-Leste,500.0
+2002,Africa,Togo,120000.0
+2002,Western Pacific,Tonga,33020.0
+2002,Americas,Trinidad and Tobago,11000.0
+2002,Eastern Mediterranean,Tunisia,1800.0
+2002,Europe,Turkiye,12399.444444444445
+2002,Europe,Turkmenistan,12399.444444444445
+2002,Western Pacific,Tuvalu,33020.0
+2002,Africa,Uganda,930000.0
+2002,Europe,Ukraine,12399.444444444445
+2002,Eastern Mediterranean,United Arab Emirates,500.0
+2002,Europe,United Kingdom of Great Britain and Northern Ireland,12399.444444444445
+2002,Africa,United Republic of Tanzania,1400000.0
+2002,Americas,United States of America,45544.444444444445
+2002,Americas,Uruguay,5400.0
+2002,Europe,Uzbekistan,2400.0
+2002,Western Pacific,Vanuatu,33020.0
+2002,Americas,Venezuela (Bolivarian Republic of),61000.0
+2002,Western Pacific,Viet Nam,150000.0
+2002,Eastern Mediterranean,Yemen,2500.0
+2002,Africa,Zambia,850000.0
+2002,Africa,Zimbabwe,1500000.0
+2003,Eastern Mediterranean,Afghanistan,5600.0
+2003,Europe,Albania,500.0
+2003,Africa,Algeria,4100.0
+2003,Europe,Andorra,13010.555555555555
+2003,Africa,Angola,160000.0
+2003,Americas,Antigua and Barbuda,47962.96296296296
+2003,Americas,Argentina,47962.96296296296
+2003,Europe,Armenia,500.0
+2003,Western Pacific,Australia,14000.0
+2003,Europe,Austria,13010.555555555555
+2003,Europe,Azerbaijan,4700.0
+2003,Americas,Bahamas,3900.0
+2003,Eastern Mediterranean,Bahrain,5368.888888888889
+2003,South-East Asia,Bangladesh,2800.0
+2003,Americas,Barbados,1700.0
+2003,Europe,Belarus,4200.0
+2003,Europe,Belgium,8900.0
+2003,Americas,Belize,2000.0
+2003,Africa,Benin,68000.0
+2003,South-East Asia,Bhutan,570.0
+2003,Americas,Bolivia (Plurinational State of),15000.0
+2003,Europe,Bosnia and Herzegovina,13010.555555555555
+2003,Africa,Botswana,280000.0
+2003,Americas,Brazil,430000.0
+2003,Western Pacific,Brunei Darussalam,34780.0
+2003,Europe,Bulgaria,1500.0
+2003,Africa,Burkina Faso,130000.0
+2003,Africa,Burundi,110000.0
+2003,Africa,Cabo Verde,1900.0
+2003,Western Pacific,Cambodia,85000.0
+2003,Africa,Cameroon,460000.0
+2003,Americas,Canada,41000.0
+2003,Africa,Central African Republic,160000.0
+2003,Africa,Chad,97000.0
+2003,Americas,Chile,22000.0
+2003,Western Pacific,China,34780.0
+2003,Americas,Colombia,92000.0
+2003,Africa,Comoros,100.0
+2003,Africa,Congo,76000.0
+2003,Western Pacific,Cook Islands,34780.0
+2003,Americas,Costa Rica,4900.0
+2003,Africa,Cote d'Ivoire,680000.0
+2003,Europe,Croatia,710.0
+2003,Americas,Cuba,8700.0
+2003,Europe,Cyprus,500.0
+2003,Europe,Czechia,960.0
+2003,South-East Asia,Democratic People's Republic of Korea,118628.0
+2003,Africa,Democratic Republic of the Congo,590000.0
+2003,Europe,Denmark,4600.0
+2003,Eastern Mediterranean,Djibouti,5368.888888888889
+2003,Americas,Dominica,47962.96296296296
+2003,Americas,Dominican Republic,78000.0
+2003,Americas,Ecuador,25000.0
+2003,Eastern Mediterranean,Egypt,1500.0
+2003,Americas,El Salvador,15000.0
+2003,Africa,Equatorial Guinea,21000.0
+2003,Africa,Eritrea,19000.0
+2003,Europe,Estonia,2900.0
+2003,Africa,Eswatini,160000.0
+2003,Africa,Ethiopia,780000.0
+2003,Western Pacific,Fiji,500.0
+2003,Europe,Finland,13010.555555555555
+2003,Europe,France,98000.0
+2003,Africa,Gabon,40000.0
+2003,Africa,Gambia,17000.0
+2003,Europe,Georgia,630.0
+2003,Europe,Germany,46000.0
+2003,Africa,Ghana,300000.0
+2003,Europe,Greece,5600.0
+2003,Americas,Grenada,47962.96296296296
+2003,Americas,Guatemala,30000.0
+2003,Africa,Guinea,84000.0
+2003,Africa,Guinea-Bissau,33000.0
+2003,Americas,Guyana,4100.0
+2003,Americas,Haiti,120000.0
+2003,Americas,Honduras,33000.0
+2003,Europe,Hungary,13010.555555555555
+2003,Europe,Iceland,200.0
+2003,South-East Asia,India,0.0
+2003,South-East Asia,Indonesia,170000.0
+2003,Eastern Mediterranean,Iran (Islamic Republic of),32000.0
+2003,Eastern Mediterranean,Iraq,1200.0
+2003,Europe,Ireland,2600.0
+2003,Europe,Israel,13010.555555555555
+2003,Europe,Italy,87000.0
+2003,Americas,Jamaica,25000.0
+2003,Western Pacific,Japan,34780.0
+2003,Eastern Mediterranean,Jordan,200.0
+2003,Europe,Kazakhstan,13010.555555555555
+2003,Africa,Kenya,1500000.0
+2003,Western Pacific,Kiribati,34780.0
+2003,Eastern Mediterranean,Kuwait,200.0
+2003,Europe,Kyrgyzstan,680.0
+2003,Western Pacific,Lao People's Democratic Republic,4300.0
+2003,Europe,Latvia,3900.0
+2003,Eastern Mediterranean,Lebanon,1100.0
+2003,Africa,Lesotho,240000.0
+2003,Africa,Liberia,38000.0
+2003,Eastern Mediterranean,Libya,1800.0
+2003,Europe,Lithuania,1500.0
+2003,Europe,Luxembourg,500.0
+2003,Africa,Madagascar,4400.0
+2003,Africa,Malawi,920000.0
+2003,Western Pacific,Malaysia,59000.0
+2003,South-East Asia,Maldives,100.0
+2003,Africa,Mali,110000.0
+2003,Europe,Malta,200.0
+2003,Western Pacific,Marshall Islands,34780.0
+2003,Africa,Mauritania,9000.0
+2003,Africa,Mauritius,406793.1818181818
+2003,Americas,Mexico,150000.0
+2003,Western Pacific,Micronesia (Federated States of),34780.0
+2003,Europe,Monaco,13010.555555555555
+2003,Western Pacific,Mongolia,200.0
+2003,Europe,Montenegro,100.0
+2003,Eastern Mediterranean,Morocco,13000.0
+2003,Africa,Mozambique,1100000.0
+2003,South-East Asia,Myanmar,200000.0
+2003,Africa,Namibia,160000.0
+2003,Western Pacific,Nauru,34780.0
+2003,South-East Asia,Nepal,29000.0
+2003,Europe,Netherlands (Kingdom of the),13000.0
+2003,Western Pacific,New Zealand,1500.0
+2003,Americas,Nicaragua,6100.0
+2003,Africa,Niger,52000.0
+2003,Africa,Nigeria,406793.1818181818
+2003,Western Pacific,Niue,34780.0
+2003,Europe,North Macedonia,100.0
+2003,Europe,Norway,13010.555555555555
+2003,Eastern Mediterranean,Oman,840.0
+2003,Eastern Mediterranean,Pakistan,2000.0
+2003,Western Pacific,Palau,34780.0
+2003,Americas,Panama,14000.0
+2003,Western Pacific,Papua New Guinea,21000.0
+2003,Americas,Paraguay,5700.0
+2003,Americas,Peru,74000.0
+2003,Western Pacific,Philippines,2300.0
+2003,Europe,Poland,8300.0
+2003,Europe,Portugal,34000.0
+2003,Eastern Mediterranean,Qatar,100.0
+2003,Western Pacific,Republic of Korea,34780.0
+2003,Europe,Republic of Moldova,9400.0
+2003,Europe,Romania,11000.0
+2003,Europe,Russian Federation,13010.555555555555
+2003,Africa,Rwanda,230000.0
+2003,Americas,Saint Kitts and Nevis,47962.96296296296
+2003,Americas,Saint Lucia,47962.96296296296
+2003,Americas,Saint Vincent and the Grenadines,47962.96296296296
+2003,Western Pacific,Samoa,34780.0
+2003,Europe,San Marino,13010.555555555555
+2003,Africa,Sao Tome and Principe,2400.0
+2003,Eastern Mediterranean,Saudi Arabia,9400.0
+2003,Africa,Senegal,45000.0
+2003,Europe,Serbia,1100.0
+2003,Africa,Seychelles,406793.1818181818
+2003,Africa,Sierra Leone,57000.0
+2003,Western Pacific,Singapore,34780.0
+2003,Europe,Slovakia,500.0
+2003,Europe,Slovenia,500.0
+2003,Western Pacific,Solomon Islands,34780.0
+2003,Eastern Mediterranean,Somalia,5368.888888888889
+2003,Africa,South Africa,4300000.0
+2003,Africa,South Sudan,130000.0
+2003,Europe,Spain,110000.0
+2003,South-East Asia,Sri Lanka,3300.0
+2003,Eastern Mediterranean,Sudan,22000.0
+2003,Americas,Suriname,4100.0
+2003,Europe,Sweden,13010.555555555555
+2003,Europe,Switzerland,13010.555555555555
+2003,Eastern Mediterranean,Syrian Arab Republic,500.0
+2003,Europe,Tajikistan,200.0
+2003,South-East Asia,Thailand,780000.0
+2003,South-East Asia,Timor-Leste,510.0
+2003,Africa,Togo,120000.0
+2003,Western Pacific,Tonga,34780.0
+2003,Americas,Trinidad and Tobago,12000.0
+2003,Eastern Mediterranean,Tunisia,2000.0
+2003,Europe,Turkiye,13010.555555555555
+2003,Europe,Turkmenistan,13010.555555555555
+2003,Western Pacific,Tuvalu,34780.0
+2003,Africa,Uganda,940000.0
+2003,Europe,Ukraine,13010.555555555555
+2003,Eastern Mediterranean,United Arab Emirates,500.0
+2003,Europe,United Kingdom of Great Britain and Northern Ireland,13010.555555555555
+2003,Africa,United Republic of Tanzania,1400000.0
+2003,Americas,United States of America,47962.96296296296
+2003,Americas,Uruguay,5800.0
+2003,Europe,Uzbekistan,3400.0
+2003,Western Pacific,Vanuatu,34780.0
+2003,Americas,Venezuela (Bolivarian Republic of),72000.0
+2003,Western Pacific,Viet Nam,160000.0
+2003,Eastern Mediterranean,Yemen,2700.0
+2003,Africa,Zambia,870000.0
+2003,Africa,Zimbabwe,1400000.0
+2004,Eastern Mediterranean,Afghanistan,6100.0
+2004,Europe,Albania,500.0
+2004,Africa,Algeria,4700.0
+2004,Europe,Andorra,13838.055555555555
+2004,Africa,Angola,180000.0
+2004,Americas,Antigua and Barbuda,50218.51851851852
+2004,Americas,Argentina,50218.51851851852
+2004,Europe,Armenia,500.0
+2004,Western Pacific,Australia,15000.0
+2004,Europe,Austria,13838.055555555555
+2004,Europe,Azerbaijan,5300.0
+2004,Americas,Bahamas,4000.0
+2004,Eastern Mediterranean,Bahrain,6204.444444444444
+2004,South-East Asia,Bangladesh,3500.0
+2004,Americas,Barbados,1800.0
+2004,Europe,Belarus,5300.0
+2004,Europe,Belgium,9500.0
+2004,Americas,Belize,2100.0
+2004,Africa,Benin,68000.0
+2004,South-East Asia,Bhutan,670.0
+2004,Americas,Bolivia (Plurinational State of),16000.0
+2004,Europe,Bosnia and Herzegovina,13838.055555555555
+2004,Africa,Botswana,280000.0
+2004,Americas,Brazil,460000.0
+2004,Western Pacific,Brunei Darussalam,36430.0
+2004,Europe,Bulgaria,1500.0
+2004,Africa,Burkina Faso,130000.0
+2004,Africa,Burundi,110000.0
+2004,Africa,Cabo Verde,1900.0
+2004,Western Pacific,Cambodia,84000.0
+2004,Africa,Cameroon,470000.0
+2004,Americas,Canada,42000.0
+2004,Africa,Central African Republic,160000.0
+2004,Africa,Chad,98000.0
+2004,Americas,Chile,23000.0
+2004,Western Pacific,China,36430.0
+2004,Americas,Colombia,95000.0
+2004,Africa,Comoros,100.0
+2004,Africa,Congo,77000.0
+2004,Western Pacific,Cook Islands,36430.0
+2004,Americas,Costa Rica,5400.0
+2004,Africa,Cote d'Ivoire,650000.0
+2004,Europe,Croatia,770.0
+2004,Americas,Cuba,11000.0
+2004,Europe,Cyprus,500.0
+2004,Europe,Czechia,1100.0
+2004,South-East Asia,Democratic People's Republic of Korea,121941.0
+2004,Africa,Democratic Republic of the Congo,580000.0
+2004,Europe,Denmark,4700.0
+2004,Eastern Mediterranean,Djibouti,6204.444444444444
+2004,Americas,Dominica,50218.51851851852
+2004,Americas,Dominican Republic,77000.0
+2004,Americas,Ecuador,26000.0
+2004,Eastern Mediterranean,Egypt,1800.0
+2004,Americas,El Salvador,16000.0
+2004,Africa,Equatorial Guinea,23000.0
+2004,Africa,Eritrea,19000.0
+2004,Europe,Estonia,3500.0
+2004,Africa,Eswatini,160000.0
+2004,Africa,Ethiopia,750000.0
+2004,Western Pacific,Fiji,500.0
+2004,Europe,Finland,13838.055555555555
+2004,Europe,France,100000.0
+2004,Africa,Gabon,41000.0
+2004,Africa,Gambia,18000.0
+2004,Europe,Georgia,880.0
+2004,Europe,Germany,49000.0
+2004,Africa,Ghana,300000.0
+2004,Europe,Greece,6000.0
+2004,Americas,Grenada,50218.51851851852
+2004,Americas,Guatemala,30000.0
+2004,Africa,Guinea,86000.0
+2004,Africa,Guinea-Bissau,35000.0
+2004,Americas,Guyana,4600.0
+2004,Americas,Haiti,120000.0
+2004,Americas,Honduras,32000.0
+2004,Europe,Hungary,13838.055555555555
+2004,Europe,Iceland,200.0
+2004,South-East Asia,India,0.0
+2004,South-East Asia,Indonesia,210000.0
+2004,Eastern Mediterranean,Iran (Islamic Republic of),38000.0
+2004,Eastern Mediterranean,Iraq,1200.0
+2004,Europe,Ireland,2800.0
+2004,Europe,Israel,13838.055555555555
+2004,Europe,Italy,91000.0
+2004,Americas,Jamaica,25000.0
+2004,Western Pacific,Japan,36430.0
+2004,Eastern Mediterranean,Jordan,200.0
+2004,Europe,Kazakhstan,13838.055555555555
+2004,Africa,Kenya,1400000.0
+2004,Western Pacific,Kiribati,36430.0
+2004,Eastern Mediterranean,Kuwait,200.0
+2004,Europe,Kyrgyzstan,920.0
+2004,Western Pacific,Lao People's Democratic Republic,5000.0
+2004,Europe,Latvia,4000.0
+2004,Eastern Mediterranean,Lebanon,1200.0
+2004,Africa,Lesotho,250000.0
+2004,Africa,Liberia,38000.0
+2004,Eastern Mediterranean,Libya,2100.0
+2004,Europe,Lithuania,1600.0
+2004,Europe,Luxembourg,500.0
+2004,Africa,Madagascar,5500.0
+2004,Africa,Malawi,910000.0
+2004,Western Pacific,Malaysia,61000.0
+2004,South-East Asia,Maldives,100.0
+2004,Africa,Mali,110000.0
+2004,Europe,Malta,200.0
+2004,Western Pacific,Marshall Islands,36430.0
+2004,Africa,Mauritania,9200.0
+2004,Africa,Mauritius,411175.0
+2004,Americas,Mexico,160000.0
+2004,Western Pacific,Micronesia (Federated States of),36430.0
+2004,Europe,Monaco,13838.055555555555
+2004,Western Pacific,Mongolia,200.0
+2004,Europe,Montenegro,100.0
+2004,Eastern Mediterranean,Morocco,14000.0
+2004,Africa,Mozambique,1200000.0
+2004,South-East Asia,Myanmar,210000.0
+2004,Africa,Namibia,170000.0
+2004,Western Pacific,Nauru,36430.0
+2004,South-East Asia,Nepal,31000.0
+2004,Europe,Netherlands (Kingdom of the),14000.0
+2004,Western Pacific,New Zealand,1600.0
+2004,Americas,Nicaragua,6400.0
+2004,Africa,Niger,50000.0
+2004,Africa,Nigeria,411175.0
+2004,Western Pacific,Niue,36430.0
+2004,Europe,North Macedonia,100.0
+2004,Europe,Norway,13838.055555555555
+2004,Eastern Mediterranean,Oman,880.0
+2004,Eastern Mediterranean,Pakistan,7500.0
+2004,Western Pacific,Palau,36430.0
+2004,Americas,Panama,14000.0
+2004,Western Pacific,Papua New Guinea,24000.0
+2004,Americas,Paraguay,6200.0
+2004,Americas,Peru,72000.0
+2004,Western Pacific,Philippines,3000.0
+2004,Europe,Poland,8700.0
+2004,Europe,Portugal,35000.0
+2004,Eastern Mediterranean,Qatar,100.0
+2004,Western Pacific,Republic of Korea,36430.0
+2004,Europe,Republic of Moldova,10000.0
+2004,Europe,Romania,12000.0
+2004,Europe,Russian Federation,13838.055555555555
+2004,Africa,Rwanda,230000.0
+2004,Americas,Saint Kitts and Nevis,50218.51851851852
+2004,Americas,Saint Lucia,50218.51851851852
+2004,Americas,Saint Vincent and the Grenadines,50218.51851851852
+2004,Western Pacific,Samoa,36430.0
+2004,Europe,San Marino,13838.055555555555
+2004,Africa,Sao Tome and Principe,2300.0
+2004,Eastern Mediterranean,Saudi Arabia,9200.0
+2004,Africa,Senegal,46000.0
+2004,Europe,Serbia,1200.0
+2004,Africa,Seychelles,411175.0
+2004,Africa,Sierra Leone,59000.0
+2004,Western Pacific,Singapore,36430.0
+2004,Europe,Slovakia,500.0
+2004,Europe,Slovenia,500.0
+2004,Western Pacific,Solomon Islands,36430.0
+2004,Eastern Mediterranean,Somalia,6204.444444444444
+2004,Africa,South Africa,4500000.0
+2004,Africa,South Sudan,130000.0
+2004,Europe,Spain,120000.0
+2004,South-East Asia,Sri Lanka,3600.0
+2004,Eastern Mediterranean,Sudan,23000.0
+2004,Americas,Suriname,4200.0
+2004,Europe,Sweden,13838.055555555555
+2004,Europe,Switzerland,13838.055555555555
+2004,Eastern Mediterranean,Syrian Arab Republic,500.0
+2004,Europe,Tajikistan,500.0
+2004,South-East Asia,Thailand,760000.0
+2004,South-East Asia,Timor-Leste,540.0
+2004,Africa,Togo,120000.0
+2004,Western Pacific,Tonga,36430.0
+2004,Americas,Trinidad and Tobago,12000.0
+2004,Eastern Mediterranean,Tunisia,2300.0
+2004,Europe,Turkiye,13838.055555555555
+2004,Europe,Turkmenistan,13838.055555555555
+2004,Western Pacific,Tuvalu,36430.0
+2004,Africa,Uganda,940000.0
+2004,Europe,Ukraine,13838.055555555555
+2004,Eastern Mediterranean,United Arab Emirates,500.0
+2004,Europe,United Kingdom of Great Britain and Northern Ireland,13838.055555555555
+2004,Africa,United Republic of Tanzania,1400000.0
+2004,Americas,United States of America,50218.51851851852
+2004,Americas,Uruguay,6200.0
+2004,Europe,Uzbekistan,5300.0
+2004,Western Pacific,Vanuatu,36430.0
+2004,Americas,Venezuela (Bolivarian Republic of),84000.0
+2004,Western Pacific,Viet Nam,170000.0
+2004,Eastern Mediterranean,Yemen,2900.0
+2004,Africa,Zambia,880000.0
+2004,Africa,Zimbabwe,1400000.0
+2005,Eastern Mediterranean,Afghanistan,6500.0
+2005,Europe,Albania,500.0
+2005,Africa,Algeria,5300.0
+2005,Europe,Andorra,14595.0
+2005,Africa,Angola,190000.0
+2005,Americas,Antigua and Barbuda,52466.666666666664
+2005,Americas,Argentina,52466.666666666664
+2005,Europe,Armenia,570.0
+2005,Western Pacific,Australia,16000.0
+2005,Europe,Austria,14595.0
+2005,Europe,Azerbaijan,5900.0
+2005,Americas,Bahamas,4000.0
+2005,Eastern Mediterranean,Bahrain,7235.0
+2005,South-East Asia,Bangladesh,4300.0
+2005,Americas,Barbados,1800.0
+2005,Europe,Belarus,6500.0
+2005,Europe,Belgium,10000.0
+2005,Americas,Belize,2300.0
+2005,Africa,Benin,69000.0
+2005,South-East Asia,Bhutan,760.0
+2005,Americas,Bolivia (Plurinational State of),17000.0
+2005,Europe,Bosnia and Herzegovina,14595.0
+2005,Africa,Botswana,290000.0
+2005,Americas,Brazil,490000.0
+2005,Western Pacific,Brunei Darussalam,38040.0
+2005,Europe,Bulgaria,1600.0
+2005,Africa,Burkina Faso,130000.0
+2005,Africa,Burundi,110000.0
+2005,Africa,Cabo Verde,2000.0
+2005,Western Pacific,Cambodia,83000.0
+2005,Africa,Cameroon,480000.0
+2005,Americas,Canada,43000.0
+2005,Africa,Central African Republic,150000.0
+2005,Africa,Chad,98000.0
+2005,Americas,Chile,24000.0
+2005,Western Pacific,China,38040.0
+2005,Americas,Colombia,98000.0
+2005,Africa,Comoros,100.0
+2005,Africa,Congo,79000.0
+2005,Western Pacific,Cook Islands,38040.0
+2005,Americas,Costa Rica,6000.0
+2005,Africa,Cote d'Ivoire,620000.0
+2005,Europe,Croatia,830.0
+2005,Americas,Cuba,12000.0
+2005,Europe,Cyprus,500.0
+2005,Europe,Czechia,1200.0
+2005,South-East Asia,Democratic People's Republic of Korea,125254.0
+2005,Africa,Democratic Republic of the Congo,580000.0
+2005,Europe,Denmark,4900.0
+2005,Eastern Mediterranean,Djibouti,7235.0
+2005,Americas,Dominica,52466.666666666664
+2005,Americas,Dominican Republic,76000.0
+2005,Americas,Ecuador,26000.0
+2005,Eastern Mediterranean,Egypt,2200.0
+2005,Americas,El Salvador,16000.0
+2005,Africa,Equatorial Guinea,25000.0
+2005,Africa,Eritrea,18000.0
+2005,Europe,Estonia,4100.0
+2005,Africa,Eswatini,170000.0
+2005,Africa,Ethiopia,720000.0
+2005,Western Pacific,Fiji,500.0
+2005,Europe,Finland,14595.0
+2005,Europe,France,110000.0
+2005,Africa,Gabon,42000.0
+2005,Africa,Gambia,19000.0
+2005,Europe,Georgia,1200.0
+2005,Europe,Germany,51000.0
+2005,Africa,Ghana,300000.0
+2005,Europe,Greece,6500.0
+2005,Americas,Grenada,52466.666666666664
+2005,Americas,Guatemala,30000.0
+2005,Africa,Guinea,87000.0
+2005,Africa,Guinea-Bissau,35000.0
+2005,Americas,Guyana,5100.0
+2005,Americas,Haiti,120000.0
+2005,Americas,Honduras,31000.0
+2005,Europe,Hungary,14595.0
+2005,Europe,Iceland,200.0
+2005,South-East Asia,India,0.0
+2005,South-East Asia,Indonesia,250000.0
+2005,Eastern Mediterranean,Iran (Islamic Republic of),44000.0
+2005,Eastern Mediterranean,Iraq,1200.0
+2005,Europe,Ireland,3100.0
+2005,Europe,Israel,14595.0
+2005,Europe,Italy,95000.0
+2005,Americas,Jamaica,25000.0
+2005,Western Pacific,Japan,38040.0
+2005,Eastern Mediterranean,Jordan,500.0
+2005,Europe,Kazakhstan,14595.0
+2005,Africa,Kenya,1400000.0
+2005,Western Pacific,Kiribati,38040.0
+2005,Eastern Mediterranean,Kuwait,200.0
+2005,Europe,Kyrgyzstan,1300.0
+2005,Western Pacific,Lao People's Democratic Republic,5700.0
+2005,Europe,Latvia,4100.0
+2005,Eastern Mediterranean,Lebanon,1300.0
+2005,Africa,Lesotho,250000.0
+2005,Africa,Liberia,39000.0
+2005,Eastern Mediterranean,Libya,2500.0
+2005,Europe,Lithuania,1700.0
+2005,Europe,Luxembourg,520.0
+2005,Africa,Madagascar,6800.0
+2005,Africa,Malawi,890000.0
+2005,Western Pacific,Malaysia,63000.0
+2005,South-East Asia,Maldives,100.0
+2005,Africa,Mali,110000.0
+2005,Europe,Malta,500.0
+2005,Western Pacific,Marshall Islands,38040.0
+2005,Africa,Mauritania,9400.0
+2005,Africa,Mauritius,415904.54545454547
+2005,Americas,Mexico,170000.0
+2005,Western Pacific,Micronesia (Federated States of),38040.0
+2005,Europe,Monaco,14595.0
+2005,Western Pacific,Mongolia,500.0
+2005,Europe,Montenegro,100.0
+2005,Eastern Mediterranean,Morocco,14000.0
+2005,Africa,Mozambique,1300000.0
+2005,South-East Asia,Myanmar,220000.0
+2005,Africa,Namibia,170000.0
+2005,Western Pacific,Nauru,38040.0
+2005,South-East Asia,Nepal,33000.0
+2005,Europe,Netherlands (Kingdom of the),15000.0
+2005,Western Pacific,New Zealand,1700.0
+2005,Americas,Nicaragua,6800.0
+2005,Africa,Niger,48000.0
+2005,Africa,Nigeria,415904.54545454547
+2005,Western Pacific,Niue,38040.0
+2005,Europe,North Macedonia,100.0
+2005,Europe,Norway,14595.0
+2005,Eastern Mediterranean,Oman,930.0
+2005,Eastern Mediterranean,Pakistan,17000.0
+2005,Western Pacific,Palau,38040.0
+2005,Americas,Panama,15000.0
+2005,Western Pacific,Papua New Guinea,26000.0
+2005,Americas,Paraguay,6700.0
+2005,Americas,Peru,71000.0
+2005,Western Pacific,Philippines,4000.0
+2005,Europe,Poland,9100.0
+2005,Europe,Portugal,36000.0
+2005,Eastern Mediterranean,Qatar,100.0
+2005,Western Pacific,Republic of Korea,38040.0
+2005,Europe,Republic of Moldova,11000.0
+2005,Europe,Romania,12000.0
+2005,Europe,Russian Federation,14595.0
+2005,Africa,Rwanda,230000.0
+2005,Americas,Saint Kitts and Nevis,52466.666666666664
+2005,Americas,Saint Lucia,52466.666666666664
+2005,Americas,Saint Vincent and the Grenadines,52466.666666666664
+2005,Western Pacific,Samoa,38040.0
+2005,Europe,San Marino,14595.0
+2005,Africa,Sao Tome and Principe,2200.0
+2005,Eastern Mediterranean,Saudi Arabia,9000.0
+2005,Africa,Senegal,45000.0
+2005,Europe,Serbia,1400.0
+2005,Africa,Seychelles,415904.54545454547
+2005,Africa,Sierra Leone,60000.0
+2005,Western Pacific,Singapore,38040.0
+2005,Europe,Slovakia,500.0
+2005,Europe,Slovenia,500.0
+2005,Western Pacific,Solomon Islands,38040.0
+2005,Eastern Mediterranean,Somalia,7235.0
+2005,Africa,South Africa,4700000.0
+2005,Africa,South Sudan,140000.0
+2005,Europe,Spain,120000.0
+2005,South-East Asia,Sri Lanka,3800.0
+2005,Eastern Mediterranean,Sudan,24000.0
+2005,Americas,Suriname,4300.0
+2005,Europe,Sweden,14595.0
+2005,Europe,Switzerland,14595.0
+2005,Eastern Mediterranean,Syrian Arab Republic,500.0
+2005,Europe,Tajikistan,500.0
+2005,South-East Asia,Thailand,740000.0
+2005,South-East Asia,Timor-Leste,580.0
+2005,Africa,Togo,120000.0
+2005,Western Pacific,Tonga,38040.0
+2005,Americas,Trinidad and Tobago,12000.0
+2005,Eastern Mediterranean,Tunisia,2700.0
+2005,Europe,Turkiye,14595.0
+2005,Europe,Turkmenistan,14595.0
+2005,Western Pacific,Tuvalu,38040.0
+2005,Africa,Uganda,960000.0
+2005,Europe,Ukraine,14595.0
+2005,Eastern Mediterranean,United Arab Emirates,500.0
+2005,Europe,United Kingdom of Great Britain and Northern Ireland,14595.0
+2005,Africa,United Republic of Tanzania,1300000.0
+2005,Americas,United States of America,52466.666666666664
+2005,Americas,Uruguay,6600.0
+2005,Europe,Uzbekistan,7500.0
+2005,Western Pacific,Vanuatu,38040.0
+2005,Americas,Venezuela (Bolivarian Republic of),97000.0
+2005,Western Pacific,Viet Nam,180000.0
+2005,Eastern Mediterranean,Yemen,3100.0
+2005,Africa,Zambia,900000.0
+2005,Africa,Zimbabwe,1400000.0
+2006,Eastern Mediterranean,Afghanistan,6800.0
+2006,Europe,Albania,500.0
+2006,Africa,Algeria,6000.0
+2006,Europe,Andorra,15405.0
+2006,Africa,Angola,200000.0
+2006,Americas,Antigua and Barbuda,53903.7037037037
+2006,Americas,Argentina,53903.7037037037
+2006,Europe,Armenia,740.0
+2006,Western Pacific,Australia,17000.0
+2006,Europe,Austria,15405.0
+2006,Europe,Azerbaijan,6300.0
+2006,Americas,Bahamas,4100.0
+2006,Eastern Mediterranean,Bahrain,8121.111111111111
+2006,South-East Asia,Bangladesh,5000.0
+2006,Americas,Barbados,1900.0
+2006,Europe,Belarus,7800.0
+2006,Europe,Belgium,11000.0
+2006,Americas,Belize,2400.0
+2006,Africa,Benin,69000.0
+2006,South-East Asia,Bhutan,830.0
+2006,Americas,Bolivia (Plurinational State of),17000.0
+2006,Europe,Bosnia and Herzegovina,15405.0
+2006,Africa,Botswana,290000.0
+2006,Americas,Brazil,520000.0
+2006,Western Pacific,Brunei Darussalam,38750.0
+2006,Europe,Bulgaria,1700.0
+2006,Africa,Burkina Faso,130000.0
+2006,Africa,Burundi,100000.0
+2006,Africa,Cabo Verde,2100.0
+2006,Western Pacific,Cambodia,83000.0
+2006,Africa,Cameroon,490000.0
+2006,Americas,Canada,44000.0
+2006,Africa,Central African Republic,150000.0
+2006,Africa,Chad,99000.0
+2006,Americas,Chile,25000.0
+2006,Western Pacific,China,38750.0
+2006,Americas,Colombia,100000.0
+2006,Africa,Comoros,100.0
+2006,Africa,Congo,81000.0
+2006,Western Pacific,Cook Islands,38750.0
+2006,Americas,Costa Rica,6600.0
+2006,Africa,Cote d'Ivoire,600000.0
+2006,Europe,Croatia,890.0
+2006,Americas,Cuba,14000.0
+2006,Europe,Cyprus,500.0
+2006,Europe,Czechia,1400.0
+2006,South-East Asia,Democratic People's Republic of Korea,128345.0
+2006,Africa,Democratic Republic of the Congo,570000.0
+2006,Europe,Denmark,5000.0
+2006,Eastern Mediterranean,Djibouti,8121.111111111111
+2006,Americas,Dominica,53903.7037037037
+2006,Americas,Dominican Republic,74000.0
+2006,Americas,Ecuador,27000.0
+2006,Eastern Mediterranean,Egypt,2600.0
+2006,Americas,El Salvador,17000.0
+2006,Africa,Equatorial Guinea,28000.0
+2006,Africa,Eritrea,17000.0
+2006,Europe,Estonia,4500.0
+2006,Africa,Eswatini,170000.0
+2006,Africa,Ethiopia,700000.0
+2006,Western Pacific,Fiji,500.0
+2006,Europe,Finland,15405.0
+2006,Europe,France,120000.0
+2006,Africa,Gabon,44000.0
+2006,Africa,Gambia,20000.0
+2006,Europe,Georgia,1600.0
+2006,Europe,Germany,54000.0
+2006,Africa,Ghana,300000.0
+2006,Europe,Greece,7000.0
+2006,Americas,Grenada,53903.7037037037
+2006,Americas,Guatemala,30000.0
+2006,Africa,Guinea,89000.0
+2006,Africa,Guinea-Bissau,36000.0
+2006,Americas,Guyana,5500.0
+2006,Americas,Haiti,110000.0
+2006,Americas,Honduras,30000.0
+2006,Europe,Hungary,15405.0
+2006,Europe,Iceland,200.0
+2006,South-East Asia,India,0.0
+2006,South-East Asia,Indonesia,290000.0
+2006,Eastern Mediterranean,Iran (Islamic Republic of),48000.0
+2006,Eastern Mediterranean,Iraq,1100.0
+2006,Europe,Ireland,3500.0
+2006,Europe,Israel,15405.0
+2006,Europe,Italy,99000.0
+2006,Americas,Jamaica,25000.0
+2006,Western Pacific,Japan,38750.0
+2006,Eastern Mediterranean,Jordan,500.0
+2006,Europe,Kazakhstan,15405.0
+2006,Africa,Kenya,1400000.0
+2006,Western Pacific,Kiribati,38750.0
+2006,Eastern Mediterranean,Kuwait,500.0
+2006,Europe,Kyrgyzstan,1800.0
+2006,Western Pacific,Lao People's Democratic Republic,6500.0
+2006,Europe,Latvia,4200.0
+2006,Eastern Mediterranean,Lebanon,1400.0
+2006,Africa,Lesotho,260000.0
+2006,Africa,Liberia,40000.0
+2006,Eastern Mediterranean,Libya,3000.0
+2006,Europe,Lithuania,1800.0
+2006,Europe,Luxembourg,560.0
+2006,Africa,Madagascar,8300.0
+2006,Africa,Malawi,880000.0
+2006,Western Pacific,Malaysia,65000.0
+2006,South-East Asia,Maldives,100.0
+2006,Africa,Mali,110000.0
+2006,Europe,Malta,500.0
+2006,Western Pacific,Marshall Islands,38750.0
+2006,Africa,Mauritania,9500.0
+2006,Africa,Mauritius,418477.2727272727
+2006,Americas,Mexico,180000.0
+2006,Western Pacific,Micronesia (Federated States of),38750.0
+2006,Europe,Monaco,15405.0
+2006,Western Pacific,Mongolia,500.0
+2006,Europe,Montenegro,200.0
+2006,Eastern Mediterranean,Morocco,15000.0
+2006,Africa,Mozambique,1300000.0
+2006,South-East Asia,Myanmar,230000.0
+2006,Africa,Namibia,170000.0
+2006,Western Pacific,Nauru,38750.0
+2006,South-East Asia,Nepal,33000.0
+2006,Europe,Netherlands (Kingdom of the),16000.0
+2006,Western Pacific,New Zealand,1800.0
+2006,Americas,Nicaragua,7200.0
+2006,Africa,Niger,46000.0
+2006,Africa,Nigeria,418477.2727272727
+2006,Western Pacific,Niue,38750.0
+2006,Europe,North Macedonia,100.0
+2006,Europe,Norway,15405.0
+2006,Eastern Mediterranean,Oman,980.0
+2006,Eastern Mediterranean,Pakistan,26000.0
+2006,Western Pacific,Palau,38750.0
+2006,Americas,Panama,16000.0
+2006,Western Pacific,Papua New Guinea,28000.0
+2006,Americas,Paraguay,7200.0
+2006,Americas,Peru,70000.0
+2006,Western Pacific,Philippines,5200.0
+2006,Europe,Poland,9600.0
+2006,Europe,Portugal,37000.0
+2006,Eastern Mediterranean,Qatar,100.0
+2006,Western Pacific,Republic of Korea,38750.0
+2006,Europe,Republic of Moldova,11000.0
+2006,Europe,Romania,13000.0
+2006,Europe,Russian Federation,15405.0
+2006,Africa,Rwanda,230000.0
+2006,Americas,Saint Kitts and Nevis,53903.7037037037
+2006,Americas,Saint Lucia,53903.7037037037
+2006,Americas,Saint Vincent and the Grenadines,53903.7037037037
+2006,Western Pacific,Samoa,38750.0
+2006,Europe,San Marino,15405.0
+2006,Africa,Sao Tome and Principe,2000.0
+2006,Eastern Mediterranean,Saudi Arabia,8700.0
+2006,Africa,Senegal,45000.0
+2006,Europe,Serbia,1500.0
+2006,Africa,Seychelles,418477.2727272727
+2006,Africa,Sierra Leone,61000.0
+2006,Western Pacific,Singapore,38750.0
+2006,Europe,Slovakia,500.0
+2006,Europe,Slovenia,500.0
+2006,Western Pacific,Solomon Islands,38750.0
+2006,Eastern Mediterranean,Somalia,8121.111111111111
+2006,Africa,South Africa,4900000.0
+2006,Africa,South Sudan,150000.0
+2006,Europe,Spain,120000.0
+2006,South-East Asia,Sri Lanka,3900.0
+2006,Eastern Mediterranean,Sudan,24000.0
+2006,Americas,Suriname,4500.0
+2006,Europe,Sweden,15405.0
+2006,Europe,Switzerland,15405.0
+2006,Eastern Mediterranean,Syrian Arab Republic,500.0
+2006,Europe,Tajikistan,690.0
+2006,South-East Asia,Thailand,720000.0
+2006,South-East Asia,Timor-Leste,620.0
+2006,Africa,Togo,120000.0
+2006,Western Pacific,Tonga,38750.0
+2006,Americas,Trinidad and Tobago,12000.0
+2006,Eastern Mediterranean,Tunisia,3100.0
+2006,Europe,Turkiye,15405.0
+2006,Europe,Turkmenistan,15405.0
+2006,Western Pacific,Tuvalu,38750.0
+2006,Africa,Uganda,970000.0
+2006,Europe,Ukraine,15405.0
+2006,Eastern Mediterranean,United Arab Emirates,500.0
+2006,Europe,United Kingdom of Great Britain and Northern Ireland,15405.0
+2006,Africa,United Republic of Tanzania,1300000.0
+2006,Americas,United States of America,53903.7037037037
+2006,Americas,Uruguay,7000.0
+2006,Europe,Uzbekistan,10000.0
+2006,Western Pacific,Vanuatu,38750.0
+2006,Americas,Venezuela (Bolivarian Republic of),98000.0
+2006,Western Pacific,Viet Nam,180000.0
+2006,Eastern Mediterranean,Yemen,3400.0
+2006,Africa,Zambia,920000.0
+2006,Africa,Zimbabwe,1300000.0
+2007,Eastern Mediterranean,Afghanistan,7100.0
+2007,Europe,Albania,510.0
+2007,Africa,Algeria,6700.0
+2007,Europe,Andorra,15878.611111111111
+2007,Africa,Angola,220000.0
+2007,Americas,Antigua and Barbuda,56114.81481481482
+2007,Americas,Argentina,56114.81481481482
+2007,Europe,Armenia,940.0
+2007,Western Pacific,Australia,17000.0
+2007,Europe,Austria,15878.611111111111
+2007,Europe,Azerbaijan,6700.0
+2007,Americas,Bahamas,4100.0
+2007,Eastern Mediterranean,Bahrain,9224.444444444445
+2007,South-East Asia,Bangladesh,5600.0
+2007,Americas,Barbados,1900.0
+2007,Europe,Belarus,9400.0
+2007,Europe,Belgium,11000.0
+2007,Americas,Belize,2500.0
+2007,Africa,Benin,68000.0
+2007,South-East Asia,Bhutan,880.0
+2007,Americas,Bolivia (Plurinational State of),18000.0
+2007,Europe,Bosnia and Herzegovina,15878.611111111111
+2007,Africa,Botswana,300000.0
+2007,Americas,Brazil,550000.0
+2007,Western Pacific,Brunei Darussalam,40390.0
+2007,Europe,Bulgaria,1700.0
+2007,Africa,Burkina Faso,120000.0
+2007,Africa,Burundi,100000.0
+2007,Africa,Cabo Verde,2100.0
+2007,Western Pacific,Cambodia,83000.0
+2007,Africa,Cameroon,490000.0
+2007,Americas,Canada,45000.0
+2007,Africa,Central African Republic,150000.0
+2007,Africa,Chad,100000.0
+2007,Americas,Chile,27000.0
+2007,Western Pacific,China,40390.0
+2007,Americas,Colombia,110000.0
+2007,Africa,Comoros,100.0
+2007,Africa,Congo,83000.0
+2007,Western Pacific,Cook Islands,40390.0
+2007,Americas,Costa Rica,7200.0
+2007,Africa,Cote d'Ivoire,580000.0
+2007,Europe,Croatia,950.0
+2007,Americas,Cuba,16000.0
+2007,Europe,Cyprus,500.0
+2007,Europe,Czechia,1600.0
+2007,South-East Asia,Democratic People's Republic of Korea,131534.0
+2007,Africa,Democratic Republic of the Congo,560000.0
+2007,Europe,Denmark,5100.0
+2007,Eastern Mediterranean,Djibouti,9224.444444444445
+2007,Americas,Dominica,56114.81481481482
+2007,Americas,Dominican Republic,74000.0
+2007,Americas,Ecuador,28000.0
+2007,Eastern Mediterranean,Egypt,3100.0
+2007,Americas,El Salvador,18000.0
+2007,Africa,Equatorial Guinea,31000.0
+2007,Africa,Eritrea,17000.0
+2007,Europe,Estonia,4900.0
+2007,Africa,Eswatini,180000.0
+2007,Africa,Ethiopia,680000.0
+2007,Western Pacific,Fiji,500.0
+2007,Europe,Finland,15878.611111111111
+2007,Europe,France,120000.0
+2007,Africa,Gabon,45000.0
+2007,Africa,Gambia,21000.0
+2007,Europe,Georgia,2000.0
+2007,Europe,Germany,57000.0
+2007,Africa,Ghana,300000.0
+2007,Europe,Greece,7700.0
+2007,Americas,Grenada,56114.81481481482
+2007,Americas,Guatemala,30000.0
+2007,Africa,Guinea,92000.0
+2007,Africa,Guinea-Bissau,36000.0
+2007,Americas,Guyana,5900.0
+2007,Americas,Haiti,110000.0
+2007,Americas,Honduras,29000.0
+2007,Europe,Hungary,15878.611111111111
+2007,Europe,Iceland,200.0
+2007,South-East Asia,India,0.0
+2007,South-East Asia,Indonesia,330000.0
+2007,Eastern Mediterranean,Iran (Islamic Republic of),52000.0
+2007,Eastern Mediterranean,Iraq,1100.0
+2007,Europe,Ireland,3800.0
+2007,Europe,Israel,15878.611111111111
+2007,Europe,Italy,100000.0
+2007,Americas,Jamaica,25000.0
+2007,Western Pacific,Japan,40390.0
+2007,Eastern Mediterranean,Jordan,500.0
+2007,Europe,Kazakhstan,15878.611111111111
+2007,Africa,Kenya,1400000.0
+2007,Western Pacific,Kiribati,40390.0
+2007,Eastern Mediterranean,Kuwait,500.0
+2007,Europe,Kyrgyzstan,2400.0
+2007,Western Pacific,Lao People's Democratic Republic,7200.0
+2007,Europe,Latvia,4300.0
+2007,Eastern Mediterranean,Lebanon,1500.0
+2007,Africa,Lesotho,260000.0
+2007,Africa,Liberia,40000.0
+2007,Eastern Mediterranean,Libya,3400.0
+2007,Europe,Lithuania,1900.0
+2007,Europe,Luxembourg,600.0
+2007,Africa,Madagascar,10000.0
+2007,Africa,Malawi,880000.0
+2007,Western Pacific,Malaysia,67000.0
+2007,South-East Asia,Maldives,100.0
+2007,Africa,Mali,110000.0
+2007,Europe,Malta,500.0
+2007,Western Pacific,Marshall Islands,40390.0
+2007,Africa,Mauritania,9500.0
+2007,Africa,Mauritius,426234.0909090909
+2007,Americas,Mexico,190000.0
+2007,Western Pacific,Micronesia (Federated States of),40390.0
+2007,Europe,Monaco,15878.611111111111
+2007,Western Pacific,Mongolia,500.0
+2007,Europe,Montenegro,200.0
+2007,Eastern Mediterranean,Morocco,16000.0
+2007,Africa,Mozambique,1400000.0
+2007,South-East Asia,Myanmar,230000.0
+2007,Africa,Namibia,170000.0
+2007,Western Pacific,Nauru,40390.0
+2007,South-East Asia,Nepal,34000.0
+2007,Europe,Netherlands (Kingdom of the),17000.0
+2007,Western Pacific,New Zealand,1900.0
+2007,Americas,Nicaragua,7500.0
+2007,Africa,Niger,44000.0
+2007,Africa,Nigeria,426234.0909090909
+2007,Western Pacific,Niue,40390.0
+2007,Europe,North Macedonia,100.0
+2007,Europe,Norway,15878.611111111111
+2007,Eastern Mediterranean,Oman,1000.0
+2007,Eastern Mediterranean,Pakistan,38000.0
+2007,Western Pacific,Palau,40390.0
+2007,Americas,Panama,17000.0
+2007,Western Pacific,Papua New Guinea,30000.0
+2007,Americas,Paraguay,7900.0
+2007,Americas,Peru,69000.0
+2007,Western Pacific,Philippines,6800.0
+2007,Europe,Poland,10000.0
+2007,Europe,Portugal,38000.0
+2007,Eastern Mediterranean,Qatar,100.0
+2007,Western Pacific,Republic of Korea,40390.0
+2007,Europe,Republic of Moldova,12000.0
+2007,Europe,Romania,14000.0
+2007,Europe,Russian Federation,15878.611111111111
+2007,Africa,Rwanda,230000.0
+2007,Americas,Saint Kitts and Nevis,56114.81481481482
+2007,Americas,Saint Lucia,56114.81481481482
+2007,Americas,Saint Vincent and the Grenadines,56114.81481481482
+2007,Western Pacific,Samoa,40390.0
+2007,Europe,San Marino,15878.611111111111
+2007,Africa,Sao Tome and Principe,1900.0
+2007,Eastern Mediterranean,Saudi Arabia,8500.0
+2007,Africa,Senegal,45000.0
+2007,Europe,Serbia,1600.0
+2007,Africa,Seychelles,426234.0909090909
+2007,Africa,Sierra Leone,62000.0
+2007,Western Pacific,Singapore,40390.0
+2007,Europe,Slovakia,500.0
+2007,Europe,Slovenia,530.0
+2007,Western Pacific,Solomon Islands,40390.0
+2007,Eastern Mediterranean,Somalia,9224.444444444445
+2007,Africa,South Africa,5100000.0
+2007,Africa,South Sudan,150000.0
+2007,Europe,Spain,120000.0
+2007,South-East Asia,Sri Lanka,4100.0
+2007,Eastern Mediterranean,Sudan,25000.0
+2007,Americas,Suriname,4600.0
+2007,Europe,Sweden,15878.611111111111
+2007,Europe,Switzerland,15878.611111111111
+2007,Eastern Mediterranean,Syrian Arab Republic,500.0
+2007,Europe,Tajikistan,1000.0
+2007,South-East Asia,Thailand,710000.0
+2007,South-East Asia,Timor-Leste,660.0
+2007,Africa,Togo,120000.0
+2007,Western Pacific,Tonga,40390.0
+2007,Americas,Trinidad and Tobago,12000.0
+2007,Eastern Mediterranean,Tunisia,3500.0
+2007,Europe,Turkiye,15878.611111111111
+2007,Europe,Turkmenistan,15878.611111111111
+2007,Western Pacific,Tuvalu,40390.0
+2007,Africa,Uganda,990000.0
+2007,Europe,Ukraine,15878.611111111111
+2007,Eastern Mediterranean,United Arab Emirates,640.0
+2007,Europe,United Kingdom of Great Britain and Northern Ireland,15878.611111111111
+2007,Africa,United Republic of Tanzania,1300000.0
+2007,Americas,United States of America,56114.81481481482
+2007,Americas,Uruguay,7500.0
+2007,Europe,Uzbekistan,13000.0
+2007,Western Pacific,Vanuatu,40390.0
+2007,Americas,Venezuela (Bolivarian Republic of),98000.0
+2007,Western Pacific,Viet Nam,190000.0
+2007,Eastern Mediterranean,Yemen,3600.0
+2007,Africa,Zambia,950000.0
+2007,Africa,Zimbabwe,1300000.0
+2008,Eastern Mediterranean,Afghanistan,7400.0
+2008,Europe,Albania,590.0
+2008,Africa,Algeria,7600.0
+2008,Europe,Andorra,16878.61111111111
+2008,Africa,Angola,230000.0
+2008,Americas,Antigua and Barbuda,57859.25925925926
+2008,Americas,Argentina,57859.25925925926
+2008,Europe,Armenia,1200.0
+2008,Western Pacific,Australia,18000.0
+2008,Europe,Austria,16878.61111111111
+2008,Europe,Azerbaijan,7000.0
+2008,Americas,Bahamas,4200.0
+2008,Eastern Mediterranean,Bahrain,10122.222222222223
+2008,South-East Asia,Bangladesh,6200.0
+2008,Americas,Barbados,2000.0
+2008,Europe,Belarus,11000.0
+2008,Europe,Belgium,12000.0
+2008,Americas,Belize,2700.0
+2008,Africa,Benin,69000.0
+2008,South-East Asia,Bhutan,920.0
+2008,Americas,Bolivia (Plurinational State of),18000.0
+2008,Europe,Bosnia and Herzegovina,16878.61111111111
+2008,Africa,Botswana,300000.0
+2008,Americas,Brazil,580000.0
+2008,Western Pacific,Brunei Darussalam,42210.0
+2008,Europe,Bulgaria,1800.0
+2008,Africa,Burkina Faso,120000.0
+2008,Africa,Burundi,99000.0
+2008,Africa,Cabo Verde,2200.0
+2008,Western Pacific,Cambodia,83000.0
+2008,Africa,Cameroon,500000.0
+2008,Americas,Canada,46000.0
+2008,Africa,Central African Republic,140000.0
+2008,Africa,Chad,100000.0
+2008,Americas,Chile,29000.0
+2008,Western Pacific,China,42210.0
+2008,Americas,Colombia,110000.0
+2008,Africa,Comoros,100.0
+2008,Africa,Congo,84000.0
+2008,Western Pacific,Cook Islands,42210.0
+2008,Americas,Costa Rica,7900.0
+2008,Africa,Cote d'Ivoire,560000.0
+2008,Europe,Croatia,1000.0
+2008,Americas,Cuba,18000.0
+2008,Europe,Cyprus,510.0
+2008,Europe,Czechia,1700.0
+2008,South-East Asia,Democratic People's Republic of Korea,134602.0
+2008,Africa,Democratic Republic of the Congo,550000.0
+2008,Europe,Denmark,5300.0
+2008,Eastern Mediterranean,Djibouti,10122.222222222223
+2008,Americas,Dominica,57859.25925925926
+2008,Americas,Dominican Republic,73000.0
+2008,Americas,Ecuador,29000.0
+2008,Eastern Mediterranean,Egypt,3700.0
+2008,Americas,El Salvador,19000.0
+2008,Africa,Equatorial Guinea,33000.0
+2008,Africa,Eritrea,17000.0
+2008,Europe,Estonia,5300.0
+2008,Africa,Eswatini,180000.0
+2008,Africa,Ethiopia,670000.0
+2008,Western Pacific,Fiji,500.0
+2008,Europe,Finland,16878.61111111111
+2008,Europe,France,130000.0
+2008,Africa,Gabon,46000.0
+2008,Africa,Gambia,21000.0
+2008,Europe,Georgia,2400.0
+2008,Europe,Germany,60000.0
+2008,Africa,Ghana,300000.0
+2008,Europe,Greece,8400.0
+2008,Americas,Grenada,57859.25925925926
+2008,Americas,Guatemala,30000.0
+2008,Africa,Guinea,94000.0
+2008,Africa,Guinea-Bissau,37000.0
+2008,Americas,Guyana,6300.0
+2008,Americas,Haiti,110000.0
+2008,Americas,Honduras,28000.0
+2008,Europe,Hungary,16878.61111111111
+2008,Europe,Iceland,200.0
+2008,South-East Asia,India,0.0
+2008,South-East Asia,Indonesia,370000.0
+2008,Eastern Mediterranean,Iran (Islamic Republic of),53000.0
+2008,Eastern Mediterranean,Iraq,1100.0
+2008,Europe,Ireland,4100.0
+2008,Europe,Israel,16878.61111111111
+2008,Europe,Italy,110000.0
+2008,Americas,Jamaica,25000.0
+2008,Western Pacific,Japan,42210.0
+2008,Eastern Mediterranean,Jordan,500.0
+2008,Europe,Kazakhstan,16878.61111111111
+2008,Africa,Kenya,1400000.0
+2008,Western Pacific,Kiribati,42210.0
+2008,Eastern Mediterranean,Kuwait,500.0
+2008,Europe,Kyrgyzstan,3000.0
+2008,Western Pacific,Lao People's Democratic Republic,8000.0
+2008,Europe,Latvia,4400.0
+2008,Eastern Mediterranean,Lebanon,1600.0
+2008,Africa,Lesotho,270000.0
+2008,Africa,Liberia,40000.0
+2008,Eastern Mediterranean,Libya,3900.0
+2008,Europe,Lithuania,1900.0
+2008,Europe,Luxembourg,640.0
+2008,Africa,Madagascar,12000.0
+2008,Africa,Malawi,890000.0
+2008,Western Pacific,Malaysia,69000.0
+2008,South-East Asia,Maldives,100.0
+2008,Africa,Mali,110000.0
+2008,Europe,Malta,500.0
+2008,Western Pacific,Marshall Islands,42210.0
+2008,Africa,Mauritania,9500.0
+2008,Africa,Mauritius,436663.63636363635
+2008,Americas,Mexico,200000.0
+2008,Western Pacific,Micronesia (Federated States of),42210.0
+2008,Europe,Monaco,16878.61111111111
+2008,Western Pacific,Mongolia,500.0
+2008,Europe,Montenegro,200.0
+2008,Eastern Mediterranean,Morocco,16000.0
+2008,Africa,Mozambique,1500000.0
+2008,South-East Asia,Myanmar,240000.0
+2008,Africa,Namibia,180000.0
+2008,Western Pacific,Nauru,42210.0
+2008,South-East Asia,Nepal,34000.0
+2008,Europe,Netherlands (Kingdom of the),18000.0
+2008,Western Pacific,New Zealand,2000.0
+2008,Americas,Nicaragua,7900.0
+2008,Africa,Niger,42000.0
+2008,Africa,Nigeria,436663.63636363635
+2008,Western Pacific,Niue,42210.0
+2008,Europe,North Macedonia,200.0
+2008,Europe,Norway,16878.61111111111
+2008,Eastern Mediterranean,Oman,1100.0
+2008,Eastern Mediterranean,Pakistan,50000.0
+2008,Western Pacific,Palau,42210.0
+2008,Americas,Panama,17000.0
+2008,Western Pacific,Papua New Guinea,32000.0
+2008,Americas,Paraguay,8600.0
+2008,Americas,Peru,69000.0
+2008,Western Pacific,Philippines,9100.0
+2008,Europe,Poland,10000.0
+2008,Europe,Portugal,39000.0
+2008,Eastern Mediterranean,Qatar,100.0
+2008,Western Pacific,Republic of Korea,42210.0
+2008,Europe,Republic of Moldova,12000.0
+2008,Europe,Romania,14000.0
+2008,Europe,Russian Federation,16878.61111111111
+2008,Africa,Rwanda,230000.0
+2008,Americas,Saint Kitts and Nevis,57859.25925925926
+2008,Americas,Saint Lucia,57859.25925925926
+2008,Americas,Saint Vincent and the Grenadines,57859.25925925926
+2008,Western Pacific,Samoa,42210.0
+2008,Europe,San Marino,16878.61111111111
+2008,Africa,Sao Tome and Principe,1800.0
+2008,Eastern Mediterranean,Saudi Arabia,8200.0
+2008,Africa,Senegal,45000.0
+2008,Europe,Serbia,1700.0
+2008,Africa,Seychelles,436663.63636363635
+2008,Africa,Sierra Leone,63000.0
+2008,Western Pacific,Singapore,42210.0
+2008,Europe,Slovakia,500.0
+2008,Europe,Slovenia,590.0
+2008,Western Pacific,Solomon Islands,42210.0
+2008,Eastern Mediterranean,Somalia,10122.222222222223
+2008,Africa,South Africa,5300000.0
+2008,Africa,South Sudan,160000.0
+2008,Europe,Spain,120000.0
+2008,South-East Asia,Sri Lanka,4100.0
+2008,Eastern Mediterranean,Sudan,26000.0
+2008,Americas,Suriname,4700.0
+2008,Europe,Sweden,16878.61111111111
+2008,Europe,Switzerland,16878.61111111111
+2008,Eastern Mediterranean,Syrian Arab Republic,500.0
+2008,Europe,Tajikistan,1500.0
+2008,South-East Asia,Thailand,690000.0
+2008,South-East Asia,Timor-Leste,700.0
+2008,Africa,Togo,120000.0
+2008,Western Pacific,Tonga,42210.0
+2008,Americas,Trinidad and Tobago,12000.0
+2008,Eastern Mediterranean,Tunisia,3900.0
+2008,Europe,Turkiye,16878.61111111111
+2008,Europe,Turkmenistan,16878.61111111111
+2008,Western Pacific,Tuvalu,42210.0
+2008,Africa,Uganda,1000000.0
+2008,Europe,Ukraine,16878.61111111111
+2008,Eastern Mediterranean,United Arab Emirates,800.0
+2008,Europe,United Kingdom of Great Britain and Northern Ireland,16878.61111111111
+2008,Africa,United Republic of Tanzania,1400000.0
+2008,Americas,United States of America,57859.25925925926
+2008,Americas,Uruguay,7900.0
+2008,Europe,Uzbekistan,17000.0
+2008,Western Pacific,Vanuatu,42210.0
+2008,Americas,Venezuela (Bolivarian Republic of),97000.0
+2008,Western Pacific,Viet Nam,200000.0
+2008,Eastern Mediterranean,Yemen,3900.0
+2008,Africa,Zambia,980000.0
+2008,Africa,Zimbabwe,1300000.0
+2009,Eastern Mediterranean,Afghanistan,7700.0
+2009,Europe,Albania,680.0
+2009,Africa,Algeria,8500.0
+2009,Europe,Andorra,17898.61111111111
+2009,Africa,Angola,240000.0
+2009,Americas,Antigua and Barbuda,59707.40740740741
+2009,Americas,Argentina,59707.40740740741
+2009,Europe,Armenia,1400.0
+2009,Western Pacific,Australia,19000.0
+2009,Europe,Austria,17898.61111111111
+2009,Europe,Azerbaijan,7300.0
+2009,Americas,Bahamas,4200.0
+2009,Eastern Mediterranean,Bahrain,11152.777777777777
+2009,South-East Asia,Bangladesh,6900.0
+2009,Americas,Barbados,2000.0
+2009,Europe,Belarus,12000.0
+2009,Europe,Belgium,13000.0
+2009,Americas,Belize,2800.0
+2009,Africa,Benin,71000.0
+2009,South-East Asia,Bhutan,940.0
+2009,Americas,Bolivia (Plurinational State of),19000.0
+2009,Europe,Bosnia and Herzegovina,17898.61111111111
+2009,Africa,Botswana,310000.0
+2009,Americas,Brazil,610000.0
+2009,Western Pacific,Brunei Darussalam,43200.0
+2009,Europe,Bulgaria,1900.0
+2009,Africa,Burkina Faso,120000.0
+2009,Africa,Burundi,100000.0
+2009,Africa,Cabo Verde,2200.0
+2009,Western Pacific,Cambodia,83000.0
+2009,Africa,Cameroon,500000.0
+2009,Americas,Canada,47000.0
+2009,Africa,Central African Republic,140000.0
+2009,Africa,Chad,100000.0
+2009,Americas,Chile,31000.0
+2009,Western Pacific,China,43200.0
+2009,Americas,Colombia,110000.0
+2009,Africa,Comoros,200.0
+2009,Africa,Congo,89000.0
+2009,Western Pacific,Cook Islands,43200.0
+2009,Americas,Costa Rica,8500.0
+2009,Africa,Cote d'Ivoire,540000.0
+2009,Europe,Croatia,1100.0
+2009,Americas,Cuba,20000.0
+2009,Europe,Cyprus,560.0
+2009,Europe,Czechia,1900.0
+2009,South-East Asia,Democratic People's Republic of Korea,136688.0
+2009,Africa,Democratic Republic of the Congo,540000.0
+2009,Europe,Denmark,5500.0
+2009,Eastern Mediterranean,Djibouti,11152.777777777777
+2009,Americas,Dominica,59707.40740740741
+2009,Americas,Dominican Republic,73000.0
+2009,Americas,Ecuador,29000.0
+2009,Eastern Mediterranean,Egypt,4400.0
+2009,Americas,El Salvador,19000.0
+2009,Africa,Equatorial Guinea,36000.0
+2009,Africa,Eritrea,17000.0
+2009,Europe,Estonia,5600.0
+2009,Africa,Eswatini,190000.0
+2009,Africa,Ethiopia,670000.0
+2009,Western Pacific,Fiji,500.0
+2009,Europe,Finland,17898.61111111111
+2009,Europe,France,140000.0
+2009,Africa,Gabon,47000.0
+2009,Africa,Gambia,22000.0
+2009,Europe,Georgia,2900.0
+2009,Europe,Germany,62000.0
+2009,Africa,Ghana,300000.0
+2009,Europe,Greece,9200.0
+2009,Americas,Grenada,59707.40740740741
+2009,Americas,Guatemala,30000.0
+2009,Africa,Guinea,97000.0
+2009,Africa,Guinea-Bissau,37000.0
+2009,Americas,Guyana,6600.0
+2009,Americas,Haiti,110000.0
+2009,Americas,Honduras,27000.0
+2009,Europe,Hungary,17898.61111111111
+2009,Europe,Iceland,200.0
+2009,South-East Asia,India,0.0
+2009,South-East Asia,Indonesia,400000.0
+2009,Eastern Mediterranean,Iran (Islamic Republic of),54000.0
+2009,Eastern Mediterranean,Iraq,1100.0
+2009,Europe,Ireland,4400.0
+2009,Europe,Israel,17898.61111111111
+2009,Europe,Italy,110000.0
+2009,Americas,Jamaica,26000.0
+2009,Western Pacific,Japan,43200.0
+2009,Eastern Mediterranean,Jordan,500.0
+2009,Europe,Kazakhstan,17898.61111111111
+2009,Africa,Kenya,1400000.0
+2009,Western Pacific,Kiribati,43200.0
+2009,Eastern Mediterranean,Kuwait,500.0
+2009,Europe,Kyrgyzstan,3600.0
+2009,Western Pacific,Lao People's Democratic Republic,8800.0
+2009,Europe,Latvia,4600.0
+2009,Eastern Mediterranean,Lebanon,1800.0
+2009,Africa,Lesotho,270000.0
+2009,Africa,Liberia,40000.0
+2009,Eastern Mediterranean,Libya,4500.0
+2009,Europe,Lithuania,2000.0
+2009,Europe,Luxembourg,680.0
+2009,Africa,Madagascar,14000.0
+2009,Africa,Malawi,900000.0
+2009,Western Pacific,Malaysia,72000.0
+2009,South-East Asia,Maldives,100.0
+2009,Africa,Mali,110000.0
+2009,Europe,Malta,500.0
+2009,Western Pacific,Marshall Islands,43200.0
+2009,Africa,Mauritania,9500.0
+2009,Africa,Mauritius,442525.0
+2009,Americas,Mexico,210000.0
+2009,Western Pacific,Micronesia (Federated States of),43200.0
+2009,Europe,Monaco,17898.61111111111
+2009,Western Pacific,Mongolia,500.0
+2009,Europe,Montenegro,200.0
+2009,Eastern Mediterranean,Morocco,17000.0
+2009,Africa,Mozambique,1500000.0
+2009,South-East Asia,Myanmar,240000.0
+2009,Africa,Namibia,180000.0
+2009,Western Pacific,Nauru,43200.0
+2009,South-East Asia,Nepal,34000.0
+2009,Europe,Netherlands (Kingdom of the),19000.0
+2009,Western Pacific,New Zealand,2200.0
+2009,Americas,Nicaragua,8300.0
+2009,Africa,Niger,40000.0
+2009,Africa,Nigeria,442525.0
+2009,Western Pacific,Niue,43200.0
+2009,Europe,North Macedonia,200.0
+2009,Europe,Norway,17898.61111111111
+2009,Eastern Mediterranean,Oman,1200.0
+2009,Eastern Mediterranean,Pakistan,63000.0
+2009,Western Pacific,Palau,43200.0
+2009,Americas,Panama,18000.0
+2009,Western Pacific,Papua New Guinea,34000.0
+2009,Americas,Paraguay,9400.0
+2009,Americas,Peru,69000.0
+2009,Western Pacific,Philippines,12000.0
+2009,Europe,Poland,11000.0
+2009,Europe,Portugal,39000.0
+2009,Eastern Mediterranean,Qatar,100.0
+2009,Western Pacific,Republic of Korea,43200.0
+2009,Europe,Republic of Moldova,13000.0
+2009,Europe,Romania,15000.0
+2009,Europe,Russian Federation,17898.61111111111
+2009,Africa,Rwanda,230000.0
+2009,Americas,Saint Kitts and Nevis,59707.40740740741
+2009,Americas,Saint Lucia,59707.40740740741
+2009,Americas,Saint Vincent and the Grenadines,59707.40740740741
+2009,Western Pacific,Samoa,43200.0
+2009,Europe,San Marino,17898.61111111111
+2009,Africa,Sao Tome and Principe,1700.0
+2009,Eastern Mediterranean,Saudi Arabia,8000.0
+2009,Africa,Senegal,45000.0
+2009,Europe,Serbia,1800.0
+2009,Africa,Seychelles,442525.0
+2009,Africa,Sierra Leone,64000.0
+2009,Western Pacific,Singapore,43200.0
+2009,Europe,Slovakia,500.0
+2009,Europe,Slovenia,630.0
+2009,Western Pacific,Solomon Islands,43200.0
+2009,Eastern Mediterranean,Somalia,11152.777777777777
+2009,Africa,South Africa,5500000.0
+2009,Africa,South Sudan,170000.0
+2009,Europe,Spain,130000.0
+2009,South-East Asia,Sri Lanka,4200.0
+2009,Eastern Mediterranean,Sudan,27000.0
+2009,Americas,Suriname,4900.0
+2009,Europe,Sweden,17898.61111111111
+2009,Europe,Switzerland,17898.61111111111
+2009,Eastern Mediterranean,Syrian Arab Republic,500.0
+2009,Europe,Tajikistan,2000.0
+2009,South-East Asia,Thailand,680000.0
+2009,South-East Asia,Timor-Leste,740.0
+2009,Africa,Togo,120000.0
+2009,Western Pacific,Tonga,43200.0
+2009,Americas,Trinidad and Tobago,12000.0
+2009,Eastern Mediterranean,Tunisia,4300.0
+2009,Europe,Turkiye,17898.61111111111
+2009,Europe,Turkmenistan,17898.61111111111
+2009,Western Pacific,Tuvalu,43200.0
+2009,Africa,Uganda,1000000.0
+2009,Europe,Ukraine,17898.61111111111
+2009,Eastern Mediterranean,United Arab Emirates,950.0
+2009,Europe,United Kingdom of Great Britain and Northern Ireland,17898.61111111111
+2009,Africa,United Republic of Tanzania,1400000.0
+2009,Americas,United States of America,59707.40740740741
+2009,Americas,Uruguay,8400.0
+2009,Europe,Uzbekistan,21000.0
+2009,Western Pacific,Vanuatu,43200.0
+2009,Americas,Venezuela (Bolivarian Republic of),97000.0
+2009,Western Pacific,Viet Nam,200000.0
+2009,Eastern Mediterranean,Yemen,4200.0
+2009,Africa,Zambia,1000000.0
+2009,Africa,Zimbabwe,1300000.0
+2010,Eastern Mediterranean,Afghanistan,8000.0
+2010,Europe,Albania,760.0
+2010,Africa,Algeria,9600.0
+2010,Europe,Andorra,18669.444444444445
+2010,Africa,Angola,260000.0
+2010,Americas,Antigua and Barbuda,62000.0
+2010,Americas,Argentina,62000.0
+2010,Europe,Armenia,1700.0
+2010,Western Pacific,Australia,20000.0
+2010,Europe,Austria,18669.444444444445
+2010,Europe,Azerbaijan,7500.0
+2010,Americas,Bahamas,4300.0
+2010,Eastern Mediterranean,Bahrain,12022.222222222223
+2010,South-East Asia,Bangladesh,7500.0
+2010,Americas,Barbados,2100.0
+2010,Europe,Belarus,14000.0
+2010,Europe,Belgium,14000.0
+2010,Americas,Belize,2900.0
+2010,Africa,Benin,72000.0
+2010,South-East Asia,Bhutan,960.0
+2010,Americas,Bolivia (Plurinational State of),20000.0
+2010,Europe,Bosnia and Herzegovina,18669.444444444445
+2010,Africa,Botswana,310000.0
+2010,Americas,Brazil,640000.0
+2010,Western Pacific,Brunei Darussalam,45291.0
+2010,Europe,Bulgaria,2000.0
+2010,Africa,Burkina Faso,120000.0
+2010,Africa,Burundi,98000.0
+2010,Africa,Cabo Verde,2300.0
+2010,Western Pacific,Cambodia,83000.0
+2010,Africa,Cameroon,510000.0
+2010,Americas,Canada,49000.0
+2010,Africa,Central African Republic,140000.0
+2010,Africa,Chad,110000.0
+2010,Americas,Chile,33000.0
+2010,Western Pacific,China,45291.0
+2010,Americas,Colombia,120000.0
+2010,Africa,Comoros,200.0
+2010,Africa,Congo,92000.0
+2010,Western Pacific,Cook Islands,45291.0
+2010,Americas,Costa Rica,9300.0
+2010,Africa,Cote d'Ivoire,520000.0
+2010,Europe,Croatia,1100.0
+2010,Americas,Cuba,22000.0
+2010,Europe,Cyprus,650.0
+2010,Europe,Czechia,2100.0
+2010,South-East Asia,Democratic People's Republic of Korea,138755.0
+2010,Africa,Democratic Republic of the Congo,530000.0
+2010,Europe,Denmark,5600.0
+2010,Eastern Mediterranean,Djibouti,12022.222222222223
+2010,Americas,Dominica,62000.0
+2010,Americas,Dominican Republic,73000.0
+2010,Americas,Ecuador,31000.0
+2010,Eastern Mediterranean,Egypt,5300.0
+2010,Americas,El Salvador,20000.0
+2010,Africa,Equatorial Guinea,39000.0
+2010,Africa,Eritrea,16000.0
+2010,Europe,Estonia,5900.0
+2010,Africa,Eswatini,190000.0
+2010,Africa,Ethiopia,670000.0
+2010,Western Pacific,Fiji,510.0
+2010,Europe,Finland,18669.444444444445
+2010,Europe,France,140000.0
+2010,Africa,Gabon,47000.0
+2010,Africa,Gambia,23000.0
+2010,Europe,Georgia,3400.0
+2010,Europe,Germany,65000.0
+2010,Africa,Ghana,300000.0
+2010,Europe,Greece,10000.0
+2010,Americas,Grenada,62000.0
+2010,Americas,Guatemala,30000.0
+2010,Africa,Guinea,100000.0
+2010,Africa,Guinea-Bissau,37000.0
+2010,Americas,Guyana,6900.0
+2010,Americas,Haiti,110000.0
+2010,Americas,Honduras,26000.0
+2010,Europe,Hungary,18669.444444444445
+2010,Europe,Iceland,200.0
+2010,South-East Asia,India,0.0
+2010,South-East Asia,Indonesia,440000.0
+2010,Eastern Mediterranean,Iran (Islamic Republic of),54000.0
+2010,Eastern Mediterranean,Iraq,1100.0
+2010,Europe,Ireland,4700.0
+2010,Europe,Israel,18669.444444444445
+2010,Europe,Italy,120000.0
+2010,Americas,Jamaica,26000.0
+2010,Western Pacific,Japan,45291.0
+2010,Eastern Mediterranean,Jordan,500.0
+2010,Europe,Kazakhstan,18669.444444444445
+2010,Africa,Kenya,1400000.0
+2010,Western Pacific,Kiribati,45291.0
+2010,Eastern Mediterranean,Kuwait,500.0
+2010,Europe,Kyrgyzstan,4100.0
+2010,Western Pacific,Lao People's Democratic Republic,9600.0
+2010,Europe,Latvia,4700.0
+2010,Eastern Mediterranean,Lebanon,1900.0
+2010,Africa,Lesotho,280000.0
+2010,Africa,Liberia,40000.0
+2010,Eastern Mediterranean,Libya,5000.0
+2010,Europe,Lithuania,2200.0
+2010,Europe,Luxembourg,720.0
+2010,Africa,Madagascar,17000.0
+2010,Africa,Malawi,910000.0
+2010,Western Pacific,Malaysia,74000.0
+2010,South-East Asia,Maldives,100.0
+2010,Africa,Mali,120000.0
+2010,Europe,Malta,500.0
+2010,Western Pacific,Marshall Islands,45291.0
+2010,Africa,Mauritania,9300.0
+2010,Africa,Mauritius,457795.45454545453
+2010,Americas,Mexico,220000.0
+2010,Western Pacific,Micronesia (Federated States of),45291.0
+2010,Europe,Monaco,18669.444444444445
+2010,Western Pacific,Mongolia,500.0
+2010,Europe,Montenegro,200.0
+2010,Eastern Mediterranean,Morocco,18000.0
+2010,Africa,Mozambique,1600000.0
+2010,South-East Asia,Myanmar,240000.0
+2010,Africa,Namibia,190000.0
+2010,Western Pacific,Nauru,45291.0
+2010,South-East Asia,Nepal,34000.0
+2010,Europe,Netherlands (Kingdom of the),20000.0
+2010,Western Pacific,New Zealand,2300.0
+2010,Americas,Nicaragua,8600.0
+2010,Africa,Niger,39000.0
+2010,Africa,Nigeria,457795.45454545453
+2010,Western Pacific,Niue,45291.0
+2010,Europe,North Macedonia,200.0
+2010,Europe,Norway,18669.444444444445
+2010,Eastern Mediterranean,Oman,1400.0
+2010,Eastern Mediterranean,Pakistan,75000.0
+2010,Western Pacific,Palau,45291.0
+2010,Americas,Panama,19000.0
+2010,Western Pacific,Papua New Guinea,36000.0
+2010,Americas,Paraguay,10000.0
+2010,Americas,Peru,69000.0
+2010,Western Pacific,Philippines,17000.0
+2010,Europe,Poland,12000.0
+2010,Europe,Portugal,40000.0
+2010,Eastern Mediterranean,Qatar,200.0
+2010,Western Pacific,Republic of Korea,45291.0
+2010,Europe,Republic of Moldova,13000.0
+2010,Europe,Romania,15000.0
+2010,Europe,Russian Federation,18669.444444444445
+2010,Africa,Rwanda,230000.0
+2010,Americas,Saint Kitts and Nevis,62000.0
+2010,Americas,Saint Lucia,62000.0
+2010,Americas,Saint Vincent and the Grenadines,62000.0
+2010,Western Pacific,Samoa,45291.0
+2010,Europe,San Marino,18669.444444444445
+2010,Africa,Sao Tome and Principe,1600.0
+2010,Eastern Mediterranean,Saudi Arabia,7700.0
+2010,Africa,Senegal,45000.0
+2010,Europe,Serbia,2000.0
+2010,Africa,Seychelles,457795.45454545453
+2010,Africa,Sierra Leone,65000.0
+2010,Western Pacific,Singapore,45291.0
+2010,Europe,Slovakia,500.0
+2010,Europe,Slovenia,670.0
+2010,Western Pacific,Solomon Islands,45291.0
+2010,Eastern Mediterranean,Somalia,12022.222222222223
+2010,Africa,South Africa,5800000.0
+2010,Africa,South Sudan,180000.0
+2010,Europe,Spain,130000.0
+2010,South-East Asia,Sri Lanka,4200.0
+2010,Eastern Mediterranean,Sudan,27000.0
+2010,Americas,Suriname,5100.0
+2010,Europe,Sweden,18669.444444444445
+2010,Europe,Switzerland,18669.444444444445
+2010,Eastern Mediterranean,Syrian Arab Republic,500.0
+2010,Europe,Tajikistan,2700.0
+2010,South-East Asia,Thailand,660000.0
+2010,South-East Asia,Timor-Leste,790.0
+2010,Africa,Togo,120000.0
+2010,Western Pacific,Tonga,45291.0
+2010,Americas,Trinidad and Tobago,12000.0
+2010,Eastern Mediterranean,Tunisia,4700.0
+2010,Europe,Turkiye,18669.444444444445
+2010,Europe,Turkmenistan,18669.444444444445
+2010,Western Pacific,Tuvalu,45291.0
+2010,Africa,Uganda,1100000.0
+2010,Europe,Ukraine,18669.444444444445
+2010,Eastern Mediterranean,United Arab Emirates,1000.0
+2010,Europe,United Kingdom of Great Britain and Northern Ireland,18669.444444444445
+2010,Africa,United Republic of Tanzania,1400000.0
+2010,Americas,United States of America,62000.0
+2010,Americas,Uruguay,8800.0
+2010,Europe,Uzbekistan,25000.0
+2010,Western Pacific,Vanuatu,45291.0
+2010,Americas,Venezuela (Bolivarian Republic of),96000.0
+2010,Western Pacific,Viet Nam,210000.0
+2010,Eastern Mediterranean,Yemen,4600.0
+2010,Africa,Zambia,1100000.0
+2010,Africa,Zimbabwe,1300000.0
+2011,Eastern Mediterranean,Afghanistan,8400.0
+2011,Europe,Albania,840.0
+2011,Africa,Algeria,11000.0
+2011,Europe,Andorra,19346.38888888889
+2011,Africa,Angola,270000.0
+2011,Americas,Antigua and Barbuda,64333.333333333336
+2011,Americas,Argentina,64333.333333333336
+2011,Europe,Armenia,2100.0
+2011,Western Pacific,Australia,21000.0
+2011,Europe,Austria,19346.38888888889
+2011,Europe,Azerbaijan,7700.0
+2011,Americas,Bahamas,4300.0
+2011,Eastern Mediterranean,Bahrain,12733.333333333334
+2011,South-East Asia,Bangladesh,8200.0
+2011,Americas,Barbados,2100.0
+2011,Europe,Belarus,16000.0
+2011,Europe,Belgium,14000.0
+2011,Americas,Belize,3000.0
+2011,Africa,Benin,74000.0
+2011,South-East Asia,Bhutan,960.0
+2011,Americas,Bolivia (Plurinational State of),20000.0
+2011,Europe,Bosnia and Herzegovina,19346.38888888889
+2011,Africa,Botswana,320000.0
+2011,Americas,Brazil,670000.0
+2011,Western Pacific,Brunei Darussalam,47147.0
+2011,Europe,Bulgaria,2100.0
+2011,Africa,Burkina Faso,120000.0
+2011,Africa,Burundi,95000.0
+2011,Africa,Cabo Verde,2400.0
+2011,Western Pacific,Cambodia,82000.0
+2011,Africa,Cameroon,510000.0
+2011,Americas,Canada,50000.0
+2011,Africa,Central African Republic,140000.0
+2011,Africa,Chad,110000.0
+2011,Americas,Chile,36000.0
+2011,Western Pacific,China,47147.0
+2011,Americas,Colombia,120000.0
+2011,Africa,Comoros,200.0
+2011,Africa,Congo,95000.0
+2011,Western Pacific,Cook Islands,47147.0
+2011,Americas,Costa Rica,10000.0
+2011,Africa,Cote d'Ivoire,510000.0
+2011,Europe,Croatia,1200.0
+2011,Americas,Cuba,24000.0
+2011,Europe,Cyprus,750.0
+2011,Europe,Czechia,2200.0
+2011,South-East Asia,Democratic People's Republic of Korea,141730.0
+2011,Africa,Democratic Republic of the Congo,520000.0
+2011,Europe,Denmark,5800.0
+2011,Eastern Mediterranean,Djibouti,12733.333333333334
+2011,Americas,Dominica,64333.333333333336
+2011,Americas,Dominican Republic,73000.0
+2011,Americas,Ecuador,32000.0
+2011,Eastern Mediterranean,Egypt,6300.0
+2011,Americas,El Salvador,21000.0
+2011,Africa,Equatorial Guinea,42000.0
+2011,Africa,Eritrea,16000.0
+2011,Europe,Estonia,6100.0
+2011,Africa,Eswatini,200000.0
+2011,Africa,Ethiopia,660000.0
+2011,Western Pacific,Fiji,570.0
+2011,Europe,Finland,19346.38888888889
+2011,Europe,France,150000.0
+2011,Africa,Gabon,48000.0
+2011,Africa,Gambia,23000.0
+2011,Europe,Georgia,3900.0
+2011,Europe,Germany,67000.0
+2011,Africa,Ghana,310000.0
+2011,Europe,Greece,11000.0
+2011,Americas,Grenada,64333.333333333336
+2011,Americas,Guatemala,30000.0
+2011,Africa,Guinea,100000.0
+2011,Africa,Guinea-Bissau,37000.0
+2011,Americas,Guyana,7100.0
+2011,Americas,Haiti,110000.0
+2011,Americas,Honduras,25000.0
+2011,Europe,Hungary,19346.38888888889
+2011,Europe,Iceland,500.0
+2011,South-East Asia,India,0.0
+2011,South-East Asia,Indonesia,470000.0
+2011,Eastern Mediterranean,Iran (Islamic Republic of),53000.0
+2011,Eastern Mediterranean,Iraq,1200.0
+2011,Europe,Ireland,5000.0
+2011,Europe,Israel,19346.38888888889
+2011,Europe,Italy,120000.0
+2011,Americas,Jamaica,27000.0
+2011,Western Pacific,Japan,47147.0
+2011,Eastern Mediterranean,Jordan,500.0
+2011,Europe,Kazakhstan,19346.38888888889
+2011,Africa,Kenya,1400000.0
+2011,Western Pacific,Kiribati,47147.0
+2011,Eastern Mediterranean,Kuwait,500.0
+2011,Europe,Kyrgyzstan,4700.0
+2011,Western Pacific,Lao People's Democratic Republic,10000.0
+2011,Europe,Latvia,4900.0
+2011,Eastern Mediterranean,Lebanon,2000.0
+2011,Africa,Lesotho,290000.0
+2011,Africa,Liberia,41000.0
+2011,Eastern Mediterranean,Libya,4500.0
+2011,Europe,Lithuania,2300.0
+2011,Europe,Luxembourg,780.0
+2011,Africa,Madagascar,20000.0
+2011,Africa,Malawi,930000.0
+2011,Western Pacific,Malaysia,76000.0
+2011,South-East Asia,Maldives,100.0
+2011,Africa,Mali,120000.0
+2011,Europe,Malta,500.0
+2011,Western Pacific,Marshall Islands,47147.0
+2011,Africa,Mauritania,9200.0
+2011,Africa,Mauritius,465986.36363636365
+2011,Americas,Mexico,240000.0
+2011,Western Pacific,Micronesia (Federated States of),47147.0
+2011,Europe,Monaco,19346.38888888889
+2011,Western Pacific,Mongolia,500.0
+2011,Europe,Montenegro,200.0
+2011,Eastern Mediterranean,Morocco,18000.0
+2011,Africa,Mozambique,1700000.0
+2011,South-East Asia,Myanmar,250000.0
+2011,Africa,Namibia,190000.0
+2011,Western Pacific,Nauru,47147.0
+2011,South-East Asia,Nepal,33000.0
+2011,Europe,Netherlands (Kingdom of the),20000.0
+2011,Western Pacific,New Zealand,2400.0
+2011,Americas,Nicaragua,9000.0
+2011,Africa,Niger,37000.0
+2011,Africa,Nigeria,465986.36363636365
+2011,Western Pacific,Niue,47147.0
+2011,Europe,North Macedonia,200.0
+2011,Europe,Norway,19346.38888888889
+2011,Eastern Mediterranean,Oman,1600.0
+2011,Eastern Mediterranean,Pakistan,86000.0
+2011,Western Pacific,Palau,47147.0
+2011,Americas,Panama,20000.0
+2011,Western Pacific,Papua New Guinea,37000.0
+2011,Americas,Paraguay,11000.0
+2011,Americas,Peru,70000.0
+2011,Western Pacific,Philippines,22000.0
+2011,Europe,Poland,12000.0
+2011,Europe,Portugal,41000.0
+2011,Eastern Mediterranean,Qatar,200.0
+2011,Western Pacific,Republic of Korea,47147.0
+2011,Europe,Republic of Moldova,13000.0
+2011,Europe,Romania,15000.0
+2011,Europe,Russian Federation,19346.38888888889
+2011,Africa,Rwanda,240000.0
+2011,Americas,Saint Kitts and Nevis,64333.333333333336
+2011,Americas,Saint Lucia,64333.333333333336
+2011,Americas,Saint Vincent and the Grenadines,64333.333333333336
+2011,Western Pacific,Samoa,47147.0
+2011,Europe,San Marino,19346.38888888889
+2011,Africa,Sao Tome and Principe,1600.0
+2011,Eastern Mediterranean,Saudi Arabia,7500.0
+2011,Africa,Senegal,45000.0
+2011,Europe,Serbia,2100.0
+2011,Africa,Seychelles,465986.36363636365
+2011,Africa,Sierra Leone,66000.0
+2011,Western Pacific,Singapore,47147.0
+2011,Europe,Slovakia,500.0
+2011,Europe,Slovenia,700.0
+2011,Western Pacific,Solomon Islands,47147.0
+2011,Eastern Mediterranean,Somalia,12733.333333333334
+2011,Africa,South Africa,6000000.0
+2011,Africa,South Sudan,180000.0
+2011,Europe,Spain,130000.0
+2011,South-East Asia,Sri Lanka,4200.0
+2011,Eastern Mediterranean,Sudan,28000.0
+2011,Americas,Suriname,5200.0
+2011,Europe,Sweden,19346.38888888889
+2011,Europe,Switzerland,19346.38888888889
+2011,Eastern Mediterranean,Syrian Arab Republic,500.0
+2011,Europe,Tajikistan,3400.0
+2011,South-East Asia,Thailand,650000.0
+2011,South-East Asia,Timor-Leste,840.0
+2011,Africa,Togo,120000.0
+2011,Western Pacific,Tonga,47147.0
+2011,Americas,Trinidad and Tobago,12000.0
+2011,Eastern Mediterranean,Tunisia,5100.0
+2011,Europe,Turkiye,19346.38888888889
+2011,Europe,Turkmenistan,19346.38888888889
+2011,Western Pacific,Tuvalu,47147.0
+2011,Africa,Uganda,1100000.0
+2011,Europe,Ukraine,19346.38888888889
+2011,Eastern Mediterranean,United Arab Emirates,1000.0
+2011,Europe,United Kingdom of Great Britain and Northern Ireland,19346.38888888889
+2011,Africa,United Republic of Tanzania,1400000.0
+2011,Americas,United States of America,64333.333333333336
+2011,Americas,Uruguay,9300.0
+2011,Europe,Uzbekistan,29000.0
+2011,Western Pacific,Vanuatu,47147.0
+2011,Americas,Venezuela (Bolivarian Republic of),96000.0
+2011,Western Pacific,Viet Nam,220000.0
+2011,Eastern Mediterranean,Yemen,4900.0
+2011,Africa,Zambia,1100000.0
+2011,Africa,Zimbabwe,1300000.0
+2012,Eastern Mediterranean,Afghanistan,8800.0
+2012,Europe,Albania,920.0
+2012,Africa,Algeria,12000.0
+2012,Europe,Andorra,19895.277777777777
+2012,Africa,Angola,280000.0
+2012,Americas,Antigua and Barbuda,66270.37037037036
+2012,Americas,Argentina,66270.37037037036
+2012,Europe,Armenia,2400.0
+2012,Western Pacific,Australia,22000.0
+2012,Europe,Austria,19895.277777777777
+2012,Europe,Azerbaijan,7900.0
+2012,Americas,Bahamas,4200.0
+2012,Eastern Mediterranean,Bahrain,13583.333333333334
+2012,South-East Asia,Bangladesh,9000.0
+2012,Americas,Barbados,2100.0
+2012,Europe,Belarus,17000.0
+2012,Europe,Belgium,15000.0
+2012,Americas,Belize,3100.0
+2012,Africa,Benin,75000.0
+2012,South-East Asia,Bhutan,970.0
+2012,Americas,Bolivia (Plurinational State of),21000.0
+2012,Europe,Bosnia and Herzegovina,19895.277777777777
+2012,Africa,Botswana,330000.0
+2012,Americas,Brazil,700000.0
+2012,Western Pacific,Brunei Darussalam,48274.0
+2012,Europe,Bulgaria,2200.0
+2012,Africa,Burkina Faso,120000.0
+2012,Africa,Burundi,94000.0
+2012,Africa,Cabo Verde,2500.0
+2012,Western Pacific,Cambodia,82000.0
+2012,Africa,Cameroon,510000.0
+2012,Americas,Canada,51000.0
+2012,Africa,Central African Republic,130000.0
+2012,Africa,Chad,110000.0
+2012,Americas,Chile,39000.0
+2012,Western Pacific,China,48274.0
+2012,Americas,Colombia,120000.0
+2012,Africa,Comoros,200.0
+2012,Africa,Congo,97000.0
+2012,Western Pacific,Cook Islands,48274.0
+2012,Americas,Costa Rica,11000.0
+2012,Africa,Cote d'Ivoire,490000.0
+2012,Europe,Croatia,1300.0
+2012,Americas,Cuba,26000.0
+2012,Europe,Cyprus,840.0
+2012,Europe,Czechia,2400.0
+2012,South-East Asia,Democratic People's Republic of Korea,142816.0
+2012,Africa,Democratic Republic of the Congo,510000.0
+2012,Europe,Denmark,5900.0
+2012,Eastern Mediterranean,Djibouti,13583.333333333334
+2012,Americas,Dominica,66270.37037037036
+2012,Americas,Dominican Republic,73000.0
+2012,Americas,Ecuador,33000.0
+2012,Eastern Mediterranean,Egypt,7500.0
+2012,Americas,El Salvador,21000.0
+2012,Africa,Equatorial Guinea,45000.0
+2012,Africa,Eritrea,16000.0
+2012,Europe,Estonia,6300.0
+2012,Africa,Eswatini,200000.0
+2012,Africa,Ethiopia,660000.0
+2012,Western Pacific,Fiji,640.0
+2012,Europe,Finland,19895.277777777777
+2012,Europe,France,150000.0
+2012,Africa,Gabon,49000.0
+2012,Africa,Gambia,24000.0
+2012,Europe,Georgia,4400.0
+2012,Europe,Germany,70000.0
+2012,Africa,Ghana,310000.0
+2012,Europe,Greece,12000.0
+2012,Americas,Grenada,66270.37037037036
+2012,Americas,Guatemala,30000.0
+2012,Africa,Guinea,110000.0
+2012,Africa,Guinea-Bissau,37000.0
+2012,Americas,Guyana,7400.0
+2012,Americas,Haiti,110000.0
+2012,Americas,Honduras,24000.0
+2012,Europe,Hungary,19895.277777777777
+2012,Europe,Iceland,500.0
+2012,South-East Asia,India,0.0
+2012,South-East Asia,Indonesia,490000.0
+2012,Eastern Mediterranean,Iran (Islamic Republic of),52000.0
+2012,Eastern Mediterranean,Iraq,1300.0
+2012,Europe,Ireland,5300.0
+2012,Europe,Israel,19895.277777777777
+2012,Europe,Italy,120000.0
+2012,Americas,Jamaica,27000.0
+2012,Western Pacific,Japan,48274.0
+2012,Eastern Mediterranean,Jordan,500.0
+2012,Europe,Kazakhstan,19895.277777777777
+2012,Africa,Kenya,1400000.0
+2012,Western Pacific,Kiribati,48274.0
+2012,Eastern Mediterranean,Kuwait,500.0
+2012,Europe,Kyrgyzstan,5300.0
+2012,Western Pacific,Lao People's Democratic Republic,11000.0
+2012,Europe,Latvia,5000.0
+2012,Eastern Mediterranean,Lebanon,2300.0
+2012,Africa,Lesotho,290000.0
+2012,Africa,Liberia,40000.0
+2012,Eastern Mediterranean,Libya,4900.0
+2012,Europe,Lithuania,2400.0
+2012,Europe,Luxembourg,840.0
+2012,Africa,Madagascar,23000.0
+2012,Africa,Malawi,940000.0
+2012,Western Pacific,Malaysia,77000.0
+2012,South-East Asia,Maldives,100.0
+2012,Africa,Mali,120000.0
+2012,Europe,Malta,500.0
+2012,Western Pacific,Marshall Islands,48274.0
+2012,Africa,Mauritania,9000.0
+2012,Africa,Mauritius,473277.2727272727
+2012,Americas,Mexico,250000.0
+2012,Western Pacific,Micronesia (Federated States of),48274.0
+2012,Europe,Monaco,19895.277777777777
+2012,Western Pacific,Mongolia,500.0
+2012,Europe,Montenegro,500.0
+2012,Eastern Mediterranean,Morocco,19000.0
+2012,Africa,Mozambique,1800000.0
+2012,South-East Asia,Myanmar,250000.0
+2012,Africa,Namibia,190000.0
+2012,Western Pacific,Nauru,48274.0
+2012,South-East Asia,Nepal,33000.0
+2012,Europe,Netherlands (Kingdom of the),21000.0
+2012,Western Pacific,New Zealand,2600.0
+2012,Americas,Nicaragua,9300.0
+2012,Africa,Niger,37000.0
+2012,Africa,Nigeria,473277.2727272727
+2012,Western Pacific,Niue,48274.0
+2012,Europe,North Macedonia,500.0
+2012,Europe,Norway,19895.277777777777
+2012,Eastern Mediterranean,Oman,1900.0
+2012,Eastern Mediterranean,Pakistan,98000.0
+2012,Western Pacific,Palau,48274.0
+2012,Americas,Panama,20000.0
+2012,Western Pacific,Papua New Guinea,39000.0
+2012,Americas,Paraguay,12000.0
+2012,Americas,Peru,71000.0
+2012,Western Pacific,Philippines,28000.0
+2012,Europe,Poland,13000.0
+2012,Europe,Portugal,41000.0
+2012,Eastern Mediterranean,Qatar,200.0
+2012,Western Pacific,Republic of Korea,48274.0
+2012,Europe,Republic of Moldova,14000.0
+2012,Europe,Romania,16000.0
+2012,Europe,Russian Federation,19895.277777777777
+2012,Africa,Rwanda,240000.0
+2012,Americas,Saint Kitts and Nevis,66270.37037037036
+2012,Americas,Saint Lucia,66270.37037037036
+2012,Americas,Saint Vincent and the Grenadines,66270.37037037036
+2012,Western Pacific,Samoa,48274.0
+2012,Europe,San Marino,19895.277777777777
+2012,Africa,Sao Tome and Principe,1500.0
+2012,Eastern Mediterranean,Saudi Arabia,7300.0
+2012,Africa,Senegal,45000.0
+2012,Europe,Serbia,2300.0
+2012,Africa,Seychelles,473277.2727272727
+2012,Africa,Sierra Leone,67000.0
+2012,Western Pacific,Singapore,48274.0
+2012,Europe,Slovakia,500.0
+2012,Europe,Slovenia,730.0
+2012,Western Pacific,Solomon Islands,48274.0
+2012,Eastern Mediterranean,Somalia,13583.333333333334
+2012,Africa,South Africa,6200000.0
+2012,Africa,South Sudan,190000.0
+2012,Europe,Spain,130000.0
+2012,South-East Asia,Sri Lanka,4200.0
+2012,Eastern Mediterranean,Sudan,28000.0
+2012,Americas,Suriname,5400.0
+2012,Europe,Sweden,19895.277777777777
+2012,Europe,Switzerland,19895.277777777777
+2012,Eastern Mediterranean,Syrian Arab Republic,500.0
+2012,Europe,Tajikistan,4300.0
+2012,South-East Asia,Thailand,640000.0
+2012,South-East Asia,Timor-Leste,890.0
+2012,Africa,Togo,120000.0
+2012,Western Pacific,Tonga,48274.0
+2012,Americas,Trinidad and Tobago,12000.0
+2012,Eastern Mediterranean,Tunisia,5400.0
+2012,Europe,Turkiye,19895.277777777777
+2012,Europe,Turkmenistan,19895.277777777777
+2012,Western Pacific,Tuvalu,48274.0
+2012,Africa,Uganda,1100000.0
+2012,Europe,Ukraine,19895.277777777777
+2012,Eastern Mediterranean,United Arab Emirates,1100.0
+2012,Europe,United Kingdom of Great Britain and Northern Ireland,19895.277777777777
+2012,Africa,United Republic of Tanzania,1400000.0
+2012,Americas,United States of America,66270.37037037036
+2012,Americas,Uruguay,9800.0
+2012,Europe,Uzbekistan,34000.0
+2012,Western Pacific,Vanuatu,48274.0
+2012,Americas,Venezuela (Bolivarian Republic of),97000.0
+2012,Western Pacific,Viet Nam,220000.0
+2012,Eastern Mediterranean,Yemen,5300.0
+2012,Africa,Zambia,1100000.0
+2012,Africa,Zimbabwe,1300000.0
+2013,Eastern Mediterranean,Afghanistan,9200.0
+2013,Europe,Albania,990.0
+2013,Africa,Algeria,13000.0
+2013,Europe,Andorra,20916.944444444445
+2013,Africa,Angola,290000.0
+2013,Americas,Antigua and Barbuda,68566.66666666667
+2013,Americas,Argentina,68566.66666666667
+2013,Europe,Armenia,2700.0
+2013,Western Pacific,Australia,23000.0
+2013,Europe,Austria,20916.944444444445
+2013,Europe,Azerbaijan,8000.0
+2013,Americas,Bahamas,4200.0
+2013,Eastern Mediterranean,Bahrain,14444.444444444445
+2013,South-East Asia,Bangladesh,9700.0
+2013,Americas,Barbados,2100.0
+2013,Europe,Belarus,19000.0
+2013,Europe,Belgium,16000.0
+2013,Americas,Belize,3200.0
+2013,Africa,Benin,76000.0
+2013,South-East Asia,Bhutan,970.0
+2013,Americas,Bolivia (Plurinational State of),21000.0
+2013,Europe,Bosnia and Herzegovina,20916.944444444445
+2013,Africa,Botswana,330000.0
+2013,Americas,Brazil,720000.0
+2013,Western Pacific,Brunei Darussalam,50392.0
+2013,Europe,Bulgaria,2300.0
+2013,Africa,Burkina Faso,110000.0
+2013,Africa,Burundi,93000.0
+2013,Africa,Cabo Verde,2600.0
+2013,Western Pacific,Cambodia,81000.0
+2013,Africa,Cameroon,510000.0
+2013,Americas,Canada,52000.0
+2013,Africa,Central African Republic,130000.0
+2013,Africa,Chad,110000.0
+2013,Americas,Chile,43000.0
+2013,Western Pacific,China,50392.0
+2013,Americas,Colombia,130000.0
+2013,Africa,Comoros,200.0
+2013,Africa,Congo,100000.0
+2013,Western Pacific,Cook Islands,50392.0
+2013,Americas,Costa Rica,12000.0
+2013,Africa,Cote d'Ivoire,480000.0
+2013,Europe,Croatia,1300.0
+2013,Americas,Cuba,27000.0
+2013,Europe,Cyprus,940.0
+2013,Europe,Czechia,2500.0
+2013,South-East Asia,Democratic People's Republic of Korea,143781.0
+2013,Africa,Democratic Republic of the Congo,510000.0
+2013,Europe,Denmark,6100.0
+2013,Eastern Mediterranean,Djibouti,14444.444444444445
+2013,Americas,Dominica,68566.66666666667
+2013,Americas,Dominican Republic,72000.0
+2013,Americas,Ecuador,34000.0
+2013,Eastern Mediterranean,Egypt,8900.0
+2013,Americas,El Salvador,22000.0
+2013,Africa,Equatorial Guinea,48000.0
+2013,Africa,Eritrea,15000.0
+2013,Europe,Estonia,6400.0
+2013,Africa,Eswatini,210000.0
+2013,Africa,Ethiopia,660000.0
+2013,Western Pacific,Fiji,720.0
+2013,Europe,Finland,20916.944444444445
+2013,Europe,France,160000.0
+2013,Africa,Gabon,49000.0
+2013,Africa,Gambia,24000.0
+2013,Europe,Georgia,4900.0
+2013,Europe,Germany,72000.0
+2013,Africa,Ghana,310000.0
+2013,Europe,Greece,13000.0
+2013,Americas,Grenada,68566.66666666667
+2013,Americas,Guatemala,30000.0
+2013,Africa,Guinea,110000.0
+2013,Africa,Guinea-Bissau,37000.0
+2013,Americas,Guyana,7600.0
+2013,Americas,Haiti,120000.0
+2013,Americas,Honduras,23000.0
+2013,Europe,Hungary,20916.944444444445
+2013,Europe,Iceland,500.0
+2013,South-East Asia,India,0.0
+2013,South-East Asia,Indonesia,510000.0
+2013,Eastern Mediterranean,Iran (Islamic Republic of),51000.0
+2013,Eastern Mediterranean,Iraq,1400.0
+2013,Europe,Ireland,5600.0
+2013,Europe,Israel,20916.944444444445
+2013,Europe,Italy,130000.0
+2013,Americas,Jamaica,27000.0
+2013,Western Pacific,Japan,50392.0
+2013,Eastern Mediterranean,Jordan,500.0
+2013,Europe,Kazakhstan,20916.944444444445
+2013,Africa,Kenya,1400000.0
+2013,Western Pacific,Kiribati,50392.0
+2013,Eastern Mediterranean,Kuwait,500.0
+2013,Europe,Kyrgyzstan,5800.0
+2013,Western Pacific,Lao People's Democratic Republic,12000.0
+2013,Europe,Latvia,5200.0
+2013,Eastern Mediterranean,Lebanon,2800.0
+2013,Africa,Lesotho,290000.0
+2013,Africa,Liberia,39000.0
+2013,Eastern Mediterranean,Libya,5300.0
+2013,Europe,Lithuania,2500.0
+2013,Europe,Luxembourg,890.0
+2013,Africa,Madagascar,27000.0
+2013,Africa,Malawi,960000.0
+2013,Western Pacific,Malaysia,78000.0
+2013,South-East Asia,Maldives,100.0
+2013,Africa,Mali,120000.0
+2013,Europe,Malta,500.0
+2013,Western Pacific,Marshall Islands,50392.0
+2013,Africa,Mauritania,8800.0
+2013,Africa,Mauritius,487545.45454545453
+2013,Americas,Mexico,260000.0
+2013,Western Pacific,Micronesia (Federated States of),50392.0
+2013,Europe,Monaco,20916.944444444445
+2013,Western Pacific,Mongolia,500.0
+2013,Europe,Montenegro,500.0
+2013,Eastern Mediterranean,Morocco,19000.0
+2013,Africa,Mozambique,1800000.0
+2013,South-East Asia,Myanmar,250000.0
+2013,Africa,Namibia,200000.0
+2013,Western Pacific,Nauru,50392.0
+2013,South-East Asia,Nepal,32000.0
+2013,Europe,Netherlands (Kingdom of the),22000.0
+2013,Western Pacific,New Zealand,2700.0
+2013,Americas,Nicaragua,9600.0
+2013,Africa,Niger,36000.0
+2013,Africa,Nigeria,487545.45454545453
+2013,Western Pacific,Niue,50392.0
+2013,Europe,North Macedonia,500.0
+2013,Europe,Norway,20916.944444444445
+2013,Eastern Mediterranean,Oman,2100.0
+2013,Eastern Mediterranean,Pakistan,110000.0
+2013,Western Pacific,Palau,50392.0
+2013,Americas,Panama,21000.0
+2013,Western Pacific,Papua New Guinea,41000.0
+2013,Americas,Paraguay,13000.0
+2013,Americas,Peru,73000.0
+2013,Western Pacific,Philippines,35000.0
+2013,Europe,Poland,13000.0
+2013,Europe,Portugal,42000.0
+2013,Eastern Mediterranean,Qatar,200.0
+2013,Western Pacific,Republic of Korea,50392.0
+2013,Europe,Republic of Moldova,14000.0
+2013,Europe,Romania,16000.0
+2013,Europe,Russian Federation,20916.944444444445
+2013,Africa,Rwanda,240000.0
+2013,Americas,Saint Kitts and Nevis,68566.66666666667
+2013,Americas,Saint Lucia,68566.66666666667
+2013,Americas,Saint Vincent and the Grenadines,68566.66666666667
+2013,Western Pacific,Samoa,50392.0
+2013,Europe,San Marino,20916.944444444445
+2013,Africa,Sao Tome and Principe,1400.0
+2013,Eastern Mediterranean,Saudi Arabia,7100.0
+2013,Africa,Senegal,44000.0
+2013,Europe,Serbia,2400.0
+2013,Africa,Seychelles,487545.45454545453
+2013,Africa,Sierra Leone,68000.0
+2013,Western Pacific,Singapore,50392.0
+2013,Europe,Slovakia,550.0
+2013,Europe,Slovenia,740.0
+2013,Western Pacific,Solomon Islands,50392.0
+2013,Eastern Mediterranean,Somalia,14444.444444444445
+2013,Africa,South Africa,6500000.0
+2013,Africa,South Sudan,190000.0
+2013,Europe,Spain,130000.0
+2013,South-East Asia,Sri Lanka,4100.0
+2013,Eastern Mediterranean,Sudan,29000.0
+2013,Americas,Suriname,5600.0
+2013,Europe,Sweden,20916.944444444445
+2013,Europe,Switzerland,20916.944444444445
+2013,Eastern Mediterranean,Syrian Arab Republic,500.0
+2013,Europe,Tajikistan,5200.0
+2013,South-East Asia,Thailand,630000.0
+2013,South-East Asia,Timor-Leste,940.0
+2013,Africa,Togo,110000.0
+2013,Western Pacific,Tonga,50392.0
+2013,Americas,Trinidad and Tobago,12000.0
+2013,Eastern Mediterranean,Tunisia,5600.0
+2013,Europe,Turkiye,20916.944444444445
+2013,Europe,Turkmenistan,20916.944444444445
+2013,Western Pacific,Tuvalu,50392.0
+2013,Africa,Uganda,1200000.0
+2013,Europe,Ukraine,20916.944444444445
+2013,Eastern Mediterranean,United Arab Emirates,1200.0
+2013,Europe,United Kingdom of Great Britain and Northern Ireland,20916.944444444445
+2013,Africa,United Republic of Tanzania,1500000.0
+2013,Americas,United States of America,68566.66666666667
+2013,Americas,Uruguay,10000.0
+2013,Europe,Uzbekistan,39000.0
+2013,Western Pacific,Vanuatu,50392.0
+2013,Americas,Venezuela (Bolivarian Republic of),97000.0
+2013,Western Pacific,Viet Nam,230000.0
+2013,Eastern Mediterranean,Yemen,5700.0
+2013,Africa,Zambia,1200000.0
+2013,Africa,Zimbabwe,1300000.0
+2014,Eastern Mediterranean,Afghanistan,9600.0
+2014,Europe,Albania,1100.0
+2014,Africa,Algeria,15000.0
+2014,Europe,Andorra,21656.38888888889
+2014,Africa,Angola,290000.0
+2014,Americas,Antigua and Barbuda,70592.5925925926
+2014,Americas,Argentina,70592.5925925926
+2014,Europe,Armenia,3100.0
+2014,Western Pacific,Australia,24000.0
+2014,Europe,Austria,21656.38888888889
+2014,Europe,Azerbaijan,8200.0
+2014,Americas,Bahamas,4100.0
+2014,Eastern Mediterranean,Bahrain,15123.333333333334
+2014,South-East Asia,Bangladesh,11000.0
+2014,Americas,Barbados,2100.0
+2014,Europe,Belarus,20000.0
+2014,Europe,Belgium,16000.0
+2014,Americas,Belize,3300.0
+2014,Africa,Benin,77000.0
+2014,South-East Asia,Bhutan,980.0
+2014,Americas,Bolivia (Plurinational State of),22000.0
+2014,Europe,Bosnia and Herzegovina,21656.38888888889
+2014,Africa,Botswana,330000.0
+2014,Americas,Brazil,750000.0
+2014,Western Pacific,Brunei Darussalam,51720.0
+2014,Europe,Bulgaria,2400.0
+2014,Africa,Burkina Faso,110000.0
+2014,Africa,Burundi,91000.0
+2014,Africa,Cabo Verde,2700.0
+2014,Western Pacific,Cambodia,81000.0
+2014,Africa,Cameroon,510000.0
+2014,Americas,Canada,54000.0
+2014,Africa,Central African Republic,120000.0
+2014,Africa,Chad,110000.0
+2014,Americas,Chile,46000.0
+2014,Western Pacific,China,51720.0
+2014,Americas,Colombia,130000.0
+2014,Africa,Comoros,200.0
+2014,Africa,Congo,100000.0
+2014,Western Pacific,Cook Islands,51720.0
+2014,Americas,Costa Rica,12000.0
+2014,Africa,Cote d'Ivoire,470000.0
+2014,Europe,Croatia,1400.0
+2014,Americas,Cuba,29000.0
+2014,Europe,Cyprus,1000.0
+2014,Europe,Czechia,2700.0
+2014,South-East Asia,Democratic People's Republic of Korea,144817.0
+2014,Africa,Democratic Republic of the Congo,500000.0
+2014,Europe,Denmark,6300.0
+2014,Eastern Mediterranean,Djibouti,15123.333333333334
+2014,Americas,Dominica,70592.5925925926
+2014,Americas,Dominican Republic,72000.0
+2014,Americas,Ecuador,35000.0
+2014,Eastern Mediterranean,Egypt,10000.0
+2014,Americas,El Salvador,22000.0
+2014,Africa,Equatorial Guinea,51000.0
+2014,Africa,Eritrea,15000.0
+2014,Europe,Estonia,6600.0
+2014,Africa,Eswatini,220000.0
+2014,Africa,Ethiopia,660000.0
+2014,Western Pacific,Fiji,800.0
+2014,Europe,Finland,21656.38888888889
+2014,Europe,France,160000.0
+2014,Africa,Gabon,50000.0
+2014,Africa,Gambia,25000.0
+2014,Europe,Georgia,5300.0
+2014,Europe,Germany,75000.0
+2014,Africa,Ghana,320000.0
+2014,Europe,Greece,14000.0
+2014,Americas,Grenada,70592.5925925926
+2014,Americas,Guatemala,30000.0
+2014,Africa,Guinea,110000.0
+2014,Africa,Guinea-Bissau,37000.0
+2014,Americas,Guyana,7800.0
+2014,Americas,Haiti,120000.0
+2014,Americas,Honduras,23000.0
+2014,Europe,Hungary,21656.38888888889
+2014,Europe,Iceland,500.0
+2014,South-East Asia,India,0.0
+2014,South-East Asia,Indonesia,520000.0
+2014,Eastern Mediterranean,Iran (Islamic Republic of),50000.0
+2014,Eastern Mediterranean,Iraq,1500.0
+2014,Europe,Ireland,5900.0
+2014,Europe,Israel,21656.38888888889
+2014,Europe,Italy,130000.0
+2014,Americas,Jamaica,28000.0
+2014,Western Pacific,Japan,51720.0
+2014,Eastern Mediterranean,Jordan,500.0
+2014,Europe,Kazakhstan,21656.38888888889
+2014,Africa,Kenya,1400000.0
+2014,Western Pacific,Kiribati,51720.0
+2014,Eastern Mediterranean,Kuwait,520.0
+2014,Europe,Kyrgyzstan,6400.0
+2014,Western Pacific,Lao People's Democratic Republic,12000.0
+2014,Europe,Latvia,5400.0
+2014,Eastern Mediterranean,Lebanon,3200.0
+2014,Africa,Lesotho,290000.0
+2014,Africa,Liberia,38000.0
+2014,Eastern Mediterranean,Libya,5600.0
+2014,Europe,Lithuania,2700.0
+2014,Europe,Luxembourg,940.0
+2014,Africa,Madagascar,30000.0
+2014,Africa,Malawi,980000.0
+2014,Western Pacific,Malaysia,80000.0
+2014,South-East Asia,Maldives,100.0
+2014,Africa,Mali,120000.0
+2014,Europe,Malta,510.0
+2014,Western Pacific,Marshall Islands,51720.0
+2014,Africa,Mauritania,8600.0
+2014,Africa,Mauritius,494518.1818181818
+2014,Americas,Mexico,270000.0
+2014,Western Pacific,Micronesia (Federated States of),51720.0
+2014,Europe,Monaco,21656.38888888889
+2014,Western Pacific,Mongolia,500.0
+2014,Europe,Montenegro,500.0
+2014,Eastern Mediterranean,Morocco,19000.0
+2014,Africa,Mozambique,1900000.0
+2014,South-East Asia,Myanmar,260000.0
+2014,Africa,Namibia,200000.0
+2014,Western Pacific,Nauru,51720.0
+2014,South-East Asia,Nepal,31000.0
+2014,Europe,Netherlands (Kingdom of the),22000.0
+2014,Western Pacific,New Zealand,2900.0
+2014,Americas,Nicaragua,9900.0
+2014,Africa,Niger,35000.0
+2014,Africa,Nigeria,494518.1818181818
+2014,Western Pacific,Niue,51720.0
+2014,Europe,North Macedonia,500.0
+2014,Europe,Norway,21656.38888888889
+2014,Eastern Mediterranean,Oman,2200.0
+2014,Eastern Mediterranean,Pakistan,120000.0
+2014,Western Pacific,Palau,51720.0
+2014,Americas,Panama,22000.0
+2014,Western Pacific,Papua New Guinea,43000.0
+2014,Americas,Paraguay,14000.0
+2014,Americas,Peru,75000.0
+2014,Western Pacific,Philippines,43000.0
+2014,Europe,Poland,14000.0
+2014,Europe,Portugal,42000.0
+2014,Eastern Mediterranean,Qatar,500.0
+2014,Western Pacific,Republic of Korea,51720.0
+2014,Europe,Republic of Moldova,14000.0
+2014,Europe,Romania,17000.0
+2014,Europe,Russian Federation,21656.38888888889
+2014,Africa,Rwanda,240000.0
+2014,Americas,Saint Kitts and Nevis,70592.5925925926
+2014,Americas,Saint Lucia,70592.5925925926
+2014,Americas,Saint Vincent and the Grenadines,70592.5925925926
+2014,Western Pacific,Samoa,51720.0
+2014,Europe,San Marino,21656.38888888889
+2014,Africa,Sao Tome and Principe,1300.0
+2014,Eastern Mediterranean,Saudi Arabia,7000.0
+2014,Africa,Senegal,43000.0
+2014,Europe,Serbia,2600.0
+2014,Africa,Seychelles,494518.1818181818
+2014,Africa,Sierra Leone,69000.0
+2014,Western Pacific,Singapore,51720.0
+2014,Europe,Slovakia,620.0
+2014,Europe,Slovenia,760.0
+2014,Western Pacific,Solomon Islands,51720.0
+2014,Eastern Mediterranean,Somalia,15123.333333333334
+2014,Africa,South Africa,6700000.0
+2014,Africa,South Sudan,180000.0
+2014,Europe,Spain,140000.0
+2014,South-East Asia,Sri Lanka,4100.0
+2014,Eastern Mediterranean,Sudan,29000.0
+2014,Americas,Suriname,5800.0
+2014,Europe,Sweden,21656.38888888889
+2014,Europe,Switzerland,21656.38888888889
+2014,Eastern Mediterranean,Syrian Arab Republic,500.0
+2014,Europe,Tajikistan,6200.0
+2014,South-East Asia,Thailand,620000.0
+2014,South-East Asia,Timor-Leste,990.0
+2014,Africa,Togo,110000.0
+2014,Western Pacific,Tonga,51720.0
+2014,Americas,Trinidad and Tobago,12000.0
+2014,Eastern Mediterranean,Tunisia,5800.0
+2014,Europe,Turkiye,21656.38888888889
+2014,Europe,Turkmenistan,21656.38888888889
+2014,Western Pacific,Tuvalu,51720.0
+2014,Africa,Uganda,1200000.0
+2014,Europe,Ukraine,21656.38888888889
+2014,Eastern Mediterranean,United Arab Emirates,1200.0
+2014,Europe,United Kingdom of Great Britain and Northern Ireland,21656.38888888889
+2014,Africa,United Republic of Tanzania,1500000.0
+2014,Americas,United States of America,70592.5925925926
+2014,Americas,Uruguay,11000.0
+2014,Europe,Uzbekistan,44000.0
+2014,Western Pacific,Vanuatu,51720.0
+2014,Americas,Venezuela (Bolivarian Republic of),96000.0
+2014,Western Pacific,Viet Nam,230000.0
+2014,Eastern Mediterranean,Yemen,6100.0
+2014,Africa,Zambia,1200000.0
+2014,Africa,Zimbabwe,1300000.0
+2015,Eastern Mediterranean,Afghanistan,10000.0
+2015,Europe,Albania,1100.0
+2015,Africa,Algeria,16000.0
+2015,Europe,Andorra,22439.722222222223
+2015,Africa,Angola,300000.0
+2015,Americas,Antigua and Barbuda,73018.51851851853
+2015,Americas,Argentina,73018.51851851853
+2015,Europe,Armenia,3400.0
+2015,Western Pacific,Australia,25000.0
+2015,Europe,Austria,22439.722222222223
+2015,Europe,Azerbaijan,8400.0
+2015,Americas,Bahamas,4100.0
+2015,Eastern Mediterranean,Bahrain,16438.88888888889
+2015,South-East Asia,Bangladesh,11000.0
+2015,Americas,Barbados,2200.0
+2015,Europe,Belarus,21000.0
+2015,Europe,Belgium,17000.0
+2015,Americas,Belize,3400.0
+2015,Africa,Benin,76000.0
+2015,South-East Asia,Bhutan,980.0
+2015,Americas,Bolivia (Plurinational State of),23000.0
+2015,Europe,Bosnia and Herzegovina,22439.722222222223
+2015,Africa,Botswana,340000.0
+2015,Americas,Brazil,780000.0
+2015,Western Pacific,Brunei Darussalam,54142.0
+2015,Europe,Bulgaria,2600.0
+2015,Africa,Burkina Faso,110000.0
+2015,Africa,Burundi,87000.0
+2015,Africa,Cabo Verde,2800.0
+2015,Western Pacific,Cambodia,80000.0
+2015,Africa,Cameroon,500000.0
+2015,Americas,Canada,55000.0
+2015,Africa,Central African Republic,120000.0
+2015,Africa,Chad,110000.0
+2015,Americas,Chile,50000.0
+2015,Western Pacific,China,54142.0
+2015,Americas,Colombia,140000.0
+2015,Africa,Comoros,200.0
+2015,Africa,Congo,110000.0
+2015,Western Pacific,Cook Islands,54142.0
+2015,Americas,Costa Rica,13000.0
+2015,Africa,Cote d'Ivoire,460000.0
+2015,Europe,Croatia,1400.0
+2015,Americas,Cuba,31000.0
+2015,Europe,Cyprus,1100.0
+2015,Europe,Czechia,2800.0
+2015,South-East Asia,Democratic People's Republic of Korea,144828.0
+2015,Africa,Democratic Republic of the Congo,490000.0
+2015,Europe,Denmark,6400.0
+2015,Eastern Mediterranean,Djibouti,16438.88888888889
+2015,Americas,Dominica,73018.51851851853
+2015,Americas,Dominican Republic,72000.0
+2015,Americas,Ecuador,37000.0
+2015,Eastern Mediterranean,Egypt,12000.0
+2015,Americas,El Salvador,22000.0
+2015,Africa,Equatorial Guinea,55000.0
+2015,Africa,Eritrea,14000.0
+2015,Europe,Estonia,6700.0
+2015,Africa,Eswatini,220000.0
+2015,Africa,Ethiopia,650000.0
+2015,Western Pacific,Fiji,900.0
+2015,Europe,Finland,22439.722222222223
+2015,Europe,France,170000.0
+2015,Africa,Gabon,50000.0
+2015,Africa,Gambia,25000.0
+2015,Europe,Georgia,5700.0
+2015,Europe,Germany,78000.0
+2015,Africa,Ghana,320000.0
+2015,Europe,Greece,14000.0
+2015,Americas,Grenada,73018.51851851853
+2015,Americas,Guatemala,30000.0
+2015,Africa,Guinea,110000.0
+2015,Africa,Guinea-Bissau,36000.0
+2015,Americas,Guyana,7900.0
+2015,Americas,Haiti,120000.0
+2015,Americas,Honduras,22000.0
+2015,Europe,Hungary,22439.722222222223
+2015,Europe,Iceland,500.0
+2015,South-East Asia,India,0.0
+2015,South-East Asia,Indonesia,530000.0
+2015,Eastern Mediterranean,Iran (Islamic Republic of),49000.0
+2015,Eastern Mediterranean,Iraq,1600.0
+2015,Europe,Ireland,6200.0
+2015,Europe,Israel,22439.722222222223
+2015,Europe,Italy,130000.0
+2015,Americas,Jamaica,28000.0
+2015,Western Pacific,Japan,54142.0
+2015,Eastern Mediterranean,Jordan,500.0
+2015,Europe,Kazakhstan,22439.722222222223
+2015,Africa,Kenya,1400000.0
+2015,Western Pacific,Kiribati,54142.0
+2015,Eastern Mediterranean,Kuwait,600.0
+2015,Europe,Kyrgyzstan,7000.0
+2015,Western Pacific,Lao People's Democratic Republic,13000.0
+2015,Europe,Latvia,5600.0
+2015,Eastern Mediterranean,Lebanon,3200.0
+2015,Africa,Lesotho,290000.0
+2015,Africa,Liberia,37000.0
+2015,Eastern Mediterranean,Libya,6000.0
+2015,Europe,Lithuania,2800.0
+2015,Europe,Luxembourg,1000.0
+2015,Africa,Madagascar,35000.0
+2015,Africa,Malawi,990000.0
+2015,Western Pacific,Malaysia,81000.0
+2015,South-East Asia,Maldives,100.0
+2015,Africa,Mali,120000.0
+2015,Europe,Malta,560.0
+2015,Western Pacific,Marshall Islands,54142.0
+2015,Africa,Mauritania,8500.0
+2015,Africa,Mauritius,506131.8181818182
+2015,Americas,Mexico,280000.0
+2015,Western Pacific,Micronesia (Federated States of),54142.0
+2015,Europe,Monaco,22439.722222222223
+2015,Western Pacific,Mongolia,520.0
+2015,Europe,Montenegro,500.0
+2015,Eastern Mediterranean,Morocco,19000.0
+2015,Africa,Mozambique,2000000.0
+2015,South-East Asia,Myanmar,260000.0
+2015,Africa,Namibia,210000.0
+2015,Western Pacific,Nauru,54142.0
+2015,South-East Asia,Nepal,31000.0
+2015,Europe,Netherlands (Kingdom of the),23000.0
+2015,Western Pacific,New Zealand,3000.0
+2015,Americas,Nicaragua,10000.0
+2015,Africa,Niger,35000.0
+2015,Africa,Nigeria,506131.8181818182
+2015,Western Pacific,Niue,54142.0
+2015,Europe,North Macedonia,500.0
+2015,Europe,Norway,22439.722222222223
+2015,Eastern Mediterranean,Oman,2300.0
+2015,Eastern Mediterranean,Pakistan,140000.0
+2015,Western Pacific,Palau,54142.0
+2015,Americas,Panama,23000.0
+2015,Western Pacific,Papua New Guinea,45000.0
+2015,Americas,Paraguay,15000.0
+2015,Americas,Peru,77000.0
+2015,Western Pacific,Philippines,53000.0
+2015,Europe,Poland,15000.0
+2015,Europe,Portugal,43000.0
+2015,Eastern Mediterranean,Qatar,500.0
+2015,Western Pacific,Republic of Korea,54142.0
+2015,Europe,Republic of Moldova,15000.0
+2015,Europe,Romania,17000.0
+2015,Europe,Russian Federation,22439.722222222223
+2015,Africa,Rwanda,240000.0
+2015,Americas,Saint Kitts and Nevis,73018.51851851853
+2015,Americas,Saint Lucia,73018.51851851853
+2015,Americas,Saint Vincent and the Grenadines,73018.51851851853
+2015,Western Pacific,Samoa,54142.0
+2015,Europe,San Marino,22439.722222222223
+2015,Africa,Sao Tome and Principe,1300.0
+2015,Eastern Mediterranean,Saudi Arabia,7000.0
+2015,Africa,Senegal,42000.0
+2015,Europe,Serbia,2700.0
+2015,Africa,Seychelles,506131.8181818182
+2015,Africa,Sierra Leone,69000.0
+2015,Western Pacific,Singapore,54142.0
+2015,Europe,Slovakia,700.0
+2015,Europe,Slovenia,770.0
+2015,Western Pacific,Solomon Islands,54142.0
+2015,Eastern Mediterranean,Somalia,16438.88888888889
+2015,Africa,South Africa,6900000.0
+2015,Africa,South Sudan,180000.0
+2015,Europe,Spain,140000.0
+2015,South-East Asia,Sri Lanka,4100.0
+2015,Eastern Mediterranean,Sudan,30000.0
+2015,Americas,Suriname,5900.0
+2015,Europe,Sweden,22439.722222222223
+2015,Europe,Switzerland,22439.722222222223
+2015,Eastern Mediterranean,Syrian Arab Republic,500.0
+2015,Europe,Tajikistan,7400.0
+2015,South-East Asia,Thailand,610000.0
+2015,South-East Asia,Timor-Leste,1100.0
+2015,Africa,Togo,110000.0
+2015,Western Pacific,Tonga,54142.0
+2015,Americas,Trinidad and Tobago,12000.0
+2015,Eastern Mediterranean,Tunisia,6000.0
+2015,Europe,Turkiye,22439.722222222223
+2015,Europe,Turkmenistan,22439.722222222223
+2015,Western Pacific,Tuvalu,54142.0
+2015,Africa,Uganda,1200000.0
+2015,Europe,Ukraine,22439.722222222223
+2015,Eastern Mediterranean,United Arab Emirates,1200.0
+2015,Europe,United Kingdom of Great Britain and Northern Ireland,22439.722222222223
+2015,Africa,United Republic of Tanzania,1600000.0
+2015,Americas,United States of America,73018.51851851853
+2015,Americas,Uruguay,11000.0
+2015,Europe,Uzbekistan,49000.0
+2015,Western Pacific,Vanuatu,54142.0
+2015,Americas,Venezuela (Bolivarian Republic of),97000.0
+2015,Western Pacific,Viet Nam,240000.0
+2015,Eastern Mediterranean,Yemen,6500.0
+2015,Africa,Zambia,1200000.0
+2015,Africa,Zimbabwe,1400000.0
+2016,Eastern Mediterranean,Afghanistan,10000.0
+2016,Europe,Albania,1200.0
+2016,Africa,Algeria,18000.0
+2016,Europe,Andorra,22935.277777777777
+2016,Africa,Angola,310000.0
+2016,Americas,Antigua and Barbuda,75107.4074074074
+2016,Americas,Argentina,75107.4074074074
+2016,Europe,Armenia,3800.0
+2016,Western Pacific,Australia,26000.0
+2016,Europe,Austria,22935.277777777777
+2016,Europe,Azerbaijan,8700.0
+2016,Americas,Bahamas,4100.0
+2016,Eastern Mediterranean,Bahrain,17240.0
+2016,South-East Asia,Bangladesh,12000.0
+2016,Americas,Barbados,2200.0
+2016,Europe,Belarus,23000.0
+2016,Europe,Belgium,17000.0
+2016,Americas,Belize,3400.0
+2016,Africa,Benin,76000.0
+2016,South-East Asia,Bhutan,980.0
+2016,Americas,Bolivia (Plurinational State of),24000.0
+2016,Europe,Bosnia and Herzegovina,22935.277777777777
+2016,Africa,Botswana,340000.0
+2016,Americas,Brazil,810000.0
+2016,Western Pacific,Brunei Darussalam,55664.0
+2016,Europe,Bulgaria,2700.0
+2016,Africa,Burkina Faso,110000.0
+2016,Africa,Burundi,85000.0
+2016,Africa,Cabo Verde,3000.0
+2016,Western Pacific,Cambodia,79000.0
+2016,Africa,Cameroon,500000.0
+2016,Americas,Canada,57000.0
+2016,Africa,Central African Republic,120000.0
+2016,Africa,Chad,110000.0
+2016,Americas,Chile,54000.0
+2016,Western Pacific,China,55664.0
+2016,Americas,Colombia,140000.0
+2016,Africa,Comoros,200.0
+2016,Africa,Congo,110000.0
+2016,Western Pacific,Cook Islands,55664.0
+2016,Americas,Costa Rica,14000.0
+2016,Africa,Cote d'Ivoire,450000.0
+2016,Europe,Croatia,1500.0
+2016,Americas,Cuba,33000.0
+2016,Europe,Cyprus,1100.0
+2016,Europe,Czechia,3000.0
+2016,South-East Asia,Democratic People's Republic of Korea,144928.0
+2016,Africa,Democratic Republic of the Congo,490000.0
+2016,Europe,Denmark,6500.0
+2016,Eastern Mediterranean,Djibouti,17240.0
+2016,Americas,Dominica,75107.4074074074
+2016,Americas,Dominican Republic,72000.0
+2016,Americas,Ecuador,38000.0
+2016,Eastern Mediterranean,Egypt,14000.0
+2016,Americas,El Salvador,22000.0
+2016,Africa,Equatorial Guinea,57000.0
+2016,Africa,Eritrea,14000.0
+2016,Europe,Estonia,6800.0
+2016,Africa,Eswatini,220000.0
+2016,Africa,Ethiopia,650000.0
+2016,Western Pacific,Fiji,1000.0
+2016,Europe,Finland,22935.277777777777
+2016,Europe,France,170000.0
+2016,Africa,Gabon,50000.0
+2016,Africa,Gambia,26000.0
+2016,Europe,Georgia,6200.0
+2016,Europe,Germany,81000.0
+2016,Africa,Ghana,330000.0
+2016,Europe,Greece,15000.0
+2016,Americas,Grenada,75107.4074074074
+2016,Americas,Guatemala,30000.0
+2016,Africa,Guinea,120000.0
+2016,Africa,Guinea-Bissau,36000.0
+2016,Americas,Guyana,8100.0
+2016,Americas,Haiti,120000.0
+2016,Americas,Honduras,21000.0
+2016,Europe,Hungary,22935.277777777777
+2016,Europe,Iceland,500.0
+2016,South-East Asia,India,0.0
+2016,South-East Asia,Indonesia,540000.0
+2016,Eastern Mediterranean,Iran (Islamic Republic of),48000.0
+2016,Eastern Mediterranean,Iraq,1800.0
+2016,Europe,Ireland,6600.0
+2016,Europe,Israel,22935.277777777777
+2016,Europe,Italy,130000.0
+2016,Americas,Jamaica,28000.0
+2016,Western Pacific,Japan,55664.0
+2016,Eastern Mediterranean,Jordan,500.0
+2016,Europe,Kazakhstan,22935.277777777777
+2016,Africa,Kenya,1400000.0
+2016,Western Pacific,Kiribati,55664.0
+2016,Eastern Mediterranean,Kuwait,620.0
+2016,Europe,Kyrgyzstan,7600.0
+2016,Western Pacific,Lao People's Democratic Republic,14000.0
+2016,Europe,Latvia,5900.0
+2016,Eastern Mediterranean,Lebanon,3100.0
+2016,Africa,Lesotho,290000.0
+2016,Africa,Liberia,36000.0
+2016,Eastern Mediterranean,Libya,6300.0
+2016,Europe,Lithuania,3000.0
+2016,Europe,Luxembourg,1000.0
+2016,Africa,Madagascar,39000.0
+2016,Africa,Malawi,1000000.0
+2016,Western Pacific,Malaysia,82000.0
+2016,South-East Asia,Maldives,100.0
+2016,Africa,Mali,120000.0
+2016,Europe,Malta,600.0
+2016,Western Pacific,Marshall Islands,55664.0
+2016,Africa,Mauritania,8300.0
+2016,Africa,Mauritius,515811.36363636365
+2016,Americas,Mexico,290000.0
+2016,Western Pacific,Micronesia (Federated States of),55664.0
+2016,Europe,Monaco,22935.277777777777
+2016,Western Pacific,Mongolia,540.0
+2016,Europe,Montenegro,500.0
+2016,Eastern Mediterranean,Morocco,20000.0
+2016,Africa,Mozambique,2100000.0
+2016,South-East Asia,Myanmar,260000.0
+2016,Africa,Namibia,210000.0
+2016,Western Pacific,Nauru,55664.0
+2016,South-East Asia,Nepal,31000.0
+2016,Europe,Netherlands (Kingdom of the),23000.0
+2016,Western Pacific,New Zealand,3100.0
+2016,Americas,Nicaragua,10000.0
+2016,Africa,Niger,34000.0
+2016,Africa,Nigeria,515811.36363636365
+2016,Western Pacific,Niue,55664.0
+2016,Europe,North Macedonia,500.0
+2016,Europe,Norway,22935.277777777777
+2016,Eastern Mediterranean,Oman,2500.0
+2016,Eastern Mediterranean,Pakistan,150000.0
+2016,Western Pacific,Palau,55664.0
+2016,Americas,Panama,24000.0
+2016,Western Pacific,Papua New Guinea,48000.0
+2016,Americas,Paraguay,16000.0
+2016,Americas,Peru,80000.0
+2016,Western Pacific,Philippines,63000.0
+2016,Europe,Poland,16000.0
+2016,Europe,Portugal,43000.0
+2016,Eastern Mediterranean,Qatar,500.0
+2016,Western Pacific,Republic of Korea,55664.0
+2016,Europe,Republic of Moldova,15000.0
+2016,Europe,Romania,17000.0
+2016,Europe,Russian Federation,22935.277777777777
+2016,Africa,Rwanda,240000.0
+2016,Americas,Saint Kitts and Nevis,75107.4074074074
+2016,Americas,Saint Lucia,75107.4074074074
+2016,Americas,Saint Vincent and the Grenadines,75107.4074074074
+2016,Western Pacific,Samoa,55664.0
+2016,Europe,San Marino,22935.277777777777
+2016,Africa,Sao Tome and Principe,1200.0
+2016,Eastern Mediterranean,Saudi Arabia,7100.0
+2016,Africa,Senegal,42000.0
+2016,Europe,Serbia,2900.0
+2016,Africa,Seychelles,515811.36363636365
+2016,Africa,Sierra Leone,70000.0
+2016,Western Pacific,Singapore,55664.0
+2016,Europe,Slovakia,790.0
+2016,Europe,Slovenia,780.0
+2016,Western Pacific,Solomon Islands,55664.0
+2016,Eastern Mediterranean,Somalia,17240.0
+2016,Africa,South Africa,7000000.0
+2016,Africa,South Sudan,170000.0
+2016,Europe,Spain,140000.0
+2016,South-East Asia,Sri Lanka,4100.0
+2016,Eastern Mediterranean,Sudan,31000.0
+2016,Americas,Suriname,6100.0
+2016,Europe,Sweden,22935.277777777777
+2016,Europe,Switzerland,22935.277777777777
+2016,Eastern Mediterranean,Syrian Arab Republic,500.0
+2016,Europe,Tajikistan,8500.0
+2016,South-East Asia,Thailand,600000.0
+2016,South-East Asia,Timor-Leste,1100.0
+2016,Africa,Togo,110000.0
+2016,Western Pacific,Tonga,55664.0
+2016,Americas,Trinidad and Tobago,12000.0
+2016,Eastern Mediterranean,Tunisia,6100.0
+2016,Europe,Turkiye,22935.277777777777
+2016,Europe,Turkmenistan,22935.277777777777
+2016,Western Pacific,Tuvalu,55664.0
+2016,Africa,Uganda,1300000.0
+2016,Europe,Ukraine,22935.277777777777
+2016,Eastern Mediterranean,United Arab Emirates,1300.0
+2016,Europe,United Kingdom of Great Britain and Northern Ireland,22935.277777777777
+2016,Africa,United Republic of Tanzania,1600000.0
+2016,Americas,United States of America,75107.4074074074
+2016,Americas,Uruguay,12000.0
+2016,Europe,Uzbekistan,55000.0
+2016,Western Pacific,Vanuatu,55664.0
+2016,Americas,Venezuela (Bolivarian Republic of),97000.0
+2016,Western Pacific,Viet Nam,240000.0
+2016,Eastern Mediterranean,Yemen,7000.0
+2016,Africa,Zambia,1300000.0
+2016,Africa,Zimbabwe,1400000.0
+2017,Eastern Mediterranean,Afghanistan,11000.0
+2017,Europe,Albania,1300.0
+2017,Africa,Algeria,20000.0
+2017,Europe,Andorra,23981.11111111111
+2017,Africa,Angola,310000.0
+2017,Americas,Antigua and Barbuda,78237.03703703704
+2017,Americas,Argentina,78237.03703703704
+2017,Europe,Armenia,4100.0
+2017,Western Pacific,Australia,27000.0
+2017,Europe,Austria,23981.11111111111
+2017,Europe,Azerbaijan,8900.0
+2017,Americas,Bahamas,4100.0
+2017,Eastern Mediterranean,Bahrain,18700.0
+2017,South-East Asia,Bangladesh,13000.0
+2017,Americas,Barbados,2200.0
+2017,Europe,Belarus,24000.0
+2017,Europe,Belgium,18000.0
+2017,Americas,Belize,3500.0
+2017,Africa,Benin,76000.0
+2017,South-East Asia,Bhutan,1000.0
+2017,Americas,Bolivia (Plurinational State of),24000.0
+2017,Europe,Bosnia and Herzegovina,23981.11111111111
+2017,Africa,Botswana,350000.0
+2017,Americas,Brazil,840000.0
+2017,Western Pacific,Brunei Darussalam,57386.0
+2017,Europe,Bulgaria,2900.0
+2017,Africa,Burkina Faso,110000.0
+2017,Africa,Burundi,83000.0
+2017,Africa,Cabo Verde,3100.0
+2017,Western Pacific,Cambodia,78000.0
+2017,Africa,Cameroon,500000.0
+2017,Americas,Canada,58000.0
+2017,Africa,Central African Republic,120000.0
+2017,Africa,Chad,120000.0
+2017,Americas,Chile,58000.0
+2017,Western Pacific,China,57386.0
+2017,Americas,Colombia,150000.0
+2017,Africa,Comoros,200.0
+2017,Africa,Congo,110000.0
+2017,Western Pacific,Cook Islands,57386.0
+2017,Americas,Costa Rica,14000.0
+2017,Africa,Cote d'Ivoire,440000.0
+2017,Europe,Croatia,1500.0
+2017,Americas,Cuba,34000.0
+2017,Europe,Cyprus,1200.0
+2017,Europe,Czechia,3200.0
+2017,South-East Asia,Democratic People's Republic of Korea,145940.0
+2017,Africa,Democratic Republic of the Congo,490000.0
+2017,Europe,Denmark,6600.0
+2017,Eastern Mediterranean,Djibouti,18700.0
+2017,Americas,Dominica,78237.03703703704
+2017,Americas,Dominican Republic,73000.0
+2017,Americas,Ecuador,40000.0
+2017,Eastern Mediterranean,Egypt,17000.0
+2017,Americas,El Salvador,22000.0
+2017,Africa,Equatorial Guinea,60000.0
+2017,Africa,Eritrea,14000.0
+2017,Europe,Estonia,7000.0
+2017,Africa,Eswatini,220000.0
+2017,Africa,Ethiopia,640000.0
+2017,Western Pacific,Fiji,1100.0
+2017,Europe,Finland,23981.11111111111
+2017,Europe,France,180000.0
+2017,Africa,Gabon,50000.0
+2017,Africa,Gambia,26000.0
+2017,Europe,Georgia,6600.0
+2017,Europe,Germany,83000.0
+2017,Africa,Ghana,330000.0
+2017,Europe,Greece,15000.0
+2017,Americas,Grenada,78237.03703703704
+2017,Americas,Guatemala,30000.0
+2017,Africa,Guinea,120000.0
+2017,Africa,Guinea-Bissau,36000.0
+2017,Americas,Guyana,8300.0
+2017,Americas,Haiti,130000.0
+2017,Americas,Honduras,21000.0
+2017,Europe,Hungary,23981.11111111111
+2017,Europe,Iceland,500.0
+2017,South-East Asia,India,0.0
+2017,South-East Asia,Indonesia,550000.0
+2017,Eastern Mediterranean,Iran (Islamic Republic of),47000.0
+2017,Eastern Mediterranean,Iraq,2000.0
+2017,Europe,Ireland,6900.0
+2017,Europe,Israel,23981.11111111111
+2017,Europe,Italy,140000.0
+2017,Americas,Jamaica,28000.0
+2017,Western Pacific,Japan,57386.0
+2017,Eastern Mediterranean,Jordan,520.0
+2017,Europe,Kazakhstan,23981.11111111111
+2017,Africa,Kenya,1400000.0
+2017,Western Pacific,Kiribati,57386.0
+2017,Eastern Mediterranean,Kuwait,680.0
+2017,Europe,Kyrgyzstan,8100.0
+2017,Western Pacific,Lao People's Democratic Republic,14000.0
+2017,Europe,Latvia,6200.0
+2017,Eastern Mediterranean,Lebanon,3000.0
+2017,Africa,Lesotho,290000.0
+2017,Africa,Liberia,35000.0
+2017,Eastern Mediterranean,Libya,6600.0
+2017,Europe,Lithuania,3100.0
+2017,Europe,Luxembourg,1100.0
+2017,Africa,Madagascar,44000.0
+2017,Africa,Malawi,1000000.0
+2017,Western Pacific,Malaysia,83000.0
+2017,South-East Asia,Maldives,100.0
+2017,Africa,Mali,120000.0
+2017,Europe,Malta,640.0
+2017,Western Pacific,Marshall Islands,57386.0
+2017,Africa,Mauritania,8300.0
+2017,Africa,Mauritius,522586.36363636365
+2017,Americas,Mexico,310000.0
+2017,Western Pacific,Micronesia (Federated States of),57386.0
+2017,Europe,Monaco,23981.11111111111
+2017,Western Pacific,Mongolia,560.0
+2017,Europe,Montenegro,500.0
+2017,Eastern Mediterranean,Morocco,20000.0
+2017,Africa,Mozambique,2100000.0
+2017,South-East Asia,Myanmar,270000.0
+2017,Africa,Namibia,210000.0
+2017,Western Pacific,Nauru,57386.0
+2017,South-East Asia,Nepal,30000.0
+2017,Europe,Netherlands (Kingdom of the),24000.0
+2017,Western Pacific,New Zealand,3200.0
+2017,Americas,Nicaragua,11000.0
+2017,Africa,Niger,34000.0
+2017,Africa,Nigeria,522586.36363636365
+2017,Western Pacific,Niue,57386.0
+2017,Europe,North Macedonia,500.0
+2017,Europe,Norway,23981.11111111111
+2017,Eastern Mediterranean,Oman,2500.0
+2017,Eastern Mediterranean,Pakistan,170000.0
+2017,Western Pacific,Palau,57386.0
+2017,Americas,Panama,25000.0
+2017,Western Pacific,Papua New Guinea,51000.0
+2017,Americas,Paraguay,17000.0
+2017,Americas,Peru,84000.0
+2017,Western Pacific,Philippines,76000.0
+2017,Europe,Poland,17000.0
+2017,Europe,Portugal,44000.0
+2017,Eastern Mediterranean,Qatar,500.0
+2017,Western Pacific,Republic of Korea,57386.0
+2017,Europe,Republic of Moldova,15000.0
+2017,Europe,Romania,18000.0
+2017,Europe,Russian Federation,23981.11111111111
+2017,Africa,Rwanda,240000.0
+2017,Americas,Saint Kitts and Nevis,78237.03703703704
+2017,Americas,Saint Lucia,78237.03703703704
+2017,Americas,Saint Vincent and the Grenadines,78237.03703703704
+2017,Western Pacific,Samoa,57386.0
+2017,Europe,San Marino,23981.11111111111
+2017,Africa,Sao Tome and Principe,1200.0
+2017,Eastern Mediterranean,Saudi Arabia,7300.0
+2017,Africa,Senegal,42000.0
+2017,Europe,Serbia,3100.0
+2017,Africa,Seychelles,522586.36363636365
+2017,Africa,Sierra Leone,71000.0
+2017,Western Pacific,Singapore,57386.0
+2017,Europe,Slovakia,880.0
+2017,Europe,Slovenia,800.0
+2017,Western Pacific,Solomon Islands,57386.0
+2017,Eastern Mediterranean,Somalia,18700.0
+2017,Africa,South Africa,7200000.0
+2017,Africa,South Sudan,160000.0
+2017,Europe,Spain,140000.0
+2017,South-East Asia,Sri Lanka,4100.0
+2017,Eastern Mediterranean,Sudan,33000.0
+2017,Americas,Suriname,6300.0
+2017,Europe,Sweden,23981.11111111111
+2017,Europe,Switzerland,23981.11111111111
+2017,Eastern Mediterranean,Syrian Arab Republic,500.0
+2017,Europe,Tajikistan,9700.0
+2017,South-East Asia,Thailand,590000.0
+2017,South-East Asia,Timor-Leste,1200.0
+2017,Africa,Togo,110000.0
+2017,Western Pacific,Tonga,57386.0
+2017,Americas,Trinidad and Tobago,12000.0
+2017,Eastern Mediterranean,Tunisia,6300.0
+2017,Europe,Turkiye,23981.11111111111
+2017,Europe,Turkmenistan,23981.11111111111
+2017,Western Pacific,Tuvalu,57386.0
+2017,Africa,Uganda,1300000.0
+2017,Europe,Ukraine,23981.11111111111
+2017,Eastern Mediterranean,United Arab Emirates,1300.0
+2017,Europe,United Kingdom of Great Britain and Northern Ireland,23981.11111111111
+2017,Africa,United Republic of Tanzania,1700000.0
+2017,Americas,United States of America,78237.03703703704
+2017,Americas,Uruguay,12000.0
+2017,Europe,Uzbekistan,60000.0
+2017,Western Pacific,Vanuatu,57386.0
+2017,Americas,Venezuela (Bolivarian Republic of),95000.0
+2017,Western Pacific,Viet Nam,240000.0
+2017,Eastern Mediterranean,Yemen,7400.0
+2017,Africa,Zambia,1300000.0
+2017,Africa,Zimbabwe,1400000.0
+2018,Eastern Mediterranean,Afghanistan,11000.0
+2018,Europe,Albania,1300.0
+2018,Africa,Algeria,21000.0
+2018,Europe,Andorra,24635.0
+2018,Africa,Angola,310000.0
+2018,Americas,Antigua and Barbuda,80751.85185185185
+2018,Americas,Argentina,80751.85185185185
+2018,Europe,Armenia,4500.0
+2018,Western Pacific,Australia,28000.0
+2018,Europe,Austria,24635.0
+2018,Europe,Azerbaijan,9200.0
+2018,Americas,Bahamas,4100.0
+2018,Eastern Mediterranean,Bahrain,19498.88888888889
+2018,South-East Asia,Bangladesh,14000.0
+2018,Americas,Barbados,2200.0
+2018,Europe,Belarus,25000.0
+2018,Europe,Belgium,18000.0
+2018,Americas,Belize,3600.0
+2018,Africa,Benin,76000.0
+2018,South-East Asia,Bhutan,1000.0
+2018,Americas,Bolivia (Plurinational State of),25000.0
+2018,Europe,Bosnia and Herzegovina,24635.0
+2018,Africa,Botswana,350000.0
+2018,Americas,Brazil,870000.0
+2018,Western Pacific,Brunei Darussalam,60318.0
+2018,Europe,Bulgaria,3000.0
+2018,Africa,Burkina Faso,100000.0
+2018,Africa,Burundi,83000.0
+2018,Africa,Cabo Verde,3200.0
+2018,Western Pacific,Cambodia,78000.0
+2018,Africa,Cameroon,490000.0
+2018,Americas,Canada,60000.0
+2018,Africa,Central African Republic,120000.0
+2018,Africa,Chad,120000.0
+2018,Americas,Chile,63000.0
+2018,Western Pacific,China,60318.0
+2018,Americas,Colombia,160000.0
+2018,Africa,Comoros,200.0
+2018,Africa,Congo,120000.0
+2018,Western Pacific,Cook Islands,60318.0
+2018,Americas,Costa Rica,15000.0
+2018,Africa,Cote d'Ivoire,430000.0
+2018,Europe,Croatia,1600.0
+2018,Americas,Cuba,36000.0
+2018,Europe,Cyprus,1200.0
+2018,Europe,Czechia,3300.0
+2018,South-East Asia,Democratic People's Republic of Korea,145040.0
+2018,Africa,Democratic Republic of the Congo,490000.0
+2018,Europe,Denmark,6700.0
+2018,Eastern Mediterranean,Djibouti,19498.88888888889
+2018,Americas,Dominica,80751.85185185185
+2018,Americas,Dominican Republic,73000.0
+2018,Americas,Ecuador,42000.0
+2018,Eastern Mediterranean,Egypt,20000.0
+2018,Americas,El Salvador,22000.0
+2018,Africa,Equatorial Guinea,63000.0
+2018,Africa,Eritrea,13000.0
+2018,Europe,Estonia,7100.0
+2018,Africa,Eswatini,230000.0
+2018,Africa,Ethiopia,640000.0
+2018,Western Pacific,Fiji,1300.0
+2018,Europe,Finland,24635.0
+2018,Europe,France,180000.0
+2018,Africa,Gabon,50000.0
+2018,Africa,Gambia,26000.0
+2018,Europe,Georgia,7000.0
+2018,Europe,Germany,85000.0
+2018,Africa,Ghana,340000.0
+2018,Europe,Greece,15000.0
+2018,Americas,Grenada,80751.85185185185
+2018,Americas,Guatemala,30000.0
+2018,Africa,Guinea,120000.0
+2018,Africa,Guinea-Bissau,36000.0
+2018,Americas,Guyana,8900.0
+2018,Americas,Haiti,130000.0
+2018,Americas,Honduras,21000.0
+2018,Europe,Hungary,24635.0
+2018,Europe,Iceland,500.0
+2018,South-East Asia,India,0.0
+2018,South-East Asia,Indonesia,550000.0
+2018,Eastern Mediterranean,Iran (Islamic Republic of),46000.0
+2018,Eastern Mediterranean,Iraq,2300.0
+2018,Europe,Ireland,7200.0
+2018,Europe,Israel,24635.0
+2018,Europe,Italy,140000.0
+2018,Americas,Jamaica,29000.0
+2018,Western Pacific,Japan,60318.0
+2018,Eastern Mediterranean,Jordan,540.0
+2018,Europe,Kazakhstan,24635.0
+2018,Africa,Kenya,1400000.0
+2018,Western Pacific,Kiribati,60318.0
+2018,Eastern Mediterranean,Kuwait,740.0
+2018,Europe,Kyrgyzstan,8600.0
+2018,Western Pacific,Lao People's Democratic Republic,15000.0
+2018,Europe,Latvia,6600.0
+2018,Eastern Mediterranean,Lebanon,2900.0
+2018,Africa,Lesotho,290000.0
+2018,Africa,Liberia,35000.0
+2018,Eastern Mediterranean,Libya,6900.0
+2018,Europe,Lithuania,3200.0
+2018,Europe,Luxembourg,1200.0
+2018,Africa,Madagascar,49000.0
+2018,Africa,Malawi,1000000.0
+2018,Western Pacific,Malaysia,84000.0
+2018,South-East Asia,Maldives,100.0
+2018,Africa,Mali,120000.0
+2018,Europe,Malta,680.0
+2018,Western Pacific,Marshall Islands,60318.0
+2018,Africa,Mauritania,8200.0
+2018,Africa,Mauritius,529586.3636363636
+2018,Americas,Mexico,320000.0
+2018,Western Pacific,Micronesia (Federated States of),60318.0
+2018,Europe,Monaco,24635.0
+2018,Western Pacific,Mongolia,580.0
+2018,Europe,Montenegro,500.0
+2018,Eastern Mediterranean,Morocco,20000.0
+2018,Africa,Mozambique,2200000.0
+2018,South-East Asia,Myanmar,270000.0
+2018,Africa,Namibia,210000.0
+2018,Western Pacific,Nauru,60318.0
+2018,South-East Asia,Nepal,30000.0
+2018,Europe,Netherlands (Kingdom of the),24000.0
+2018,Western Pacific,New Zealand,3300.0
+2018,Americas,Nicaragua,11000.0
+2018,Africa,Niger,34000.0
+2018,Africa,Nigeria,529586.3636363636
+2018,Western Pacific,Niue,60318.0
+2018,Europe,North Macedonia,500.0
+2018,Europe,Norway,24635.0
+2018,Eastern Mediterranean,Oman,2500.0
+2018,Eastern Mediterranean,Pakistan,180000.0
+2018,Western Pacific,Palau,60318.0
+2018,Americas,Panama,26000.0
+2018,Western Pacific,Papua New Guinea,54000.0
+2018,Americas,Paraguay,18000.0
+2018,Americas,Peru,89000.0
+2018,Western Pacific,Philippines,89000.0
+2018,Europe,Poland,17000.0
+2018,Europe,Portugal,44000.0
+2018,Eastern Mediterranean,Qatar,500.0
+2018,Western Pacific,Republic of Korea,60318.0
+2018,Europe,Republic of Moldova,15000.0
+2018,Europe,Romania,18000.0
+2018,Europe,Russian Federation,24635.0
+2018,Africa,Rwanda,240000.0
+2018,Americas,Saint Kitts and Nevis,80751.85185185185
+2018,Americas,Saint Lucia,80751.85185185185
+2018,Americas,Saint Vincent and the Grenadines,80751.85185185185
+2018,Western Pacific,Samoa,60318.0
+2018,Europe,San Marino,24635.0
+2018,Africa,Sao Tome and Principe,1200.0
+2018,Eastern Mediterranean,Saudi Arabia,7600.0
+2018,Africa,Senegal,41000.0
+2018,Europe,Serbia,3200.0
+2018,Africa,Seychelles,529586.3636363636
+2018,Africa,Sierra Leone,72000.0
+2018,Western Pacific,Singapore,60318.0
+2018,Europe,Slovakia,970.0
+2018,Europe,Slovenia,810.0
+2018,Western Pacific,Solomon Islands,60318.0
+2018,Eastern Mediterranean,Somalia,19498.88888888889
+2018,Africa,South Africa,7300000.0
+2018,Africa,South Sudan,160000.0
+2018,Europe,Spain,150000.0
+2018,South-East Asia,Sri Lanka,4100.0
+2018,Eastern Mediterranean,Sudan,34000.0
+2018,Americas,Suriname,6500.0
+2018,Europe,Sweden,24635.0
+2018,Europe,Switzerland,24635.0
+2018,Eastern Mediterranean,Syrian Arab Republic,500.0
+2018,Europe,Tajikistan,11000.0
+2018,South-East Asia,Thailand,580000.0
+2018,South-East Asia,Timor-Leste,1200.0
+2018,Africa,Togo,110000.0
+2018,Western Pacific,Tonga,60318.0
+2018,Americas,Trinidad and Tobago,12000.0
+2018,Eastern Mediterranean,Tunisia,6400.0
+2018,Europe,Turkiye,24635.0
+2018,Europe,Turkmenistan,24635.0
+2018,Western Pacific,Tuvalu,60318.0
+2018,Africa,Uganda,1300000.0
+2018,Europe,Ukraine,24635.0
+2018,Eastern Mediterranean,United Arab Emirates,1300.0
+2018,Europe,United Kingdom of Great Britain and Northern Ireland,24635.0
+2018,Africa,United Republic of Tanzania,1700000.0
+2018,Americas,United States of America,80751.85185185185
+2018,Americas,Uruguay,13000.0
+2018,Europe,Uzbekistan,66000.0
+2018,Western Pacific,Vanuatu,60318.0
+2018,Americas,Venezuela (Bolivarian Republic of),90000.0
+2018,Western Pacific,Viet Nam,250000.0
+2018,Eastern Mediterranean,Yemen,7800.0
+2018,Africa,Zambia,1400000.0
+2018,Africa,Zimbabwe,1400000.0
+2019,Eastern Mediterranean,Afghanistan,11000.0
+2019,Europe,Albania,1400.0
+2019,Africa,Algeria,23000.0
+2019,Europe,Andorra,25346.11111111111
+2019,Africa,Angola,310000.0
+2019,Americas,Antigua and Barbuda,83129.62962962964
+2019,Americas,Argentina,83129.62962962964
+2019,Europe,Armenia,4800.0
+2019,Western Pacific,Australia,29000.0
+2019,Europe,Austria,25346.11111111111
+2019,Europe,Azerbaijan,9600.0
+2019,Americas,Bahamas,4100.0
+2019,Eastern Mediterranean,Bahrain,20978.333333333332
+2019,South-East Asia,Bangladesh,14000.0
+2019,Americas,Barbados,2200.0
+2019,Europe,Belarus,26000.0
+2019,Europe,Belgium,18000.0
+2019,Americas,Belize,3600.0
+2019,Africa,Benin,75000.0
+2019,South-East Asia,Bhutan,1000.0
+2019,Americas,Bolivia (Plurinational State of),26000.0
+2019,Europe,Bosnia and Herzegovina,25346.11111111111
+2019,Africa,Botswana,350000.0
+2019,Americas,Brazil,900000.0
+2019,Western Pacific,Brunei Darussalam,62039.0
+2019,Europe,Bulgaria,3200.0
+2019,Africa,Burkina Faso,100000.0
+2019,Africa,Burundi,83000.0
+2019,Africa,Cabo Verde,3300.0
+2019,Western Pacific,Cambodia,77000.0
+2019,Africa,Cameroon,490000.0
+2019,Americas,Canada,62000.0
+2019,Africa,Central African Republic,120000.0
+2019,Africa,Chad,120000.0
+2019,Americas,Chile,68000.0
+2019,Western Pacific,China,62039.0
+2019,Americas,Colombia,170000.0
+2019,Africa,Comoros,200.0
+2019,Africa,Congo,130000.0
+2019,Western Pacific,Cook Islands,62039.0
+2019,Americas,Costa Rica,15000.0
+2019,Africa,Cote d'Ivoire,430000.0
+2019,Europe,Croatia,1600.0
+2019,Americas,Cuba,38000.0
+2019,Europe,Cyprus,1300.0
+2019,Europe,Czechia,3500.0
+2019,South-East Asia,Democratic People's Republic of Korea,145050.0
+2019,Africa,Democratic Republic of the Congo,490000.0
+2019,Europe,Denmark,6800.0
+2019,Eastern Mediterranean,Djibouti,20978.333333333332
+2019,Americas,Dominica,83129.62962962964
+2019,Americas,Dominican Republic,74000.0
+2019,Americas,Ecuador,43000.0
+2019,Eastern Mediterranean,Egypt,23000.0
+2019,Americas,El Salvador,22000.0
+2019,Africa,Equatorial Guinea,66000.0
+2019,Africa,Eritrea,13000.0
+2019,Europe,Estonia,7200.0
+2019,Africa,Eswatini,230000.0
+2019,Africa,Ethiopia,630000.0
+2019,Western Pacific,Fiji,1400.0
+2019,Europe,Finland,25346.11111111111
+2019,Europe,France,190000.0
+2019,Africa,Gabon,49000.0
+2019,Africa,Gambia,26000.0
+2019,Europe,Georgia,7400.0
+2019,Europe,Germany,87000.0
+2019,Africa,Ghana,340000.0
+2019,Europe,Greece,16000.0
+2019,Americas,Grenada,83129.62962962964
+2019,Americas,Guatemala,30000.0
+2019,Africa,Guinea,120000.0
+2019,Africa,Guinea-Bissau,35000.0
+2019,Americas,Guyana,8900.0
+2019,Americas,Haiti,130000.0
+2019,Americas,Honduras,20000.0
+2019,Europe,Hungary,25346.11111111111
+2019,Europe,Iceland,500.0
+2019,South-East Asia,India,0.0
+2019,South-East Asia,Indonesia,550000.0
+2019,Eastern Mediterranean,Iran (Islamic Republic of),46000.0
+2019,Eastern Mediterranean,Iraq,2600.0
+2019,Europe,Ireland,7400.0
+2019,Europe,Israel,25346.11111111111
+2019,Europe,Italy,140000.0
+2019,Americas,Jamaica,29000.0
+2019,Western Pacific,Japan,62039.0
+2019,Eastern Mediterranean,Jordan,570.0
+2019,Europe,Kazakhstan,25346.11111111111
+2019,Africa,Kenya,1400000.0
+2019,Western Pacific,Kiribati,62039.0
+2019,Eastern Mediterranean,Kuwait,770.0
+2019,Europe,Kyrgyzstan,9200.0
+2019,Western Pacific,Lao People's Democratic Republic,16000.0
+2019,Europe,Latvia,6900.0
+2019,Eastern Mediterranean,Lebanon,2700.0
+2019,Africa,Lesotho,290000.0
+2019,Africa,Liberia,34000.0
+2019,Eastern Mediterranean,Libya,7200.0
+2019,Europe,Lithuania,3400.0
+2019,Europe,Luxembourg,1200.0
+2019,Africa,Madagascar,54000.0
+2019,Africa,Malawi,1000000.0
+2019,Western Pacific,Malaysia,85000.0
+2019,South-East Asia,Maldives,100.0
+2019,Africa,Mali,120000.0
+2019,Europe,Malta,730.0
+2019,Western Pacific,Marshall Islands,62039.0
+2019,Africa,Mauritania,8200.0
+2019,Africa,Mauritius,534315.9090909091
+2019,Americas,Mexico,330000.0
+2019,Western Pacific,Micronesia (Federated States of),62039.0
+2019,Europe,Monaco,25346.11111111111
+2019,Western Pacific,Mongolia,590.0
+2019,Europe,Montenegro,500.0
+2019,Eastern Mediterranean,Morocco,21000.0
+2019,Africa,Mozambique,2300000.0
+2019,South-East Asia,Myanmar,270000.0
+2019,Africa,Namibia,210000.0
+2019,Western Pacific,Nauru,62039.0
+2019,South-East Asia,Nepal,30000.0
+2019,Europe,Netherlands (Kingdom of the),24000.0
+2019,Western Pacific,New Zealand,3400.0
+2019,Americas,Nicaragua,11000.0
+2019,Africa,Niger,34000.0
+2019,Africa,Nigeria,534315.9090909091
+2019,Western Pacific,Niue,62039.0
+2019,Europe,North Macedonia,500.0
+2019,Europe,Norway,25346.11111111111
+2019,Eastern Mediterranean,Oman,2500.0
+2019,Eastern Mediterranean,Pakistan,200000.0
+2019,Western Pacific,Palau,62039.0
+2019,Americas,Panama,27000.0
+2019,Western Pacific,Papua New Guinea,58000.0
+2019,Americas,Paraguay,19000.0
+2019,Americas,Peru,93000.0
+2019,Western Pacific,Philippines,100000.0
+2019,Europe,Poland,18000.0
+2019,Europe,Portugal,45000.0
+2019,Eastern Mediterranean,Qatar,560.0
+2019,Western Pacific,Republic of Korea,62039.0
+2019,Europe,Republic of Moldova,15000.0
+2019,Europe,Romania,19000.0
+2019,Europe,Russian Federation,25346.11111111111
+2019,Africa,Rwanda,240000.0
+2019,Americas,Saint Kitts and Nevis,83129.62962962964
+2019,Americas,Saint Lucia,83129.62962962964
+2019,Americas,Saint Vincent and the Grenadines,83129.62962962964
+2019,Western Pacific,Samoa,62039.0
+2019,Europe,San Marino,25346.11111111111
+2019,Africa,Sao Tome and Principe,1200.0
+2019,Eastern Mediterranean,Saudi Arabia,8100.0
+2019,Africa,Senegal,41000.0
+2019,Europe,Serbia,3400.0
+2019,Africa,Seychelles,534315.9090909091
+2019,Africa,Sierra Leone,74000.0
+2019,Western Pacific,Singapore,62039.0
+2019,Europe,Slovakia,1100.0
+2019,Europe,Slovenia,830.0
+2019,Western Pacific,Solomon Islands,62039.0
+2019,Eastern Mediterranean,Somalia,20978.333333333332
+2019,Africa,South Africa,7400000.0
+2019,Africa,South Sudan,160000.0
+2019,Europe,Spain,150000.0
+2019,South-East Asia,Sri Lanka,4100.0
+2019,Eastern Mediterranean,Sudan,35000.0
+2019,Americas,Suriname,6700.0
+2019,Europe,Sweden,25346.11111111111
+2019,Europe,Switzerland,25346.11111111111
+2019,Eastern Mediterranean,Syrian Arab Republic,510.0
+2019,Europe,Tajikistan,12000.0
+2019,South-East Asia,Thailand,580000.0
+2019,South-East Asia,Timor-Leste,1300.0
+2019,Africa,Togo,110000.0
+2019,Western Pacific,Tonga,62039.0
+2019,Americas,Trinidad and Tobago,12000.0
+2019,Eastern Mediterranean,Tunisia,6500.0
+2019,Europe,Turkiye,25346.11111111111
+2019,Europe,Turkmenistan,25346.11111111111
+2019,Western Pacific,Tuvalu,62039.0
+2019,Africa,Uganda,1400000.0
+2019,Europe,Ukraine,25346.11111111111
+2019,Eastern Mediterranean,United Arab Emirates,1400.0
+2019,Europe,United Kingdom of Great Britain and Northern Ireland,25346.11111111111
+2019,Africa,United Republic of Tanzania,1700000.0
+2019,Americas,United States of America,83129.62962962964
+2019,Americas,Uruguay,14000.0
+2019,Europe,Uzbekistan,70000.0
+2019,Western Pacific,Vanuatu,62039.0
+2019,Americas,Venezuela (Bolivarian Republic of),86000.0
+2019,Western Pacific,Viet Nam,250000.0
+2019,Eastern Mediterranean,Yemen,8200.0
+2019,Africa,Zambia,1400000.0
+2019,Africa,Zimbabwe,1300000.0
+2020,Eastern Mediterranean,Afghanistan,12000.0
+2020,Europe,Albania,1400.0
+2020,Africa,Algeria,24000.0
+2020,Europe,Andorra,25706.38888888889
+2020,Africa,Angola,310000.0
+2020,Americas,Antigua and Barbuda,86033.33333333333
+2020,Americas,Argentina,86033.33333333333
+2020,Europe,Armenia,5200.0
+2020,Western Pacific,Australia,29000.0
+2020,Europe,Austria,25706.38888888889
+2020,Europe,Azerbaijan,9900.0
+2020,Americas,Bahamas,4000.0
+2020,Eastern Mediterranean,Bahrain,22527.222222222223
+2020,South-East Asia,Bangladesh,15000.0
+2020,Americas,Barbados,2200.0
+2020,Europe,Belarus,26000.0
+2020,Europe,Belgium,19000.0
+2020,Americas,Belize,3600.0
+2020,Africa,Benin,74000.0
+2020,South-East Asia,Bhutan,1100.0
+2020,Americas,Bolivia (Plurinational State of),27000.0
+2020,Europe,Bosnia and Herzegovina,25706.38888888889
+2020,Africa,Botswana,350000.0
+2020,Americas,Brazil,930000.0
+2020,Western Pacific,Brunei Darussalam,64371.0
+2020,Europe,Bulgaria,3300.0
+2020,Africa,Burkina Faso,100000.0
+2020,Africa,Burundi,82000.0
+2020,Africa,Cabo Verde,3400.0
+2020,Western Pacific,Cambodia,76000.0
+2020,Africa,Cameroon,490000.0
+2020,Americas,Canada,63000.0
+2020,Africa,Central African Republic,120000.0
+2020,Africa,Chad,120000.0
+2020,Americas,Chile,73000.0
+2020,Western Pacific,China,64371.0
+2020,Americas,Colombia,180000.0
+2020,Africa,Comoros,200.0
+2020,Africa,Congo,130000.0
+2020,Western Pacific,Cook Islands,64371.0
+2020,Americas,Costa Rica,16000.0
+2020,Africa,Cote d'Ivoire,420000.0
+2020,Europe,Croatia,1700.0
+2020,Americas,Cuba,39000.0
+2020,Europe,Cyprus,1300.0
+2020,Europe,Czechia,3600.0
+2020,South-East Asia,Democratic People's Republic of Korea,144160.0
+2020,Africa,Democratic Republic of the Congo,490000.0
+2020,Europe,Denmark,6900.0
+2020,Eastern Mediterranean,Djibouti,22527.222222222223
+2020,Americas,Dominica,86033.33333333333
+2020,Americas,Dominican Republic,76000.0
+2020,Americas,Ecuador,45000.0
+2020,Eastern Mediterranean,Egypt,26000.0
+2020,Americas,El Salvador,22000.0
+2020,Africa,Equatorial Guinea,68000.0
+2020,Africa,Eritrea,13000.0
+2020,Europe,Estonia,7300.0
+2020,Africa,Eswatini,230000.0
+2020,Africa,Ethiopia,620000.0
+2020,Western Pacific,Fiji,1600.0
+2020,Europe,Finland,25706.38888888889
+2020,Europe,France,190000.0
+2020,Africa,Gabon,49000.0
+2020,Africa,Gambia,26000.0
+2020,Europe,Georgia,7800.0
+2020,Europe,Germany,89000.0
+2020,Africa,Ghana,350000.0
+2020,Europe,Greece,16000.0
+2020,Americas,Grenada,86033.33333333333
+2020,Americas,Guatemala,30000.0
+2020,Africa,Guinea,120000.0
+2020,Africa,Guinea-Bissau,35000.0
+2020,Americas,Guyana,9200.0
+2020,Americas,Haiti,140000.0
+2020,Americas,Honduras,20000.0
+2020,Europe,Hungary,25706.38888888889
+2020,Europe,Iceland,500.0
+2020,South-East Asia,India,0.0
+2020,South-East Asia,Indonesia,550000.0
+2020,Eastern Mediterranean,Iran (Islamic Republic of),46000.0
+2020,Eastern Mediterranean,Iraq,3000.0
+2020,Europe,Ireland,7700.0
+2020,Europe,Israel,25706.38888888889
+2020,Europe,Italy,140000.0
+2020,Americas,Jamaica,29000.0
+2020,Western Pacific,Japan,64371.0
+2020,Eastern Mediterranean,Jordan,600.0
+2020,Europe,Kazakhstan,25706.38888888889
+2020,Africa,Kenya,1400000.0
+2020,Western Pacific,Kiribati,64371.0
+2020,Eastern Mediterranean,Kuwait,740.0
+2020,Europe,Kyrgyzstan,9600.0
+2020,Western Pacific,Lao People's Democratic Republic,16000.0
+2020,Europe,Latvia,7100.0
+2020,Eastern Mediterranean,Lebanon,2700.0
+2020,Africa,Lesotho,280000.0
+2020,Africa,Liberia,34000.0
+2020,Eastern Mediterranean,Libya,7500.0
+2020,Europe,Lithuania,3500.0
+2020,Europe,Luxembourg,1300.0
+2020,Africa,Madagascar,59000.0
+2020,Africa,Malawi,1000000.0
+2020,Western Pacific,Malaysia,85000.0
+2020,South-East Asia,Maldives,100.0
+2020,Africa,Mali,120000.0
+2020,Europe,Malta,780.0
+2020,Western Pacific,Marshall Islands,64371.0
+2020,Africa,Mauritania,8200.0
+2020,Africa,Mauritius,538793.1818181818
+2020,Americas,Mexico,340000.0
+2020,Western Pacific,Micronesia (Federated States of),64371.0
+2020,Europe,Monaco,25706.38888888889
+2020,Western Pacific,Mongolia,610.0
+2020,Europe,Montenegro,500.0
+2020,Eastern Mediterranean,Morocco,21000.0
+2020,Africa,Mozambique,2400000.0
+2020,South-East Asia,Myanmar,270000.0
+2020,Africa,Namibia,220000.0
+2020,Western Pacific,Nauru,64371.0
+2020,South-East Asia,Nepal,30000.0
+2020,Europe,Netherlands (Kingdom of the),24000.0
+2020,Western Pacific,New Zealand,3500.0
+2020,Americas,Nicaragua,11000.0
+2020,Africa,Niger,34000.0
+2020,Africa,Nigeria,538793.1818181818
+2020,Western Pacific,Niue,64371.0
+2020,Europe,North Macedonia,500.0
+2020,Europe,Norway,25706.38888888889
+2020,Eastern Mediterranean,Oman,2400.0
+2020,Eastern Mediterranean,Pakistan,220000.0
+2020,Western Pacific,Palau,64371.0
+2020,Americas,Panama,27000.0
+2020,Western Pacific,Papua New Guinea,62000.0
+2020,Americas,Paraguay,19000.0
+2020,Americas,Peru,97000.0
+2020,Western Pacific,Philippines,120000.0
+2020,Europe,Poland,19000.0
+2020,Europe,Portugal,45000.0
+2020,Eastern Mediterranean,Qatar,600.0
+2020,Western Pacific,Republic of Korea,64371.0
+2020,Europe,Republic of Moldova,16000.0
+2020,Europe,Romania,19000.0
+2020,Europe,Russian Federation,25706.38888888889
+2020,Africa,Rwanda,240000.0
+2020,Americas,Saint Kitts and Nevis,86033.33333333333
+2020,Americas,Saint Lucia,86033.33333333333
+2020,Americas,Saint Vincent and the Grenadines,86033.33333333333
+2020,Western Pacific,Samoa,64371.0
+2020,Europe,San Marino,25706.38888888889
+2020,Africa,Sao Tome and Principe,1100.0
+2020,Eastern Mediterranean,Saudi Arabia,8600.0
+2020,Africa,Senegal,41000.0
+2020,Europe,Serbia,3500.0
+2020,Africa,Seychelles,538793.1818181818
+2020,Africa,Sierra Leone,75000.0
+2020,Western Pacific,Singapore,64371.0
+2020,Europe,Slovakia,1200.0
+2020,Europe,Slovenia,850.0
+2020,Western Pacific,Solomon Islands,64371.0
+2020,Eastern Mediterranean,Somalia,22527.222222222223
+2020,Africa,South Africa,7500000.0
+2020,Africa,South Sudan,160000.0
+2020,Europe,Spain,150000.0
+2020,South-East Asia,Sri Lanka,4100.0
+2020,Eastern Mediterranean,Sudan,37000.0
+2020,Americas,Suriname,6900.0
+2020,Europe,Sweden,25706.38888888889
+2020,Europe,Switzerland,25706.38888888889
+2020,Eastern Mediterranean,Syrian Arab Republic,550.0
+2020,Europe,Tajikistan,13000.0
+2020,South-East Asia,Thailand,570000.0
+2020,South-East Asia,Timor-Leste,1300.0
+2020,Africa,Togo,110000.0
+2020,Western Pacific,Tonga,64371.0
+2020,Americas,Trinidad and Tobago,12000.0
+2020,Eastern Mediterranean,Tunisia,6700.0
+2020,Europe,Turkiye,25706.38888888889
+2020,Europe,Turkmenistan,25706.38888888889
+2020,Western Pacific,Tuvalu,64371.0
+2020,Africa,Uganda,1400000.0
+2020,Europe,Ukraine,25706.38888888889
+2020,Eastern Mediterranean,United Arab Emirates,1400.0
+2020,Europe,United Kingdom of Great Britain and Northern Ireland,25706.38888888889
+2020,Africa,United Republic of Tanzania,1700000.0
+2020,Americas,United States of America,86033.33333333333
+2020,Americas,Uruguay,14000.0
+2020,Europe,Uzbekistan,74000.0
+2020,Western Pacific,Vanuatu,64371.0
+2020,Americas,Venezuela (Bolivarian Republic of),87000.0
+2020,Western Pacific,Viet Nam,250000.0
+2020,Eastern Mediterranean,Yemen,8700.0
+2020,Africa,Zambia,1400000.0
+2020,Africa,Zimbabwe,1300000.0
+2021,Eastern Mediterranean,Afghanistan,12000.0
+2021,Europe,Albania,1400.0
+2021,Africa,Algeria,26000.0
+2021,Europe,Andorra,26356.666666666668
+2021,Africa,Angola,310000.0
+2021,Americas,Antigua and Barbuda,89665.38461538461
+2021,Americas,Argentina,89665.38461538461
+2021,Europe,Armenia,5500.0
+2021,Western Pacific,Australia,29000.0
+2021,Europe,Austria,26356.666666666668
+2021,Europe,Azerbaijan,10000.0
+2021,Americas,Bahamas,4000.0
+2021,Eastern Mediterranean,Bahrain,24610.0
+2021,South-East Asia,Bangladesh,15000.0
+2021,Americas,Barbados,2200.0
+2021,Europe,Belarus,27000.0
+2021,Europe,Belgium,19000.0
+2021,Americas,Belize,3700.0
+2021,Africa,Benin,73000.0
+2021,South-East Asia,Bhutan,1100.0
+2021,Americas,Bolivia (Plurinational State of),28000.0
+2021,Europe,Bosnia and Herzegovina,26356.666666666668
+2021,Africa,Botswana,350000.0
+2021,Americas,Brazil,960000.0
+2021,Western Pacific,Brunei Darussalam,67102.0
+2021,Europe,Bulgaria,3400.0
+2021,Africa,Burkina Faso,99000.0
+2021,Africa,Burundi,81000.0
+2021,Africa,Cabo Verde,3500.0
+2021,Western Pacific,Cambodia,76000.0
+2021,Africa,Cameroon,480000.0
+2021,Americas,Canada,89665.38461538461
+2021,Africa,Central African Republic,120000.0
+2021,Africa,Chad,120000.0
+2021,Americas,Chile,78000.0
+2021,Western Pacific,China,67102.0
+2021,Americas,Colombia,180000.0
+2021,Africa,Comoros,200.0
+2021,Africa,Congo,140000.0
+2021,Western Pacific,Cook Islands,67102.0
+2021,Americas,Costa Rica,16000.0
+2021,Africa,Cote d'Ivoire,410000.0
+2021,Europe,Croatia,1700.0
+2021,Americas,Cuba,41000.0
+2021,Europe,Cyprus,1400.0
+2021,Europe,Czechia,3800.0
+2021,South-East Asia,Democratic People's Republic of Korea,144170.0
+2021,Africa,Democratic Republic of the Congo,490000.0
+2021,Europe,Denmark,6900.0
+2021,Eastern Mediterranean,Djibouti,24610.0
+2021,Americas,Dominica,89665.38461538461
+2021,Americas,Dominican Republic,78000.0
+2021,Americas,Ecuador,46000.0
+2021,Eastern Mediterranean,Egypt,30000.0
+2021,Americas,El Salvador,23000.0
+2021,Africa,Equatorial Guinea,70000.0
+2021,Africa,Eritrea,13000.0
+2021,Europe,Estonia,7300.0
+2021,Africa,Eswatini,230000.0
+2021,Africa,Ethiopia,620000.0
+2021,Western Pacific,Fiji,1800.0
+2021,Europe,Finland,26356.666666666668
+2021,Europe,France,200000.0
+2021,Africa,Gabon,49000.0
+2021,Africa,Gambia,26000.0
+2021,Europe,Georgia,8100.0
+2021,Europe,Germany,91000.0
+2021,Africa,Ghana,350000.0
+2021,Europe,Greece,17000.0
+2021,Americas,Grenada,89665.38461538461
+2021,Americas,Guatemala,31000.0
+2021,Africa,Guinea,120000.0
+2021,Africa,Guinea-Bissau,35000.0
+2021,Americas,Guyana,9400.0
+2021,Americas,Haiti,140000.0
+2021,Americas,Honduras,20000.0
+2021,Europe,Hungary,26356.666666666668
+2021,Europe,Iceland,500.0
+2021,South-East Asia,India,0.0
+2021,South-East Asia,Indonesia,540000.0
+2021,Eastern Mediterranean,Iran (Islamic Republic of),45000.0
+2021,Eastern Mediterranean,Iraq,3500.0
+2021,Europe,Ireland,7900.0
+2021,Europe,Israel,26356.666666666668
+2021,Europe,Italy,140000.0
+2021,Americas,Jamaica,30000.0
+2021,Western Pacific,Japan,67102.0
+2021,Eastern Mediterranean,Jordan,630.0
+2021,Europe,Kazakhstan,26356.666666666668
+2021,Africa,Kenya,1400000.0
+2021,Western Pacific,Kiribati,67102.0
+2021,Eastern Mediterranean,Kuwait,770.0
+2021,Europe,Kyrgyzstan,10000.0
+2021,Western Pacific,Lao People's Democratic Republic,17000.0
+2021,Europe,Latvia,7300.0
+2021,Eastern Mediterranean,Lebanon,2700.0
+2021,Africa,Lesotho,280000.0
+2021,Africa,Liberia,34000.0
+2021,Eastern Mediterranean,Libya,7700.0
+2021,Europe,Lithuania,3600.0
+2021,Europe,Luxembourg,1300.0
+2021,Africa,Madagascar,64000.0
+2021,Africa,Malawi,1000000.0
+2021,Western Pacific,Malaysia,86000.0
+2021,South-East Asia,Maldives,100.0
+2021,Africa,Mali,120000.0
+2021,Europe,Malta,820.0
+2021,Western Pacific,Marshall Islands,67102.0
+2021,Africa,Mauritania,8200.0
+2021,Africa,Mauritius,541000.0
+2021,Americas,Mexico,360000.0
+2021,Western Pacific,Micronesia (Federated States of),67102.0
+2021,Europe,Monaco,26356.666666666668
+2021,Western Pacific,Mongolia,620.0
+2021,Europe,Montenegro,500.0
+2021,Eastern Mediterranean,Morocco,21000.0
+2021,Africa,Mozambique,2400000.0
+2021,South-East Asia,Myanmar,280000.0
+2021,Africa,Namibia,220000.0
+2021,Western Pacific,Nauru,67102.0
+2021,South-East Asia,Nepal,30000.0
+2021,Europe,Netherlands (Kingdom of the),24000.0
+2021,Western Pacific,New Zealand,3600.0
+2021,Americas,Nicaragua,12000.0
+2021,Africa,Niger,34000.0
+2021,Africa,Nigeria,541000.0
+2021,Western Pacific,Niue,67102.0
+2021,Europe,North Macedonia,550.0
+2021,Europe,Norway,26356.666666666668
+2021,Eastern Mediterranean,Oman,2400.0
+2021,Eastern Mediterranean,Pakistan,250000.0
+2021,Western Pacific,Palau,67102.0
+2021,Americas,Panama,28000.0
+2021,Western Pacific,Papua New Guinea,67000.0
+2021,Americas,Paraguay,20000.0
+2021,Americas,Peru,100000.0
+2021,Western Pacific,Philippines,140000.0
+2021,Europe,Poland,20000.0
+2021,Europe,Portugal,46000.0
+2021,Eastern Mediterranean,Qatar,680.0
+2021,Western Pacific,Republic of Korea,67102.0
+2021,Europe,Republic of Moldova,16000.0
+2021,Europe,Romania,19000.0
+2021,Europe,Russian Federation,26356.666666666668
+2021,Africa,Rwanda,240000.0
+2021,Americas,Saint Kitts and Nevis,89665.38461538461
+2021,Americas,Saint Lucia,89665.38461538461
+2021,Americas,Saint Vincent and the Grenadines,89665.38461538461
+2021,Western Pacific,Samoa,67102.0
+2021,Europe,San Marino,26356.666666666668
+2021,Africa,Sao Tome and Principe,1100.0
+2021,Eastern Mediterranean,Saudi Arabia,9500.0
+2021,Africa,Senegal,41000.0
+2021,Europe,Serbia,3700.0
+2021,Africa,Seychelles,541000.0
+2021,Africa,Sierra Leone,76000.0
+2021,Western Pacific,Singapore,67102.0
+2021,Europe,Slovakia,1300.0
+2021,Europe,Slovenia,870.0
+2021,Western Pacific,Solomon Islands,67102.0
+2021,Eastern Mediterranean,Somalia,24610.0
+2021,Africa,South Africa,7600000.0
+2021,Africa,South Sudan,160000.0
+2021,Europe,Spain,150000.0
+2021,South-East Asia,Sri Lanka,4100.0
+2021,Eastern Mediterranean,Sudan,39000.0
+2021,Americas,Suriname,7000.0
+2021,Europe,Sweden,26356.666666666668
+2021,Europe,Switzerland,26356.666666666668
+2021,Eastern Mediterranean,Syrian Arab Republic,600.0
+2021,Europe,Tajikistan,14000.0
+2021,South-East Asia,Thailand,570000.0
+2021,South-East Asia,Timor-Leste,1400.0
+2021,Africa,Togo,110000.0
+2021,Western Pacific,Tonga,67102.0
+2021,Americas,Trinidad and Tobago,12000.0
+2021,Eastern Mediterranean,Tunisia,6900.0
+2021,Europe,Turkiye,26356.666666666668
+2021,Europe,Turkmenistan,26356.666666666668
+2021,Western Pacific,Tuvalu,67102.0
+2021,Africa,Uganda,1400000.0
+2021,Europe,Ukraine,26356.666666666668
+2021,Eastern Mediterranean,United Arab Emirates,1500.0
+2021,Europe,United Kingdom of Great Britain and Northern Ireland,26356.666666666668
+2021,Africa,United Republic of Tanzania,1700000.0
+2021,Americas,United States of America,89665.38461538461
+2021,Americas,Uruguay,15000.0
+2021,Europe,Uzbekistan,78000.0
+2021,Western Pacific,Vanuatu,67102.0
+2021,Americas,Venezuela (Bolivarian Republic of),87000.0
+2021,Western Pacific,Viet Nam,250000.0
+2021,Eastern Mediterranean,Yemen,9100.0
+2021,Africa,Zambia,1400000.0
+2021,Africa,Zimbabwe,1300000.0
+2022,Eastern Mediterranean,Afghanistan,12000.0
+2022,Europe,Albania,1500.0
+2022,Africa,Algeria,28000.0
+2022,Europe,Andorra,26273.225806451614
+2022,Africa,Angola,310000.0
+2022,Americas,Antigua and Barbuda,92715.38461538461
+2022,Americas,Argentina,92715.38461538461
+2022,Europe,Armenia,5900.0
+2022,Western Pacific,Australia,74136.66666666667
+2022,Europe,Austria,26273.225806451614
+2022,Europe,Azerbaijan,11000.0
+2022,Americas,Bahamas,3900.0
+2022,Eastern Mediterranean,Bahrain,26281.11111111111
+2022,South-East Asia,Bangladesh,16000.0
+2022,Americas,Barbados,2200.0
+2022,Europe,Belarus,27000.0
+2022,Europe,Belgium,19000.0
+2022,Americas,Belize,3700.0
+2022,Africa,Benin,72000.0
+2022,South-East Asia,Bhutan,1100.0
+2022,Americas,Bolivia (Plurinational State of),30000.0
+2022,Europe,Bosnia and Herzegovina,26273.225806451614
+2022,Africa,Botswana,340000.0
+2022,Americas,Brazil,990000.0
+2022,Western Pacific,Brunei Darussalam,74136.66666666667
+2022,Europe,Bulgaria,3600.0
+2022,Africa,Burkina Faso,97000.0
+2022,Africa,Burundi,80000.0
+2022,Africa,Cabo Verde,3600.0
+2022,Western Pacific,Cambodia,76000.0
+2022,Africa,Cameroon,480000.0
+2022,Americas,Canada,92715.38461538461
+2022,Africa,Central African Republic,120000.0
+2022,Africa,Chad,120000.0
+2022,Americas,Chile,83000.0
+2022,Western Pacific,China,74136.66666666667
+2022,Americas,Colombia,190000.0
+2022,Africa,Comoros,200.0
+2022,Africa,Congo,140000.0
+2022,Western Pacific,Cook Islands,74136.66666666667
+2022,Americas,Costa Rica,17000.0
+2022,Africa,Cote d'Ivoire,410000.0
+2022,Europe,Croatia,1800.0
+2022,Americas,Cuba,42000.0
+2022,Europe,Cyprus,26273.225806451614
+2022,Europe,Czechia,3900.0
+2022,South-East Asia,Democratic People's Republic of Korea,393280.0
+2022,Africa,Democratic Republic of the Congo,490000.0
+2022,Europe,Denmark,6900.0
+2022,Eastern Mediterranean,Djibouti,26281.11111111111
+2022,Americas,Dominica,92715.38461538461
+2022,Americas,Dominican Republic,79000.0
+2022,Americas,Ecuador,48000.0
+2022,Eastern Mediterranean,Egypt,34000.0
+2022,Americas,El Salvador,23000.0
+2022,Africa,Equatorial Guinea,72000.0
+2022,Africa,Eritrea,12000.0
+2022,Europe,Estonia,7300.0
+2022,Africa,Eswatini,220000.0
+2022,Africa,Ethiopia,610000.0
+2022,Western Pacific,Fiji,2000.0
+2022,Europe,Finland,26273.225806451614
+2022,Europe,France,200000.0
+2022,Africa,Gabon,49000.0
+2022,Africa,Gambia,26000.0
+2022,Europe,Georgia,8500.0
+2022,Europe,Germany,26273.225806451614
+2022,Africa,Ghana,350000.0
+2022,Europe,Greece,17000.0
+2022,Americas,Grenada,92715.38461538461
+2022,Americas,Guatemala,31000.0
+2022,Africa,Guinea,130000.0
+2022,Africa,Guinea-Bissau,34000.0
+2022,Americas,Guyana,9600.0
+2022,Americas,Haiti,140000.0
+2022,Americas,Honduras,20000.0
+2022,Europe,Hungary,26273.225806451614
+2022,Europe,Iceland,500.0
+2022,South-East Asia,India,2500000.0
+2022,South-East Asia,Indonesia,540000.0
+2022,Eastern Mediterranean,Iran (Islamic Republic of),46000.0
+2022,Eastern Mediterranean,Iraq,4000.0
+2022,Europe,Ireland,26273.225806451614
+2022,Europe,Israel,26273.225806451614
+2022,Europe,Italy,140000.0
+2022,Americas,Jamaica,30000.0
+2022,Western Pacific,Japan,74136.66666666667
+2022,Eastern Mediterranean,Jordan,640.0
+2022,Europe,Kazakhstan,26273.225806451614
+2022,Africa,Kenya,1400000.0
+2022,Western Pacific,Kiribati,74136.66666666667
+2022,Eastern Mediterranean,Kuwait,800.0
+2022,Europe,Kyrgyzstan,11000.0
+2022,Western Pacific,Lao People's Democratic Republic,17000.0
+2022,Europe,Latvia,7500.0
+2022,Eastern Mediterranean,Lebanon,2600.0
+2022,Africa,Lesotho,270000.0
+2022,Africa,Liberia,34000.0
+2022,Eastern Mediterranean,Libya,7900.0
+2022,Europe,Lithuania,3600.0
+2022,Europe,Luxembourg,1300.0
+2022,Africa,Madagascar,70000.0
+2022,Africa,Malawi,1000000.0
+2022,Western Pacific,Malaysia,86000.0
+2022,South-East Asia,Maldives,100.0
+2022,Africa,Mali,120000.0
+2022,Europe,Malta,870.0
+2022,Western Pacific,Marshall Islands,74136.66666666667
+2022,Africa,Mauritania,8300.0
+2022,Africa,Mauritius,540231.8181818182
+2022,Americas,Mexico,370000.0
+2022,Western Pacific,Micronesia (Federated States of),74136.66666666667
+2022,Europe,Monaco,26273.225806451614
+2022,Western Pacific,Mongolia,630.0
+2022,Europe,Montenegro,500.0
+2022,Eastern Mediterranean,Morocco,21000.0
+2022,Africa,Mozambique,2400000.0
+2022,South-East Asia,Myanmar,280000.0
+2022,Africa,Namibia,220000.0
+2022,Western Pacific,Nauru,74136.66666666667
+2022,South-East Asia,Nepal,30000.0
+2022,Europe,Netherlands (Kingdom of the),26273.225806451614
+2022,Western Pacific,New Zealand,3600.0
+2022,Americas,Nicaragua,12000.0
+2022,Africa,Niger,34000.0
+2022,Africa,Nigeria,540231.8181818182
+2022,Western Pacific,Niue,74136.66666666667
+2022,Europe,North Macedonia,600.0
+2022,Europe,Norway,26273.225806451614
+2022,Eastern Mediterranean,Oman,2500.0
+2022,Eastern Mediterranean,Pakistan,270000.0
+2022,Western Pacific,Palau,74136.66666666667
+2022,Americas,Panama,29000.0
+2022,Western Pacific,Papua New Guinea,72000.0
+2022,Americas,Paraguay,21000.0
+2022,Americas,Peru,110000.0
+2022,Western Pacific,Philippines,160000.0
+2022,Europe,Poland,26273.225806451614
+2022,Europe,Portugal,46000.0
+2022,Eastern Mediterranean,Qatar,760.0
+2022,Western Pacific,Republic of Korea,74136.66666666667
+2022,Europe,Republic of Moldova,16000.0
+2022,Europe,Romania,20000.0
+2022,Europe,Russian Federation,26273.225806451614
+2022,Africa,Rwanda,230000.0
+2022,Americas,Saint Kitts and Nevis,92715.38461538461
+2022,Americas,Saint Lucia,92715.38461538461
+2022,Americas,Saint Vincent and the Grenadines,92715.38461538461
+2022,Western Pacific,Samoa,74136.66666666667
+2022,Europe,San Marino,26273.225806451614
+2022,Africa,Sao Tome and Principe,1100.0
+2022,Eastern Mediterranean,Saudi Arabia,11000.0
+2022,Africa,Senegal,42000.0
+2022,Europe,Serbia,3800.0
+2022,Africa,Seychelles,540231.8181818182
+2022,Africa,Sierra Leone,77000.0
+2022,Western Pacific,Singapore,74136.66666666667
+2022,Europe,Slovakia,1500.0
+2022,Europe,Slovenia,900.0
+2022,Western Pacific,Solomon Islands,74136.66666666667
+2022,Eastern Mediterranean,Somalia,26281.11111111111
+2022,Africa,South Africa,7600000.0
+2022,Africa,South Sudan,160000.0
+2022,Europe,Spain,150000.0
+2022,South-East Asia,Sri Lanka,4100.0
+2022,Eastern Mediterranean,Sudan,41000.0
+2022,Americas,Suriname,7200.0
+2022,Europe,Sweden,26273.225806451614
+2022,Europe,Switzerland,26273.225806451614
+2022,Eastern Mediterranean,Syrian Arab Republic,660.0
+2022,Europe,Tajikistan,15000.0
+2022,South-East Asia,Thailand,560000.0
+2022,South-East Asia,Timor-Leste,1500.0
+2022,Africa,Togo,110000.0
+2022,Western Pacific,Tonga,74136.66666666667
+2022,Americas,Trinidad and Tobago,12000.0
+2022,Eastern Mediterranean,Tunisia,7100.0
+2022,Europe,Turkiye,26273.225806451614
+2022,Europe,Turkmenistan,26273.225806451614
+2022,Western Pacific,Tuvalu,74136.66666666667
+2022,Africa,Uganda,1400000.0
+2022,Europe,Ukraine,26273.225806451614
+2022,Eastern Mediterranean,United Arab Emirates,1600.0
+2022,Europe,United Kingdom of Great Britain and Northern Ireland,26273.225806451614
+2022,Africa,United Republic of Tanzania,1700000.0
+2022,Americas,United States of America,92715.38461538461
+2022,Americas,Uruguay,15000.0
+2022,Europe,Uzbekistan,82000.0
+2022,Western Pacific,Vanuatu,74136.66666666667
+2022,Americas,Venezuela (Bolivarian Republic of),92000.0
+2022,Western Pacific,Viet Nam,250000.0
+2022,Eastern Mediterranean,Yemen,9500.0
+2022,Africa,Zambia,1400000.0
+2022,Africa,Zimbabwe,1300000.0
